@@ -1,0 +1,67 @@
+springdoc:
+  api-docs:
+    enabled: true
+    path: /v3/api-docs
+  swagger-ui:
+    enabled: true
+    path: /api
+server:
+  port: 7002
+  tomcat:
+    max-connections: 10000
+    max-threads: 200
+
+spring:
+  jpa:
+    database-platform: org.hibernate.dialect.MySQLDialect
+    generate-ddl: true
+    hibernate:
+      ddl-auto: update
+      naming:
+        implicit-strategy: org.hibernate.boot.model.naming.ImplicitNamingStrategyLegacyJpaImpl
+        physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
+    properties:
+      hibernate.dialect: org.hibernate.dialect.MySQLDialect
+    show-sql: true
+  datasource:
+    url: jdbc:mysql://127.0.0.1:3306/prompthelp
+    username: root
+    password: root
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  servlet:
+    multipart:
+      max-file-size: 1MB
+      max-request-size: 1MB
+  jackson:
+    parser:
+      allow-unquoted-control-chars: true
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    properties:
+      mail:
+        smtp:
+          auth: true
+          connectiontimeout: 5000
+          timeout: 5000
+          writetimeout: 5000
+          starttls:
+            enable: true
+    password: <password>
+    username: shadabeqbal2008@gmail.com
+
+emailconfig:
+  adminEmail: shadabeqbal2008@gmail.com
+  infoEmail: shadabeqbal2008@gmail.com
+  contactEmail: shadabeqbal2008@gmail.com
+  noReplyEmail: shadabeqbal2008@gmail.com
+  promotionsEmail: shadabeqbal2008@gmail.com
+
+commonconfig:
+  allowedEmailDomains:
+    - "@gmail.com"
+    - "@yahoo.com"
+    - "@outlook.com"
+    - "@live.com"
+    - "@rediffmail.com"
+    - "@apple.com"

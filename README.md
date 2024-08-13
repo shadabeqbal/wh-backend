@@ -26,14 +26,8 @@ flowchart TD
     D --> D.1{Years of Experience}
 
 
-graph TD
-    A[Start] --> B[Step 1]
-    B --> C[Step 2]
-    C --> D[End]
 
-    classDef dottedBox fill:#f9f9f9,stroke:#999,stroke-dasharray: 3 3;
-    class A,B,C,D dottedBox;
-
+    
 
    
 

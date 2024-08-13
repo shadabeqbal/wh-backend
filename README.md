@@ -8,12 +8,12 @@ flowchart TD
     A[Start] --> D{Fitness Trainer}
     A[Start] --> E{Pschycologist}
     A[Start] --> F{Path Labs}
-    B -->|Yes| C[Continue]
-    B -->|No| D[Fix it]
-    D --> E{Fixed?}
-    E -->|Yes| C[Continue]
-    E -->|No| F[Retry]
-    F --> D
-    C --> G[Finish]
+    G -->|Yes| C[Continue]
+    H -->|No| D[Fix it]
+    I --> E{Fixed?}
+    J -->|Yes| C[Continue]
+    K -->|No| F[Retry]
+    L --> D
+    M --> G[Finish]
 
  

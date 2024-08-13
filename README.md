@@ -16,7 +16,7 @@ flowchart TD
     A[Start] --> D{Fitness Trainer}
     A[Start] --> E{Pschycologist}
     A[Start] --> F{Path Labs}
-    B -->|No| D[Fix it]
+    B -->|No| G[Fix it]
    
 
  

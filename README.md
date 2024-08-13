@@ -2,7 +2,7 @@
 # Example Flowchart
   
 
-Landing Page (Signup/Login)
+After Signup
 ```mermaid
 flowchart TD
     

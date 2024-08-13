@@ -3,7 +3,11 @@
 Women
 ```mermaid
 flowchart TD
-    A[Start] --> B{Is it working?}
+    A[Start] --> B{Women}
+    A[Start] --> B{Gynecologist}
+    A[Start] --> B{Fitness Trainer}
+    A[Start] --> B{Pschycologist}
+    A[Start] --> B{Path Labs}
     B -->|Yes| C[Continue]
     B -->|No| D[Fix it]
     D --> E{Fixed?}

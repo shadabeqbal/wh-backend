@@ -16,7 +16,16 @@ flowchart TD
     A[Start] --> D{Fitness Trainer}
     A[Start] --> E{Pschycologist}
     A[Start] --> F{Path Labs}
-    B -->|No| G[Fix it]
+
+    F --> G[First Name, Last Name]
+    E --> G[First Name, Last Name]
+    D --> G[First Name, Last Name]
+    C --> G[First Name, Last Name]
+    B --> G[First Name, Last Name]
+    G --> H[Age]
+    H --> I[Location]
+   
+
    
 
  

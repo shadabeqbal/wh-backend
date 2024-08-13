@@ -1,13 +1,7 @@
 # wh-backend
 # Example Flowchart
 
- G -->|Yes| C[Continue]
-    H -->|No| D[Fix it]
-    I --> E{Fixed?}
-    J -->|Yes| C[Continue]
-    K -->|No| F[Retry]
-    L --> D
-    M --> G[Finish]
+
 Women
 ```mermaid
 flowchart TD
@@ -23,7 +17,7 @@ flowchart TD
     C --> G[First Name, Last Name]
     B --> G[First Name, Last Name]
     G --> H[Age]
-    G --> I[Email Address]
+    H --> I[Email Address]
     I --> J[Location/Pincode]
    
 

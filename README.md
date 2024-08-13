@@ -23,8 +23,10 @@ flowchart TD
     I --> J[Location/Pincode]
 
 
-    D --> D.1{Years of Experience}
-
+    D --> D.1[Years of Experience]
+    D.1 --> D.2[Degree]
+    F --> D.1
+    E --> D.1
 
 
     

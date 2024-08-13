@@ -2,13 +2,12 @@
 
 # Example Flowchart
     
-# Example Flowchart
-  
 
-After Signup
+
 ```mermaid
 flowchart TD
     
+ After Signup   
     A[Start] --> C{Women/Spouse}
     A[Start] --> D{Gynecologist}
     A[Start] --> E{Fitness Trainer}

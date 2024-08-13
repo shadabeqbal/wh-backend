@@ -5,8 +5,8 @@
 Landing Page (Signup/Login)
 ```mermaid
 flowchart TD
-    A[Start] --> B{Women's Partner}
-    A[Start] --> C{Women}
+    
+    A[Start] --> C{Women/Spouse}
     A[Start] --> D{Gynecologist}
     A[Start] --> E{Fitness Trainer}
     A[Start] --> F{Pschycologist}

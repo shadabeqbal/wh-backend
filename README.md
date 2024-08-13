@@ -1,6 +1,6 @@
 # wh-backend
 # Example Flowchart
-   %%{init: {'theme': 'base', 'themeVariables': { 'boxBkgColor': '#f9f9f9', 'boxBorderColor': '#999', 'boxBorderStyle': 'dotted'}}}%%
+  
 
 Landing Page (Signup/Login)
 ```mermaid

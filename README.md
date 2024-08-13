@@ -23,7 +23,8 @@ flowchart TD
     C --> G[First Name, Last Name]
     B --> G[First Name, Last Name]
     G --> H[Age]
-    H --> I[Location]
+    G --> I[Email Address]
+    I --> J[Location/Pincode]
    
 
    

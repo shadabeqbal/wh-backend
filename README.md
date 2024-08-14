@@ -12,7 +12,7 @@ flowchart TD
     S[Signup] --> S1[First Name, Last Name]
     S1 --> S2[Email Address]
     S2 --> S3[Login through Gmail or Facebook]
-
+```
 
 
 ```mermaid
@@ -42,7 +42,7 @@ flowchart TD
 
     FF --> FF.1[need to think]
     FF.1 --> FF.2[Websites]
-    
+  ```  
     
 
    

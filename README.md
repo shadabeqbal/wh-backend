@@ -6,6 +6,16 @@
 
 ```mermaid
 flowchart TD
+
+
+
+    S[Signup] --> S1[First Name, Last Name]
+    S1 --> S2[Email Address]
+    S2 --> S3[Login through Gmail or Facebook]
+
+
+
+
     
     A[Start] --> C{Women/Spouse}
     A[Start] --> D{Gynecologist}

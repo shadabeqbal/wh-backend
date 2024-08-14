@@ -1,0 +1,1001 @@
+Age,Weeks_of_Pregnancy,Previous_Pregnancies,Pre_Existing_Conditions,Mental_Health_History,Dietary_Preferences,Gynecologist_Specialization,Gynecologist_Years_of_Experience,Gynecologist_Patient_Satisfaction_Rating,Gynecologist_Proximity_to_Patient,Psychologist_Specialization,Psychologist_Years_of_Experience,Psychologist_Patient_Satisfaction_Rating,Psychologist_Proximity_to_Patient,Nutritionist_Specialization,Nutritionist_Years_of_Experience,Nutritionist_Patient_Satisfaction_Rating,Nutritionist_Proximity_to_Patient
+24,22,3,Hypertension,Anxiety,None,Prenatal Nutrition,6,3.12,7.9,Prenatal Nutrition,5,4.69,10.0,Postpartum Mental Health,37,3.52,11.4
+37,30,2,Diabetes,None,None,Prenatal Mental Health,3,4.78,5.1,Postpartum Mental Health,13,3.0,8.9,Postpartum Mental Health,9,3.66,2.7
+32,17,3,None,Anxiety,None,High-Risk,10,3.66,13.7,Gestational Diabetes,5,3.34,17.0,Gestational Diabetes,28,3.22,19.9
+28,26,1,Diabetes,None,None,General,5,3.63,19.4,Prenatal Nutrition,32,3.06,5.4,Prenatal Nutrition,32,4.87,18.0
+25,36,0,None,Both,None,High-Risk,26,4.02,4.3,Prenatal Nutrition,21,3.66,1.1,Gestational Diabetes,3,3.58,1.4
+38,1,3,None,None,None,Prenatal Mental Health,21,4.88,12.3,High-Risk,24,4.82,13.4,Gestational Diabetes,32,4.04,17.3
+24,8,3,None,None,Vegetarian,General,26,3.1,9.1,Postpartum Mental Health,18,3.19,4.8,Postpartum Mental Health,5,3.78,18.5
+43,35,1,None,None,Vegan,Postpartum Mental Health,38,3.7,9.5,Gestational Diabetes,21,4.21,17.9,Prenatal Nutrition,8,4.92,7.7
+36,15,1,Diabetes,None,None,General,26,4.71,5.8,Prenatal Mental Health,10,3.9,17.3,Prenatal Nutrition,14,3.67,14.7
+40,22,3,Hypertension,Anxiety,None,Postpartum Mental Health,8,3.79,16.7,General,24,4.88,2.5,Prenatal Mental Health,3,4.56,9.4
+28,14,2,Diabetes,Anxiety,None,General,5,3.4,10.2,Postpartum Mental Health,21,3.25,3.0,Postpartum Mental Health,24,4.71,13.4
+28,26,3,Hypertension,None,None,Prenatal Mental Health,15,3.85,11.3,Prenatal Mental Health,25,3.42,10.4,Prenatal Nutrition,13,3.87,7.5
+41,28,1,None,None,Vegetarian,Prenatal Mental Health,16,3.77,6.8,Postpartum Mental Health,23,3.06,12.6,Gestational Diabetes,29,3.76,7.1
+38,23,0,None,None,Vegetarian,General,1,4.83,4.5,Prenatal Mental Health,22,3.87,6.2,High-Risk,8,4.5,9.1
+21,14,0,None,None,None,High-Risk,16,4.52,2.6,Prenatal Mental Health,4,3.56,14.6,High-Risk,31,4.83,3.8
+25,24,2,None,Depression,None,Prenatal Mental Health,37,4.01,14.6,Postpartum Mental Health,34,4.74,12.3,Postpartum Mental Health,26,4.51,16.8
+41,2,3,None,Anxiety,None,Postpartum Mental Health,3,4.98,4.7,High-Risk,6,4.21,7.2,Prenatal Mental Health,18,3.45,7.6
+20,26,0,None,None,Vegan,Postpartum Mental Health,31,3.93,14.1,Postpartum Mental Health,28,4.23,1.5,Prenatal Mental Health,18,4.78,8.6
+39,14,3,Hypertension,Anxiety,Gluten-Free,Prenatal Nutrition,13,3.12,8.4,Postpartum Mental Health,31,4.06,15.3,Prenatal Nutrition,7,3.78,18.0
+38,7,1,Hypertension,None,None,Gestational Diabetes,16,3.52,8.9,Prenatal Mental Health,35,3.18,5.1,Postpartum Mental Health,38,4.15,10.4
+19,3,0,Both,Depression,None,Gestational Diabetes,21,3.87,9.9,General,39,3.89,16.9,High-Risk,16,4.66,11.3
+41,23,2,Diabetes,None,Vegan,Gestational Diabetes,2,3.31,8.0,Prenatal Mental Health,23,5.0,9.0,Gestational Diabetes,33,3.38,19.2
+29,18,1,Hypertension,Anxiety,Vegan,Postpartum Mental Health,27,4.9,2.9,Prenatal Nutrition,6,4.67,12.0,Prenatal Nutrition,3,4.57,17.8
+23,38,2,None,Depression,None,Prenatal Nutrition,38,4.53,6.9,Postpartum Mental Health,16,4.79,17.6,Gestational Diabetes,38,4.19,4.2
+19,35,1,Hypertension,None,None,Gestational Diabetes,26,3.54,13.6,Gestational Diabetes,2,4.65,17.4,Prenatal Nutrition,4,4.79,10.0
+38,15,0,Diabetes,Anxiety,None,Gestational Diabetes,38,4.18,13.6,Postpartum Mental Health,24,3.21,8.1,General,36,3.34,19.5
+18,25,2,None,None,None,General,25,4.44,6.4,High-Risk,17,3.45,5.0,Gestational Diabetes,4,3.84,8.1
+29,37,2,None,None,None,General,11,4.88,9.7,Gestational Diabetes,1,3.01,15.7,Postpartum Mental Health,9,4.67,8.1
+43,28,1,Diabetes,None,None,General,8,4.76,4.7,Prenatal Mental Health,6,3.61,9.2,Gestational Diabetes,17,3.04,4.7
+39,10,2,None,Both,None,High-Risk,8,4.03,5.0,High-Risk,5,3.22,4.6,Gestational Diabetes,17,3.22,3.2
+29,39,1,Hypertension,Depression,None,Gestational Diabetes,33,4.55,1.4,Postpartum Mental Health,29,3.95,18.2,Prenatal Nutrition,33,4.98,15.1
+42,17,1,Hypertension,Anxiety,Vegetarian,High-Risk,7,4.12,18.0,Prenatal Mental Health,12,4.35,4.8,High-Risk,20,3.56,15.6
+34,39,1,None,Anxiety,None,Prenatal Nutrition,38,4.11,5.0,Prenatal Mental Health,39,4.75,1.5,General,14,4.95,19.4
+44,22,1,None,None,None,Postpartum Mental Health,21,3.23,5.3,Prenatal Nutrition,3,4.5,1.4,Gestational Diabetes,22,3.37,15.7
+44,26,0,None,Depression,None,Gestational Diabetes,8,3.25,6.3,Prenatal Nutrition,1,4.88,12.8,High-Risk,27,3.72,5.6
+27,25,1,None,None,None,Postpartum Mental Health,21,4.06,3.4,General,27,3.11,13.6,Prenatal Mental Health,3,4.51,1.8
+33,17,3,None,None,Gluten-Free,General,20,3.54,13.1,Prenatal Nutrition,24,3.02,6.9,General,24,4.32,19.7
+32,13,2,Diabetes,None,None,Gestational Diabetes,8,3.04,2.4,Gestational Diabetes,19,4.32,7.1,General,30,4.16,7.5
+32,20,3,None,Anxiety,None,Prenatal Mental Health,31,4.45,3.5,Prenatal Mental Health,8,3.58,7.5,Prenatal Nutrition,8,4.06,6.9
+36,25,0,Hypertension,Anxiety,Vegetarian,High-Risk,29,3.06,13.3,Prenatal Nutrition,2,3.51,13.9,Gestational Diabetes,22,4.69,18.2
+29,4,3,None,None,None,High-Risk,9,4.19,7.5,General,30,3.66,2.1,Prenatal Mental Health,25,3.47,12.1
+40,10,2,Diabetes,None,Vegan,Gestational Diabetes,15,4.08,14.5,Postpartum Mental Health,30,3.54,18.7,Prenatal Nutrition,10,3.88,5.1
+37,3,3,None,Anxiety,None,General,30,4.94,11.6,Gestational Diabetes,39,4.02,5.2,Postpartum Mental Health,29,3.31,17.9
+42,18,0,None,None,None,High-Risk,26,3.97,5.9,Prenatal Nutrition,32,3.88,20.0,High-Risk,1,4.19,19.9
+20,36,1,Diabetes,Anxiety,None,General,10,3.13,13.4,Prenatal Mental Health,1,4.02,4.3,High-Risk,21,3.5,2.6
+22,22,3,Diabetes,Both,None,Prenatal Nutrition,29,4.1,3.2,Postpartum Mental Health,38,4.35,15.7,Prenatal Nutrition,39,3.67,17.4
+36,34,0,None,None,Vegan,Postpartum Mental Health,16,4.68,11.2,Prenatal Mental Health,13,3.77,5.2,High-Risk,24,3.94,8.4
+24,8,0,Diabetes,None,Vegan,Prenatal Mental Health,36,4.99,9.3,Postpartum Mental Health,11,3.5,2.5,Gestational Diabetes,9,3.05,11.0
+38,19,2,None,Anxiety,None,Postpartum Mental Health,20,3.86,6.1,Gestational Diabetes,10,3.33,17.6,High-Risk,26,3.18,18.4
+26,37,2,None,Anxiety,None,Postpartum Mental Health,37,3.64,12.5,Prenatal Mental Health,26,3.7,17.3,Gestational Diabetes,9,4.37,19.5
+24,6,3,None,None,Vegan,Prenatal Nutrition,22,4.81,17.6,Prenatal Nutrition,20,4.48,8.7,Postpartum Mental Health,20,3.86,6.0
+35,26,1,None,Both,Vegan,High-Risk,7,3.38,20.0,Prenatal Nutrition,17,4.51,14.3,Prenatal Mental Health,35,4.73,5.0
+21,34,0,Hypertension,None,None,Prenatal Mental Health,23,4.23,12.5,General,17,4.33,11.6,General,36,4.39,2.5
+42,6,3,None,None,None,High-Risk,29,3.81,8.7,Postpartum Mental Health,4,3.47,17.2,Prenatal Nutrition,36,3.02,11.7
+31,37,0,None,Anxiety,None,Gestational Diabetes,16,3.08,5.3,General,5,4.18,7.0,Prenatal Nutrition,9,4.23,1.3
+35,33,0,Hypertension,Depression,Vegan,Postpartum Mental Health,38,3.69,5.9,High-Risk,23,4.14,10.9,Gestational Diabetes,22,3.19,8.8
+43,22,1,Diabetes,None,None,Gestational Diabetes,28,3.53,10.1,Prenatal Nutrition,10,3.97,10.2,Postpartum Mental Health,1,4.56,2.4
+26,21,1,None,Anxiety,None,General,38,4.37,8.0,Postpartum Mental Health,28,4.1,7.7,Postpartum Mental Health,5,4.98,8.7
+43,6,3,Hypertension,None,Vegetarian,Postpartum Mental Health,31,4.9,18.4,Gestational Diabetes,33,3.98,17.9,General,9,4.06,1.8
+38,6,1,None,None,None,High-Risk,14,3.54,8.0,General,26,4.13,4.2,Prenatal Mental Health,37,4.37,16.9
+19,4,1,Diabetes,None,None,Postpartum Mental Health,33,4.62,8.1,Gestational Diabetes,29,4.43,3.8,Prenatal Nutrition,38,3.47,5.0
+37,30,3,Hypertension,Depression,None,General,9,3.11,8.3,Gestational Diabetes,27,3.22,12.0,Gestational Diabetes,19,3.88,7.2
+32,11,1,Both,None,None,Prenatal Nutrition,27,4.08,16.9,Gestational Diabetes,18,4.5,13.5,Postpartum Mental Health,8,4.71,17.5
+24,30,2,None,None,None,Gestational Diabetes,24,3.14,13.4,General,10,3.27,4.7,Prenatal Nutrition,32,3.33,15.2
+29,31,0,None,None,None,Gestational Diabetes,13,4.87,12.7,High-Risk,5,3.13,8.4,Gestational Diabetes,13,3.53,5.2
+25,24,0,None,Depression,None,High-Risk,26,4.53,7.3,General,10,4.95,19.0,High-Risk,20,3.89,2.4
+32,9,0,None,None,None,Postpartum Mental Health,29,4.32,16.5,Prenatal Mental Health,21,4.91,5.7,Prenatal Nutrition,36,4.42,14.6
+20,3,0,None,Anxiety,Vegan,High-Risk,28,4.65,1.7,Prenatal Nutrition,24,3.12,13.7,Prenatal Mental Health,37,3.75,8.4
+31,31,3,Diabetes,None,Vegetarian,Prenatal Nutrition,28,4.3,17.5,General,38,3.89,15.1,Gestational Diabetes,30,4.86,15.6
+34,37,0,None,None,None,Postpartum Mental Health,8,4.94,10.7,General,3,3.37,9.5,Prenatal Mental Health,10,3.19,9.5
+21,36,0,None,None,None,Postpartum Mental Health,23,4.43,8.6,High-Risk,31,3.97,18.8,Prenatal Nutrition,31,3.74,7.6
+35,24,0,Diabetes,Anxiety,None,High-Risk,29,4.85,10.4,Prenatal Mental Health,37,4.66,15.0,High-Risk,25,4.42,9.6
+25,31,0,None,Depression,None,High-Risk,5,4.03,13.7,General,2,4.9,9.7,Prenatal Mental Health,29,3.45,15.2
+21,6,2,Diabetes,None,None,General,7,3.23,1.2,Prenatal Nutrition,2,4.27,11.8,Postpartum Mental Health,24,4.31,18.1
+19,2,0,None,None,Vegetarian,Prenatal Nutrition,36,4.06,17.6,Prenatal Nutrition,39,3.71,14.2,Gestational Diabetes,39,3.33,1.9
+23,20,2,None,None,None,General,27,3.25,9.5,General,34,4.21,12.3,Prenatal Nutrition,21,3.11,11.0
+39,28,3,None,None,None,Gestational Diabetes,2,4.18,7.5,Gestational Diabetes,20,3.62,17.7,High-Risk,9,3.24,1.6
+27,11,1,None,None,None,Postpartum Mental Health,25,3.96,3.6,Gestational Diabetes,33,4.82,7.8,Postpartum Mental Health,2,4.86,9.9
+21,4,0,Diabetes,None,Vegetarian,High-Risk,9,4.25,9.3,Prenatal Mental Health,4,4.74,6.7,Prenatal Nutrition,4,4.1,17.8
+39,15,1,None,None,None,Postpartum Mental Health,27,3.02,10.4,Prenatal Nutrition,11,4.12,5.1,High-Risk,8,4.59,7.9
+35,6,1,Hypertension,None,Vegetarian,Postpartum Mental Health,1,3.39,8.7,Gestational Diabetes,5,3.65,1.7,Postpartum Mental Health,32,3.67,18.7
+43,30,3,None,None,None,Prenatal Mental Health,23,3.98,13.9,Prenatal Nutrition,25,3.59,1.8,Prenatal Mental Health,14,4.19,13.0
+29,38,1,None,Anxiety,Vegan,Gestational Diabetes,10,4.9,9.0,Prenatal Mental Health,37,3.07,17.5,Prenatal Nutrition,13,3.99,18.7
+19,2,2,Diabetes,None,Vegan,Prenatal Mental Health,25,3.77,19.3,Prenatal Mental Health,34,4.63,13.9,Prenatal Nutrition,21,4.89,15.4
+27,15,1,None,None,None,Postpartum Mental Health,3,3.85,12.4,Gestational Diabetes,9,3.9,13.6,Prenatal Mental Health,24,4.5,3.0
+21,11,1,Hypertension,Anxiety,None,High-Risk,6,4.43,16.3,General,6,3.65,12.7,General,18,4.46,5.4
+31,8,1,Both,None,None,Postpartum Mental Health,6,4.21,3.1,Postpartum Mental Health,18,3.94,17.1,Postpartum Mental Health,26,3.09,8.5
+33,26,0,Hypertension,None,None,Gestational Diabetes,2,3.6,8.5,High-Risk,14,4.64,10.1,Prenatal Mental Health,32,4.1,4.2
+32,5,0,Diabetes,None,Vegetarian,Prenatal Mental Health,18,3.82,7.4,Postpartum Mental Health,19,3.25,17.5,Prenatal Nutrition,33,3.93,10.4
+25,6,2,None,None,Vegan,High-Risk,23,3.44,11.8,Postpartum Mental Health,14,4.72,7.8,Postpartum Mental Health,31,4.86,10.0
+31,26,2,None,None,Vegetarian,Postpartum Mental Health,2,4.93,17.4,Prenatal Nutrition,17,4.8,18.6,Postpartum Mental Health,18,3.51,19.2
+40,4,0,None,None,Vegan,Prenatal Nutrition,12,3.26,2.5,Prenatal Mental Health,35,4.89,14.3,General,35,3.54,9.2
+42,19,2,Hypertension,Depression,None,Gestational Diabetes,22,3.74,2.4,Prenatal Nutrition,29,3.79,5.9,Prenatal Nutrition,12,3.82,15.9
+25,20,0,Both,None,None,Gestational Diabetes,37,3.05,17.2,Gestational Diabetes,17,3.43,11.7,High-Risk,25,3.49,18.9
+38,33,3,None,None,Vegetarian,Prenatal Nutrition,20,3.44,5.0,High-Risk,8,3.75,11.1,General,31,3.26,17.7
+33,20,1,Hypertension,None,None,Postpartum Mental Health,39,4.56,13.7,Gestational Diabetes,1,3.67,3.6,General,10,4.71,5.0
+30,12,1,None,None,Vegetarian,Gestational Diabetes,24,3.4,11.3,General,36,3.35,12.2,High-Risk,34,4.12,10.4
+35,1,2,Hypertension,None,None,High-Risk,20,3.16,16.8,High-Risk,7,4.21,7.0,High-Risk,3,4.72,7.6
+32,26,0,None,Anxiety,None,Postpartum Mental Health,1,3.95,3.4,Prenatal Nutrition,5,3.95,2.0,General,39,4.66,8.6
+38,14,0,Both,None,Gluten-Free,Postpartum Mental Health,1,3.02,3.5,Prenatal Nutrition,24,4.73,19.0,Postpartum Mental Health,8,3.56,7.9
+41,38,2,Hypertension,None,None,Prenatal Mental Health,17,3.17,11.6,Gestational Diabetes,28,3.06,13.2,Prenatal Mental Health,32,4.1,16.7
+43,37,0,None,None,Gluten-Free,Gestational Diabetes,1,4.62,19.0,Prenatal Nutrition,17,4.29,17.7,Prenatal Mental Health,29,3.17,9.6
+42,11,3,None,None,Gluten-Free,Gestational Diabetes,30,4.54,8.9,Prenatal Nutrition,37,4.53,13.8,General,22,4.83,11.0
+30,36,1,None,Both,Vegetarian,Prenatal Nutrition,3,4.83,7.2,Postpartum Mental Health,20,4.52,7.8,Postpartum Mental Health,20,3.81,19.7
+26,13,2,None,None,Vegetarian,Prenatal Mental Health,11,4.71,12.5,General,3,4.77,10.7,High-Risk,6,3.79,2.1
+32,3,2,None,None,None,Prenatal Mental Health,24,4.37,18.7,Postpartum Mental Health,37,4.46,13.8,Gestational Diabetes,29,3.61,10.3
+30,33,0,Diabetes,None,Vegan,Gestational Diabetes,22,3.1,16.9,Prenatal Nutrition,26,4.86,19.2,General,17,3.92,15.7
+18,6,2,Hypertension,Both,None,Postpartum Mental Health,26,4.57,19.9,Prenatal Mental Health,15,3.67,5.8,Prenatal Nutrition,31,3.5,3.9
+42,10,3,Hypertension,None,None,Prenatal Mental Health,13,4.69,1.4,Postpartum Mental Health,8,4.01,17.6,Postpartum Mental Health,34,3.75,12.6
+24,5,0,None,None,Vegetarian,Prenatal Nutrition,1,4.6,3.1,Prenatal Nutrition,13,3.03,18.6,Prenatal Nutrition,38,4.6,5.5
+26,23,0,Diabetes,Anxiety,None,Prenatal Mental Health,24,4.02,12.6,Prenatal Nutrition,3,3.01,13.7,Prenatal Nutrition,37,4.67,17.5
+41,10,0,Hypertension,Anxiety,None,Prenatal Nutrition,10,3.47,16.6,General,1,3.48,18.7,General,4,3.61,7.2
+18,2,0,None,None,None,Prenatal Mental Health,35,4.69,6.4,Gestational Diabetes,9,3.2,8.6,Postpartum Mental Health,2,3.94,7.3
+29,13,3,Hypertension,None,None,Prenatal Nutrition,24,4.45,5.5,High-Risk,31,3.52,19.1,Prenatal Nutrition,12,4.75,12.4
+25,2,0,Hypertension,None,Vegan,Prenatal Mental Health,28,4.96,16.0,Postpartum Mental Health,26,3.35,14.4,Postpartum Mental Health,35,3.11,4.5
+41,20,2,None,None,None,Prenatal Mental Health,36,3.31,2.1,Postpartum Mental Health,17,3.06,1.8,Prenatal Mental Health,6,4.78,6.4
+28,1,3,None,None,Vegan,High-Risk,16,3.45,8.0,Postpartum Mental Health,34,4.82,18.2,Gestational Diabetes,8,3.44,8.9
+36,37,1,None,None,Vegetarian,Prenatal Nutrition,16,3.42,10.6,Prenatal Nutrition,9,3.02,10.2,Prenatal Nutrition,21,4.36,7.7
+34,9,1,None,None,Vegan,Prenatal Nutrition,17,4.59,11.6,General,13,4.47,9.7,Prenatal Nutrition,35,4.17,11.0
+25,17,2,Diabetes,None,None,Prenatal Nutrition,15,3.37,14.8,Prenatal Nutrition,5,3.3,11.8,Postpartum Mental Health,15,4.11,12.4
+20,9,2,Diabetes,None,Vegetarian,General,16,3.13,7.7,Prenatal Nutrition,13,4.82,3.8,Gestational Diabetes,7,4.72,11.8
+20,11,3,Hypertension,Both,None,Prenatal Mental Health,15,5.0,12.6,Gestational Diabetes,1,4.79,9.9,Prenatal Mental Health,15,3.2,13.4
+18,15,1,None,None,Vegan,Prenatal Nutrition,34,3.05,12.1,Prenatal Mental Health,25,4.31,16.8,Prenatal Nutrition,6,3.69,6.8
+44,24,1,None,None,None,Gestational Diabetes,11,4.67,11.4,General,4,4.34,1.3,General,17,4.08,3.4
+22,38,1,Hypertension,None,Vegan,General,1,3.73,13.2,Postpartum Mental Health,36,3.01,6.2,Postpartum Mental Health,4,4.62,15.5
+27,35,1,Hypertension,Both,Gluten-Free,High-Risk,15,4.68,5.9,High-Risk,10,4.97,1.0,Postpartum Mental Health,22,3.43,17.2
+24,30,1,None,None,None,Prenatal Nutrition,26,4.11,2.6,Postpartum Mental Health,28,4.76,8.9,Prenatal Nutrition,32,4.61,5.9
+43,31,0,Hypertension,None,None,Prenatal Nutrition,4,4.8,3.3,Prenatal Nutrition,6,4.79,14.8,Prenatal Mental Health,22,3.8,8.7
+26,5,2,Diabetes,None,Vegetarian,General,5,4.85,5.3,General,27,4.32,16.2,Prenatal Nutrition,27,3.38,10.5
+24,14,0,None,None,None,Prenatal Mental Health,35,3.02,10.5,General,12,3.69,19.0,High-Risk,15,4.52,11.1
+26,11,1,None,None,Vegan,Gestational Diabetes,13,3.15,17.0,General,3,4.79,12.6,Prenatal Nutrition,22,3.18,13.5
+25,9,3,Diabetes,None,None,High-Risk,10,3.5,14.3,Prenatal Mental Health,33,3.58,5.8,Gestational Diabetes,28,4.03,1.8
+29,34,3,None,None,None,Prenatal Nutrition,11,4.34,16.0,Postpartum Mental Health,10,4.13,18.6,Gestational Diabetes,38,3.13,14.7
+19,12,1,None,Both,Gluten-Free,Prenatal Mental Health,18,4.78,7.7,Prenatal Mental Health,31,3.2,15.7,High-Risk,9,3.71,2.2
+18,35,1,None,None,Vegetarian,Gestational Diabetes,34,3.92,8.7,Gestational Diabetes,15,4.84,11.9,Gestational Diabetes,34,4.2,9.9
+33,35,3,None,None,Vegan,Gestational Diabetes,39,4.21,8.5,High-Risk,7,3.28,14.2,Gestational Diabetes,36,4.11,16.7
+40,1,0,Diabetes,Anxiety,None,High-Risk,23,3.38,4.6,Gestational Diabetes,36,3.45,18.6,General,9,3.81,9.6
+40,22,0,Hypertension,None,Vegetarian,Postpartum Mental Health,7,4.61,2.2,Prenatal Nutrition,14,4.12,14.5,Postpartum Mental Health,15,3.86,3.8
+41,29,1,None,None,None,Gestational Diabetes,39,4.93,12.2,Prenatal Mental Health,14,4.53,8.0,Gestational Diabetes,20,3.45,19.7
+22,8,0,Diabetes,None,Vegetarian,Postpartum Mental Health,3,3.54,19.8,Prenatal Mental Health,3,4.24,14.5,Postpartum Mental Health,8,3.91,17.9
+20,11,3,Diabetes,None,Vegetarian,Gestational Diabetes,12,3.99,4.2,Gestational Diabetes,3,3.46,1.8,Prenatal Mental Health,28,4.91,15.7
+29,37,0,Diabetes,Depression,None,High-Risk,7,3.17,1.9,Prenatal Nutrition,22,3.0,8.3,Prenatal Nutrition,19,4.7,8.8
+25,14,1,None,Depression,None,General,26,4.12,15.8,General,19,4.51,8.7,General,16,3.29,4.5
+39,30,3,None,None,None,High-Risk,33,4.01,5.8,Prenatal Nutrition,35,4.97,4.2,High-Risk,11,3.06,18.9
+44,35,0,Both,None,Vegetarian,High-Risk,37,3.29,16.8,Postpartum Mental Health,12,4.62,1.4,Prenatal Mental Health,8,4.87,11.1
+20,21,2,Diabetes,Depression,None,General,15,3.88,14.4,Gestational Diabetes,5,3.92,3.5,General,33,4.05,17.2
+18,37,3,None,Anxiety,Vegetarian,General,2,3.67,19.0,Prenatal Nutrition,10,4.81,13.4,General,10,4.08,7.5
+20,5,3,None,Depression,None,Prenatal Mental Health,7,4.04,8.8,General,33,3.82,16.2,High-Risk,18,4.56,7.4
+22,19,2,None,None,Vegetarian,Gestational Diabetes,32,4.17,13.6,Prenatal Nutrition,13,4.05,19.8,High-Risk,35,3.63,19.7
+32,14,2,Diabetes,None,Vegetarian,Prenatal Mental Health,4,3.02,9.8,Prenatal Mental Health,35,3.95,7.6,Postpartum Mental Health,3,3.96,10.9
+31,26,3,Hypertension,Anxiety,None,General,20,4.52,13.0,High-Risk,32,3.9,12.4,Prenatal Nutrition,27,4.94,3.7
+20,4,2,None,None,None,Postpartum Mental Health,36,4.43,9.5,Prenatal Mental Health,11,4.55,18.8,Prenatal Mental Health,28,4.34,5.2
+18,25,1,None,None,None,Postpartum Mental Health,32,3.73,4.6,High-Risk,38,4.05,4.2,Prenatal Nutrition,6,3.31,10.2
+22,25,1,Hypertension,None,Vegetarian,High-Risk,28,3.11,10.7,Prenatal Nutrition,24,3.63,14.6,Prenatal Mental Health,14,3.27,1.8
+43,18,1,Diabetes,None,Vegan,Prenatal Nutrition,13,4.51,11.0,Postpartum Mental Health,35,3.52,15.3,General,7,3.41,9.8
+40,8,3,None,None,None,High-Risk,1,4.91,16.4,Prenatal Nutrition,19,3.08,2.7,Gestational Diabetes,10,4.53,9.0
+31,39,2,Diabetes,None,Vegetarian,High-Risk,35,3.48,15.0,General,6,4.17,17.4,Gestational Diabetes,15,3.59,15.8
+24,14,2,Both,Both,None,Prenatal Nutrition,30,3.65,13.6,Prenatal Nutrition,35,3.46,16.4,High-Risk,31,3.04,7.7
+44,32,0,None,None,None,Gestational Diabetes,36,3.37,3.2,High-Risk,4,3.3,1.6,High-Risk,29,4.89,19.7
+26,38,0,Hypertension,Anxiety,Vegan,General,25,4.15,14.7,Prenatal Mental Health,33,4.31,2.7,General,17,3.34,4.4
+32,33,2,None,None,None,Postpartum Mental Health,16,3.31,10.5,Postpartum Mental Health,13,4.36,1.9,General,29,3.02,12.2
+32,23,2,Diabetes,None,None,High-Risk,19,3.71,18.0,Prenatal Nutrition,36,4.5,7.4,Prenatal Mental Health,15,3.47,2.7
+43,15,2,Hypertension,Both,None,Prenatal Nutrition,1,4.39,18.5,Prenatal Nutrition,19,4.01,10.7,General,26,3.47,14.9
+27,33,3,Hypertension,None,None,Prenatal Mental Health,5,4.12,2.0,Prenatal Mental Health,12,4.79,11.1,Prenatal Mental Health,12,3.84,19.9
+30,25,2,Diabetes,None,None,High-Risk,22,3.77,16.6,Postpartum Mental Health,11,4.87,6.1,Prenatal Nutrition,25,4.84,16.6
+36,17,0,None,None,None,Postpartum Mental Health,24,3.84,1.7,Gestational Diabetes,6,4.61,18.3,High-Risk,5,4.76,11.6
+24,33,3,Diabetes,None,Vegetarian,General,37,4.12,8.0,Prenatal Nutrition,12,4.27,8.0,High-Risk,4,3.91,10.2
+34,2,2,Hypertension,Anxiety,None,High-Risk,36,3.01,11.3,Prenatal Nutrition,27,3.61,1.9,Gestational Diabetes,31,3.82,16.9
+37,14,0,None,Depression,None,High-Risk,36,3.16,3.8,Gestational Diabetes,25,4.97,6.7,Gestational Diabetes,3,4.11,18.8
+21,39,3,Hypertension,None,None,Gestational Diabetes,4,4.76,15.2,High-Risk,3,3.55,11.1,High-Risk,3,3.49,19.8
+22,6,2,Diabetes,None,None,Prenatal Nutrition,36,3.16,1.2,High-Risk,3,3.41,8.8,Prenatal Nutrition,26,3.1,8.5
+40,6,2,None,None,Vegetarian,Prenatal Mental Health,18,4.41,4.2,General,20,3.88,6.2,Prenatal Nutrition,17,4.88,19.8
+24,3,2,Diabetes,Anxiety,Gluten-Free,Prenatal Mental Health,16,4.84,12.0,Prenatal Mental Health,28,3.11,3.5,Postpartum Mental Health,10,3.37,4.0
+30,7,3,Diabetes,None,None,General,18,3.54,14.6,Postpartum Mental Health,23,4.96,16.6,Prenatal Mental Health,2,3.4,5.8
+32,8,0,None,None,Vegan,Postpartum Mental Health,22,3.74,18.4,Prenatal Nutrition,3,4.18,19.9,Gestational Diabetes,24,3.94,2.7
+28,15,0,Both,None,None,General,2,4.14,14.4,Prenatal Nutrition,24,4.11,7.3,Prenatal Mental Health,11,3.98,6.2
+21,29,1,None,None,None,High-Risk,21,4.76,13.8,General,6,4.31,8.3,Gestational Diabetes,24,3.04,15.6
+30,33,2,None,None,None,High-Risk,36,4.88,8.5,Prenatal Nutrition,20,3.99,12.7,Postpartum Mental Health,35,3.3,17.2
+24,30,1,None,Anxiety,None,Prenatal Mental Health,39,4.48,1.0,Prenatal Mental Health,11,3.06,14.7,High-Risk,23,3.76,15.8
+44,39,1,Diabetes,None,None,Postpartum Mental Health,39,3.17,3.3,General,32,4.22,8.4,Prenatal Mental Health,32,4.37,13.0
+36,27,0,Hypertension,None,Vegetarian,Prenatal Nutrition,29,4.34,11.2,Prenatal Mental Health,27,4.43,18.2,Gestational Diabetes,23,3.46,10.8
+39,36,3,None,Depression,None,Postpartum Mental Health,26,3.82,13.8,General,21,3.83,11.6,Prenatal Mental Health,34,3.85,14.5
+19,29,3,None,Anxiety,Vegan,High-Risk,21,3.94,8.9,Prenatal Nutrition,13,4.51,9.6,High-Risk,19,4.11,8.4
+27,38,0,Hypertension,None,None,Prenatal Nutrition,17,3.1,14.9,General,22,3.45,13.3,General,2,4.78,17.0
+30,33,3,None,None,None,Postpartum Mental Health,16,3.38,10.9,High-Risk,35,3.44,19.1,Gestational Diabetes,2,3.65,13.9
+42,37,1,Diabetes,None,Vegetarian,Postpartum Mental Health,31,4.58,2.4,Postpartum Mental Health,22,3.32,16.1,General,15,3.27,14.3
+38,27,2,Diabetes,None,None,Prenatal Nutrition,9,3.91,4.6,Prenatal Nutrition,28,3.74,1.8,Postpartum Mental Health,21,3.98,11.2
+23,33,0,Hypertension,None,None,High-Risk,31,3.6,17.0,Gestational Diabetes,21,4.69,7.3,Prenatal Nutrition,35,4.49,17.8
+29,4,2,Both,None,Vegetarian,Postpartum Mental Health,14,3.77,14.8,Postpartum Mental Health,18,4.66,9.9,Prenatal Mental Health,5,3.22,5.8
+29,22,3,None,None,Vegan,Prenatal Nutrition,37,4.71,18.0,Prenatal Nutrition,31,3.77,7.0,Gestational Diabetes,27,3.85,8.2
+37,2,2,Both,Anxiety,Vegetarian,Gestational Diabetes,2,4.5,3.2,Postpartum Mental Health,37,4.18,14.3,Prenatal Mental Health,24,3.04,15.8
+28,10,3,Hypertension,None,Vegetarian,Gestational Diabetes,14,3.54,19.8,High-Risk,21,4.44,16.7,Postpartum Mental Health,7,3.07,10.4
+43,5,3,Hypertension,None,Vegetarian,High-Risk,33,3.24,5.0,Postpartum Mental Health,14,3.48,14.9,Postpartum Mental Health,6,3.97,17.9
+40,10,1,None,None,Vegan,Prenatal Nutrition,35,3.5,1.2,General,25,3.34,19.8,Prenatal Mental Health,33,3.6,7.6
+42,33,3,Diabetes,Both,None,Gestational Diabetes,39,4.84,20.0,Postpartum Mental Health,27,4.94,6.2,Gestational Diabetes,17,4.69,8.0
+24,38,1,None,Anxiety,None,Prenatal Nutrition,20,4.16,6.3,Prenatal Nutrition,23,4.24,17.6,High-Risk,30,4.2,17.9
+18,13,1,None,Anxiety,None,Postpartum Mental Health,2,4.07,13.7,Gestational Diabetes,31,4.96,15.6,High-Risk,8,3.91,9.8
+18,31,1,None,Anxiety,None,High-Risk,19,4.19,4.4,Gestational Diabetes,29,3.68,7.9,Prenatal Nutrition,7,3.82,10.8
+42,36,0,Hypertension,Depression,Vegetarian,Gestational Diabetes,37,3.73,12.0,Prenatal Mental Health,30,4.41,14.9,Prenatal Mental Health,6,3.99,7.3
+44,24,0,Hypertension,None,Vegetarian,Postpartum Mental Health,18,4.61,18.2,Postpartum Mental Health,26,3.45,3.0,Prenatal Mental Health,4,3.08,6.3
+42,15,3,Hypertension,None,None,General,16,4.05,7.1,Gestational Diabetes,20,3.52,16.0,Gestational Diabetes,1,4.79,13.5
+37,29,1,Diabetes,None,None,General,4,3.23,13.7,Postpartum Mental Health,38,4.02,11.1,Prenatal Mental Health,15,5.0,3.3
+30,8,0,None,Anxiety,Vegetarian,High-Risk,12,3.26,4.6,Gestational Diabetes,19,3.64,6.6,Gestational Diabetes,31,3.36,17.7
+26,5,1,Hypertension,Anxiety,None,Gestational Diabetes,29,4.07,12.9,Postpartum Mental Health,27,3.34,13.5,Prenatal Mental Health,25,3.24,15.8
+20,29,2,None,None,Vegetarian,Gestational Diabetes,7,4.87,7.4,Prenatal Nutrition,25,3.53,13.2,Postpartum Mental Health,33,3.29,4.6
+24,4,2,Diabetes,None,None,Gestational Diabetes,14,3.62,5.0,Postpartum Mental Health,38,3.07,5.0,General,35,4.32,14.2
+23,12,2,Diabetes,None,None,Prenatal Nutrition,12,4.74,7.0,Prenatal Nutrition,23,4.41,1.6,Prenatal Mental Health,5,4.32,12.5
+25,2,3,Hypertension,Depression,None,Postpartum Mental Health,35,4.53,4.4,Prenatal Nutrition,29,3.98,9.2,General,5,4.7,4.5
+44,27,1,Hypertension,None,None,Gestational Diabetes,5,3.5,18.1,Prenatal Mental Health,15,3.19,11.8,High-Risk,36,4.5,6.2
+26,31,2,None,None,Vegan,Postpartum Mental Health,17,3.07,8.5,Gestational Diabetes,3,3.34,17.7,Prenatal Nutrition,17,3.9,8.8
+22,36,0,None,None,Vegan,High-Risk,32,3.2,5.7,General,10,3.21,18.6,High-Risk,14,4.23,14.3
+18,36,2,Diabetes,None,Vegetarian,Gestational Diabetes,10,4.46,9.5,Prenatal Nutrition,15,4.23,11.0,Prenatal Mental Health,29,4.38,13.1
+36,26,2,None,Depression,None,High-Risk,17,3.4,7.1,Gestational Diabetes,16,3.19,15.3,Gestational Diabetes,8,4.03,11.1
+27,27,2,None,None,None,Gestational Diabetes,5,3.74,15.1,High-Risk,17,4.51,9.3,High-Risk,34,3.95,15.6
+29,5,3,None,Anxiety,Vegetarian,General,9,4.0,19.5,Postpartum Mental Health,19,3.04,15.2,Postpartum Mental Health,1,4.29,15.4
+41,20,0,Diabetes,None,Vegetarian,Prenatal Mental Health,33,4.45,9.3,High-Risk,11,3.5,4.9,General,29,4.11,12.7
+32,11,1,None,None,None,High-Risk,36,3.23,17.4,Postpartum Mental Health,5,4.78,8.1,Gestational Diabetes,36,4.29,16.0
+44,10,0,None,None,None,Gestational Diabetes,36,3.81,11.8,Prenatal Mental Health,5,4.44,13.1,Gestational Diabetes,37,4.23,7.4
+39,38,1,Hypertension,Anxiety,Vegetarian,Prenatal Mental Health,18,3.97,4.0,Prenatal Nutrition,14,3.15,1.3,Prenatal Mental Health,29,4.44,17.7
+41,6,3,Diabetes,None,None,High-Risk,9,4.08,14.1,General,26,4.64,14.7,Postpartum Mental Health,5,4.29,12.7
+26,8,3,None,None,None,Prenatal Nutrition,29,4.64,10.8,Prenatal Nutrition,8,3.99,16.9,General,32,4.04,16.6
+37,23,3,None,None,None,Gestational Diabetes,14,3.34,13.4,Postpartum Mental Health,5,4.69,8.6,Postpartum Mental Health,24,4.36,11.4
+34,26,3,None,Depression,None,Prenatal Nutrition,25,4.62,17.9,General,7,4.2,9.5,High-Risk,19,3.9,5.2
+34,12,1,None,None,Vegan,General,15,4.39,9.4,Prenatal Nutrition,16,4.36,17.2,Prenatal Mental Health,12,3.48,11.3
+43,26,2,None,Anxiety,Gluten-Free,Gestational Diabetes,6,4.11,18.1,General,14,4.99,15.7,Gestational Diabetes,1,3.0,8.1
+37,13,1,Hypertension,None,None,General,29,4.4,15.3,Postpartum Mental Health,37,3.46,6.5,Gestational Diabetes,7,4.12,14.3
+29,18,0,Hypertension,None,None,Prenatal Mental Health,15,3.82,10.3,Prenatal Mental Health,4,4.25,7.2,High-Risk,17,4.18,10.0
+24,25,3,Hypertension,None,None,High-Risk,29,3.28,12.5,Prenatal Mental Health,36,3.92,13.9,Gestational Diabetes,34,4.94,16.9
+19,33,3,None,None,None,Postpartum Mental Health,4,4.33,7.2,Prenatal Nutrition,17,3.08,11.7,Prenatal Nutrition,7,3.72,13.9
+20,12,0,Diabetes,None,None,General,18,4.05,19.7,High-Risk,36,3.03,4.1,Prenatal Mental Health,17,3.79,14.0
+34,36,1,None,None,Vegetarian,Postpartum Mental Health,39,4.28,13.7,Postpartum Mental Health,6,3.24,6.9,High-Risk,3,3.4,5.1
+22,4,2,Both,None,None,Postpartum Mental Health,16,3.68,1.8,Prenatal Nutrition,16,4.3,18.1,Prenatal Mental Health,29,3.14,19.7
+34,5,2,Hypertension,Depression,None,High-Risk,11,4.81,7.2,Prenatal Nutrition,29,4.13,14.1,General,22,4.55,17.0
+41,37,0,None,None,None,Prenatal Mental Health,14,4.17,12.8,Prenatal Mental Health,36,4.11,19.7,Prenatal Mental Health,38,3.5,16.0
+34,8,2,Hypertension,Anxiety,None,High-Risk,3,3.17,2.1,General,38,3.06,15.6,Prenatal Mental Health,29,4.22,7.3
+44,28,1,None,None,None,Gestational Diabetes,38,3.9,1.5,Postpartum Mental Health,37,3.94,18.9,General,5,4.38,11.2
+34,31,1,Hypertension,None,None,General,18,4.51,9.6,General,10,4.85,5.1,High-Risk,30,3.94,3.6
+19,9,0,None,None,Gluten-Free,Postpartum Mental Health,20,4.59,7.3,Gestational Diabetes,36,3.8,15.7,Prenatal Mental Health,23,4.75,11.2
+19,29,1,None,None,None,High-Risk,25,3.99,9.3,Gestational Diabetes,29,4.25,1.4,Postpartum Mental Health,21,3.89,3.8
+39,14,3,Diabetes,None,None,High-Risk,38,4.79,6.0,Postpartum Mental Health,14,4.56,13.7,Prenatal Mental Health,26,3.57,11.5
+40,22,0,None,None,Vegan,High-Risk,13,3.54,4.1,High-Risk,4,4.57,9.9,High-Risk,21,4.79,13.3
+22,11,1,Diabetes,None,Gluten-Free,General,4,3.82,14.1,Gestational Diabetes,36,4.04,7.6,Gestational Diabetes,20,4.72,8.4
+18,23,0,None,None,None,Prenatal Mental Health,14,4.8,10.8,Prenatal Mental Health,13,4.72,17.4,General,23,3.33,10.5
+18,1,2,Hypertension,Depression,Vegan,High-Risk,33,4.79,4.8,High-Risk,18,3.78,17.2,Gestational Diabetes,4,3.05,17.6
+36,37,1,Hypertension,Anxiety,None,General,28,4.37,7.1,Prenatal Nutrition,33,4.78,1.4,High-Risk,21,3.18,3.1
+19,21,3,Hypertension,None,None,Postpartum Mental Health,37,4.72,12.2,Gestational Diabetes,21,3.48,12.6,Prenatal Nutrition,21,3.57,16.0
+38,26,1,None,None,None,Gestational Diabetes,8,3.18,2.4,Prenatal Mental Health,16,3.56,8.0,Gestational Diabetes,1,4.94,4.2
+29,36,0,None,None,Vegetarian,Prenatal Nutrition,34,4.73,3.8,Prenatal Nutrition,15,3.11,8.9,Prenatal Mental Health,15,4.12,1.7
+43,23,0,None,None,Vegetarian,General,5,3.64,2.4,High-Risk,5,4.59,16.8,Prenatal Mental Health,17,3.75,4.5
+23,1,1,None,None,None,Prenatal Nutrition,5,3.36,16.4,Postpartum Mental Health,6,3.83,6.9,General,14,4.78,15.5
+40,15,3,Hypertension,None,None,High-Risk,31,3.48,15.3,Prenatal Nutrition,38,3.46,18.9,Prenatal Mental Health,19,3.91,8.7
+21,21,3,Diabetes,None,Vegetarian,High-Risk,9,3.84,15.3,General,3,3.46,4.4,Postpartum Mental Health,34,3.63,17.6
+40,9,3,Diabetes,None,None,General,32,3.5,14.6,Postpartum Mental Health,12,4.8,13.6,Postpartum Mental Health,6,4.88,11.0
+28,9,0,Diabetes,None,None,Prenatal Nutrition,33,3.64,13.7,Postpartum Mental Health,36,4.67,13.8,Gestational Diabetes,6,4.7,1.4
+41,10,1,Diabetes,Anxiety,Vegetarian,High-Risk,3,3.27,10.1,High-Risk,33,4.11,5.8,High-Risk,5,4.69,14.6
+44,26,2,Hypertension,Anxiety,Vegetarian,Postpartum Mental Health,30,3.59,13.2,High-Risk,36,4.23,7.2,General,7,4.02,3.1
+34,35,0,None,None,Vegetarian,Prenatal Mental Health,12,4.14,1.7,Prenatal Mental Health,33,3.95,16.9,Prenatal Nutrition,33,4.58,16.0
+23,25,3,Diabetes,Depression,Vegan,Prenatal Mental Health,29,3.88,12.8,Prenatal Mental Health,31,3.78,15.5,Gestational Diabetes,13,3.36,4.2
+41,26,1,Hypertension,Both,None,High-Risk,3,3.69,15.8,General,21,4.83,7.3,High-Risk,1,4.15,7.6
+22,11,3,Hypertension,None,Vegetarian,Prenatal Nutrition,26,4.49,10.5,Postpartum Mental Health,27,3.25,11.1,General,13,4.97,15.5
+37,38,2,None,None,Vegetarian,Gestational Diabetes,30,4.79,7.8,General,27,3.84,2.2,General,27,3.58,19.1
+19,2,3,None,None,None,High-Risk,9,4.51,6.3,General,8,3.69,5.0,Gestational Diabetes,7,4.59,8.1
+23,7,3,None,Depression,None,Gestational Diabetes,26,3.66,13.2,High-Risk,37,4.0,10.2,High-Risk,3,3.98,16.8
+39,18,2,Diabetes,Depression,None,Gestational Diabetes,2,4.49,14.2,General,32,3.92,2.6,High-Risk,25,3.08,4.6
+28,27,1,Hypertension,None,None,Prenatal Nutrition,3,3.3,17.5,General,26,4.04,17.0,Prenatal Mental Health,33,4.53,16.3
+33,34,0,None,None,Vegetarian,Gestational Diabetes,4,3.26,7.5,Prenatal Nutrition,2,3.28,14.6,Prenatal Nutrition,17,3.34,13.5
+33,27,1,Both,None,Vegan,Postpartum Mental Health,25,3.69,15.6,Prenatal Mental Health,12,4.03,18.9,Postpartum Mental Health,14,4.26,4.7
+18,17,2,None,None,None,Prenatal Nutrition,13,4.62,11.7,Prenatal Mental Health,22,3.48,14.2,Prenatal Mental Health,37,3.17,6.7
+26,24,3,None,None,None,High-Risk,39,3.49,17.8,Postpartum Mental Health,17,3.37,18.9,General,23,4.89,3.5
+44,25,1,None,Depression,Gluten-Free,Postpartum Mental Health,35,3.13,11.0,Prenatal Mental Health,7,3.13,11.5,Prenatal Nutrition,24,3.58,8.3
+23,7,0,Hypertension,None,None,General,23,3.26,10.8,Gestational Diabetes,4,4.53,12.4,Prenatal Nutrition,29,3.45,4.9
+33,6,2,Diabetes,Anxiety,None,Prenatal Mental Health,9,4.72,12.0,Postpartum Mental Health,37,3.85,19.6,High-Risk,38,3.26,13.2
+20,24,1,None,Depression,None,High-Risk,2,4.27,15.2,Prenatal Nutrition,38,4.25,13.2,Prenatal Nutrition,27,4.89,19.9
+37,33,0,Diabetes,Anxiety,None,High-Risk,31,3.51,19.3,Prenatal Mental Health,32,4.46,1.6,Gestational Diabetes,38,4.42,1.2
+44,29,2,None,None,None,High-Risk,2,4.11,2.4,Prenatal Nutrition,11,4.36,14.8,Prenatal Nutrition,23,4.48,11.3
+21,22,0,Diabetes,None,None,Postpartum Mental Health,32,4.06,2.0,Prenatal Mental Health,1,3.94,18.2,General,31,4.0,11.9
+36,26,2,Diabetes,None,None,General,18,4.31,18.8,Prenatal Mental Health,25,3.78,16.1,Gestational Diabetes,36,3.95,18.4
+43,28,3,Diabetes,None,None,Prenatal Nutrition,13,3.47,11.1,Prenatal Nutrition,24,3.75,12.1,Gestational Diabetes,17,3.22,10.6
+20,21,1,None,None,None,General,5,4.73,12.7,General,17,4.28,13.8,Prenatal Mental Health,37,4.12,11.3
+36,7,0,Both,None,None,Postpartum Mental Health,10,3.62,10.2,General,8,3.99,19.8,Prenatal Nutrition,3,3.49,10.0
+37,17,2,Hypertension,None,Vegetarian,High-Risk,25,4.39,2.8,General,27,4.7,2.7,High-Risk,36,4.95,6.1
+24,20,0,None,None,Vegan,Prenatal Mental Health,34,3.03,15.6,Gestational Diabetes,18,4.75,13.7,Prenatal Mental Health,5,4.59,2.1
+37,20,0,Diabetes,None,None,High-Risk,37,3.75,15.2,General,27,3.34,6.4,High-Risk,15,3.83,8.8
+26,22,1,None,None,None,Prenatal Nutrition,30,3.7,6.9,Prenatal Mental Health,22,3.27,13.2,Prenatal Nutrition,6,3.3,2.0
+18,28,3,Diabetes,Anxiety,Vegetarian,Gestational Diabetes,7,4.09,6.8,High-Risk,16,4.26,12.5,Prenatal Mental Health,10,4.57,11.5
+25,7,0,None,Anxiety,None,Prenatal Mental Health,6,3.15,16.9,Prenatal Nutrition,2,3.6,3.9,Prenatal Nutrition,32,3.24,6.8
+24,1,2,Hypertension,None,None,High-Risk,3,4.58,2.4,High-Risk,5,3.04,4.9,General,23,3.38,11.1
+35,32,2,Hypertension,None,Vegetarian,Prenatal Mental Health,13,3.44,17.7,Gestational Diabetes,18,4.78,12.8,Prenatal Mental Health,17,3.42,3.6
+25,13,3,None,None,Vegan,Gestational Diabetes,3,4.35,5.9,High-Risk,3,3.45,3.4,High-Risk,20,4.11,18.7
+18,30,2,None,None,Vegan,General,26,4.61,12.3,Postpartum Mental Health,27,4.86,6.0,General,15,4.57,18.0
+28,23,3,None,None,None,Postpartum Mental Health,24,4.12,18.8,General,17,4.43,16.9,Postpartum Mental Health,22,3.63,4.6
+42,19,2,None,Depression,Vegetarian,High-Risk,6,4.48,13.9,Gestational Diabetes,16,4.53,7.2,High-Risk,6,3.17,7.5
+42,32,1,None,None,None,Prenatal Nutrition,12,4.32,8.9,Prenatal Mental Health,6,3.4,10.3,Prenatal Nutrition,4,3.93,12.7
+35,30,0,Hypertension,None,Vegetarian,General,36,3.71,14.1,General,7,3.47,18.9,High-Risk,23,4.5,2.8
+40,29,1,None,None,None,High-Risk,2,4.62,7.5,General,14,4.04,5.3,Postpartum Mental Health,19,3.44,7.7
+27,29,0,None,None,None,General,11,3.59,6.3,High-Risk,38,3.34,8.4,High-Risk,31,3.44,5.8
+20,30,0,Hypertension,None,Vegetarian,Prenatal Nutrition,39,4.14,19.9,Postpartum Mental Health,15,3.61,12.5,General,3,4.89,18.4
+24,16,0,None,None,None,High-Risk,34,4.49,15.3,General,33,3.64,15.4,Gestational Diabetes,28,4.91,17.2
+33,19,1,Diabetes,None,None,Gestational Diabetes,26,3.76,13.2,Prenatal Nutrition,27,3.32,18.1,High-Risk,3,4.98,12.0
+43,18,0,Diabetes,None,Vegan,Gestational Diabetes,18,3.61,7.8,Prenatal Nutrition,29,3.41,18.4,Prenatal Mental Health,14,4.62,10.9
+33,1,1,Hypertension,None,None,Prenatal Nutrition,21,3.92,1.9,General,37,4.58,15.8,Postpartum Mental Health,18,3.38,18.7
+42,14,3,Hypertension,None,None,Prenatal Mental Health,36,4.64,1.6,High-Risk,5,3.33,5.3,High-Risk,27,3.42,18.7
+37,2,2,Diabetes,None,None,Prenatal Nutrition,22,4.86,11.5,High-Risk,29,3.06,1.5,Postpartum Mental Health,10,3.68,19.4
+34,28,2,None,Both,Vegetarian,Prenatal Mental Health,30,4.09,15.5,Prenatal Mental Health,32,4.26,8.3,Gestational Diabetes,15,3.64,3.4
+19,30,0,None,None,Vegetarian,High-Risk,30,4.32,11.2,Gestational Diabetes,6,4.95,3.7,General,19,4.91,4.1
+18,38,1,None,None,None,Prenatal Mental Health,8,4.81,17.0,Gestational Diabetes,2,3.66,14.5,Prenatal Mental Health,9,4.58,13.9
+33,4,2,Diabetes,None,Vegetarian,High-Risk,34,3.2,1.6,Gestational Diabetes,6,3.24,13.6,Prenatal Nutrition,4,4.45,11.3
+29,1,1,None,None,None,High-Risk,9,3.46,8.0,Postpartum Mental Health,4,4.14,1.8,High-Risk,15,3.37,1.4
+22,8,1,Hypertension,None,Vegetarian,Postpartum Mental Health,20,4.42,5.5,High-Risk,29,4.81,16.9,General,8,4.82,2.2
+22,29,0,Both,None,None,High-Risk,25,4.65,9.5,Prenatal Mental Health,25,4.57,5.7,Postpartum Mental Health,1,4.66,17.9
+44,39,2,Diabetes,Anxiety,None,Prenatal Mental Health,19,4.71,2.4,Prenatal Nutrition,9,4.25,9.2,Gestational Diabetes,7,3.33,17.5
+40,3,0,Hypertension,None,Vegan,Postpartum Mental Health,5,3.83,19.1,Gestational Diabetes,3,3.63,13.7,Postpartum Mental Health,31,4.74,7.8
+26,32,0,None,None,None,Postpartum Mental Health,11,3.18,5.2,Prenatal Nutrition,26,4.08,9.2,Gestational Diabetes,18,3.54,17.9
+26,10,2,Diabetes,None,None,High-Risk,15,3.88,18.5,Prenatal Nutrition,27,3.18,9.4,Gestational Diabetes,12,3.16,12.3
+20,10,2,Hypertension,Depression,None,Prenatal Nutrition,8,3.46,9.1,General,36,4.36,2.2,General,30,4.31,16.3
+36,19,3,None,None,Gluten-Free,Prenatal Nutrition,19,3.58,19.7,Postpartum Mental Health,32,4.45,8.6,High-Risk,33,4.31,9.1
+33,34,3,None,None,None,Gestational Diabetes,23,4.54,11.5,Prenatal Mental Health,1,4.93,15.5,Prenatal Nutrition,7,3.19,3.2
+33,33,1,Diabetes,None,None,Postpartum Mental Health,27,3.15,18.7,Postpartum Mental Health,16,3.52,18.4,High-Risk,28,3.64,9.2
+20,23,2,Hypertension,None,None,High-Risk,32,4.66,1.1,General,11,3.04,8.9,Prenatal Mental Health,3,4.99,9.7
+37,28,3,Diabetes,None,None,Prenatal Nutrition,26,3.86,15.2,Prenatal Mental Health,26,4.09,9.0,High-Risk,6,4.36,11.5
+41,32,1,Diabetes,None,None,High-Risk,27,4.19,18.2,Prenatal Mental Health,1,4.41,14.3,Gestational Diabetes,31,4.46,3.0
+39,7,1,Hypertension,None,Vegetarian,High-Risk,19,3.18,3.7,High-Risk,26,4.58,18.9,Gestational Diabetes,38,3.43,19.8
+41,29,1,Hypertension,None,Gluten-Free,Postpartum Mental Health,29,3.67,2.8,Postpartum Mental Health,28,3.39,6.1,Prenatal Mental Health,15,3.16,5.6
+18,8,3,None,None,None,Gestational Diabetes,39,3.18,9.1,Postpartum Mental Health,9,3.52,9.4,Postpartum Mental Health,7,3.55,4.8
+41,1,2,None,None,None,Postpartum Mental Health,33,4.92,18.7,High-Risk,22,4.03,16.1,Gestational Diabetes,30,3.5,11.0
+37,3,0,None,Depression,None,General,19,4.61,11.3,Prenatal Nutrition,8,3.66,12.6,Prenatal Mental Health,27,3.47,11.2
+28,24,1,Diabetes,None,None,Prenatal Nutrition,37,3.92,11.0,General,27,4.72,3.1,Gestational Diabetes,17,3.39,9.4
+34,23,3,Hypertension,None,Vegan,Prenatal Nutrition,19,3.45,3.7,Postpartum Mental Health,39,3.95,12.9,Prenatal Nutrition,18,4.15,15.7
+25,8,3,Diabetes,None,None,Prenatal Nutrition,33,4.87,1.0,High-Risk,19,4.6,4.5,Gestational Diabetes,22,3.66,10.8
+21,37,0,None,None,None,Prenatal Mental Health,16,3.69,16.4,Prenatal Mental Health,25,4.16,10.7,General,26,4.64,12.6
+23,3,0,Hypertension,Anxiety,Vegetarian,High-Risk,23,3.32,2.7,Gestational Diabetes,38,4.55,11.1,Prenatal Mental Health,27,3.37,14.8
+25,33,3,Hypertension,None,None,Postpartum Mental Health,7,4.13,13.0,High-Risk,21,3.67,17.6,High-Risk,24,3.93,1.5
+37,28,2,Hypertension,None,Vegetarian,Prenatal Nutrition,26,4.89,18.4,Gestational Diabetes,24,4.66,9.8,Prenatal Mental Health,8,3.03,11.8
+20,8,0,Hypertension,None,None,General,32,3.01,5.0,Prenatal Nutrition,24,3.55,6.3,Postpartum Mental Health,21,3.96,17.8
+33,34,3,None,None,Vegan,Prenatal Nutrition,12,3.48,13.6,General,19,4.09,5.4,Gestational Diabetes,29,3.11,1.3
+42,35,0,Hypertension,None,Vegan,Gestational Diabetes,8,4.88,2.5,Gestational Diabetes,2,3.43,17.6,Prenatal Mental Health,21,4.96,8.7
+20,32,2,None,None,Vegetarian,High-Risk,5,3.34,12.5,Prenatal Nutrition,14,3.95,4.2,Prenatal Nutrition,3,4.58,18.6
+42,24,1,None,None,Gluten-Free,High-Risk,28,3.23,4.1,Gestational Diabetes,32,3.64,9.1,Prenatal Mental Health,31,3.98,7.7
+35,14,0,None,Anxiety,None,Postpartum Mental Health,5,4.14,15.0,Prenatal Mental Health,32,3.53,4.6,Prenatal Nutrition,27,3.17,9.7
+31,32,2,Hypertension,None,None,Prenatal Mental Health,26,4.72,6.7,Prenatal Mental Health,28,4.93,15.7,Gestational Diabetes,27,4.18,19.6
+35,16,3,Both,Anxiety,Vegetarian,Postpartum Mental Health,5,3.95,9.8,Prenatal Mental Health,39,3.32,10.0,High-Risk,9,4.52,4.8
+19,4,0,Hypertension,Anxiety,None,Prenatal Nutrition,22,4.99,12.4,Prenatal Mental Health,13,4.57,7.7,Gestational Diabetes,33,3.38,2.2
+39,37,0,Hypertension,Anxiety,None,Gestational Diabetes,15,4.36,4.3,High-Risk,12,4.97,7.9,Postpartum Mental Health,33,4.14,17.3
+20,21,3,Hypertension,None,None,General,13,3.15,15.1,Prenatal Mental Health,8,3.04,17.2,General,26,4.63,17.5
+33,14,1,Hypertension,None,None,Postpartum Mental Health,28,4.99,6.8,Prenatal Mental Health,15,4.4,11.5,High-Risk,28,4.54,10.0
+26,31,3,None,Anxiety,None,Prenatal Mental Health,33,3.82,13.6,High-Risk,26,3.51,14.6,High-Risk,31,4.61,10.8
+21,18,0,None,None,None,Postpartum Mental Health,23,3.57,4.0,Prenatal Mental Health,12,3.08,18.0,General,1,4.76,16.9
+18,7,3,None,None,Vegetarian,High-Risk,33,4.12,14.1,Prenatal Nutrition,27,3.81,18.1,Prenatal Mental Health,20,4.88,15.0
+21,10,2,None,Depression,None,Prenatal Nutrition,18,3.61,3.4,Prenatal Nutrition,18,4.87,7.2,Gestational Diabetes,12,3.81,6.0
+18,7,3,None,Depression,None,Prenatal Nutrition,30,3.17,9.1,Postpartum Mental Health,36,3.02,19.1,Prenatal Mental Health,17,4.14,1.3
+31,33,0,None,None,None,Prenatal Nutrition,26,3.0,5.7,Prenatal Nutrition,27,4.18,1.5,Prenatal Mental Health,15,4.58,10.1
+38,23,3,None,None,None,Prenatal Nutrition,16,3.9,15.2,General,9,4.0,8.2,Gestational Diabetes,34,4.39,17.3
+33,21,1,Both,None,Vegan,Prenatal Nutrition,13,4.67,6.0,General,39,4.75,18.0,Postpartum Mental Health,16,4.99,18.0
+37,19,3,None,Anxiety,None,Prenatal Nutrition,39,4.14,17.8,General,1,3.17,6.2,High-Risk,4,3.03,19.2
+41,19,1,None,Depression,None,General,33,5.0,17.9,High-Risk,7,4.36,6.2,Prenatal Nutrition,8,3.71,17.7
+25,36,2,None,None,Vegan,Prenatal Mental Health,26,3.57,4.7,Prenatal Nutrition,26,4.36,6.7,General,34,3.56,12.0
+24,29,1,Hypertension,None,None,Prenatal Nutrition,1,3.56,12.7,General,7,4.34,12.6,High-Risk,25,3.52,9.4
+20,18,3,None,Depression,None,Prenatal Mental Health,38,3.32,2.7,Postpartum Mental Health,7,4.88,9.3,Prenatal Mental Health,15,3.45,15.7
+34,2,0,None,None,None,Gestational Diabetes,2,3.33,8.4,High-Risk,8,4.65,14.8,General,28,4.42,15.1
+18,1,1,Hypertension,None,Vegan,Prenatal Nutrition,6,3.57,14.6,Postpartum Mental Health,16,3.08,18.0,Prenatal Nutrition,9,3.17,11.2
+33,5,2,None,Both,None,Postpartum Mental Health,38,4.59,13.5,Prenatal Nutrition,3,3.94,13.8,High-Risk,2,4.48,2.7
+29,20,1,None,None,None,Prenatal Nutrition,24,4.81,12.9,Prenatal Mental Health,10,3.8,4.9,High-Risk,17,4.39,18.6
+44,11,1,None,None,None,High-Risk,18,4.95,6.4,Postpartum Mental Health,7,3.62,18.7,Postpartum Mental Health,10,3.5,9.7
+36,2,1,None,None,None,General,27,3.46,8.2,Prenatal Mental Health,21,3.9,6.0,High-Risk,9,3.51,7.9
+39,3,2,None,None,None,Postpartum Mental Health,8,4.76,3.0,High-Risk,37,3.77,3.8,High-Risk,31,4.26,13.0
+40,23,3,None,Anxiety,None,Postpartum Mental Health,28,3.66,14.7,Postpartum Mental Health,31,3.86,2.7,Prenatal Nutrition,2,4.52,13.8
+39,12,1,Diabetes,None,None,High-Risk,10,3.23,10.6,Postpartum Mental Health,23,4.96,11.7,Prenatal Nutrition,24,4.75,5.0
+31,20,1,Hypertension,Both,Vegan,Prenatal Nutrition,17,4.74,14.5,Gestational Diabetes,27,3.18,3.2,General,19,4.7,16.9
+23,5,0,Hypertension,None,Vegetarian,General,29,4.27,5.7,High-Risk,22,4.84,3.6,Prenatal Mental Health,17,4.93,6.5
+23,37,2,None,None,None,Postpartum Mental Health,6,3.33,7.2,High-Risk,39,3.96,6.7,Prenatal Nutrition,10,4.16,4.5
+30,38,1,Diabetes,None,Vegan,General,14,3.86,7.4,General,27,4.25,6.4,General,28,4.82,8.7
+36,30,2,None,None,None,Postpartum Mental Health,22,3.57,1.5,Prenatal Nutrition,4,4.66,12.5,High-Risk,38,4.62,14.9
+39,9,1,None,None,None,Prenatal Nutrition,6,4.47,7.5,Postpartum Mental Health,24,3.72,16.5,General,28,4.79,19.3
+25,34,3,Hypertension,None,Vegetarian,Gestational Diabetes,26,3.91,16.3,Postpartum Mental Health,23,3.86,15.5,General,1,3.02,16.4
+44,35,3,None,None,Vegan,Postpartum Mental Health,39,4.98,18.0,High-Risk,19,3.82,6.0,General,3,4.93,18.9
+44,22,1,None,None,Vegetarian,Gestational Diabetes,12,3.11,10.8,High-Risk,3,3.75,5.7,Gestational Diabetes,15,3.95,3.7
+19,24,3,Hypertension,Anxiety,None,Postpartum Mental Health,35,3.71,9.7,Prenatal Nutrition,27,4.85,19.4,General,10,4.6,2.4
+38,17,1,Diabetes,None,Vegan,Prenatal Mental Health,14,3.96,1.6,High-Risk,3,4.66,1.2,Prenatal Nutrition,21,3.25,11.6
+18,10,3,None,Anxiety,None,Prenatal Nutrition,22,4.01,17.7,Prenatal Mental Health,28,3.22,17.7,Gestational Diabetes,37,3.79,6.5
+32,30,0,Hypertension,None,Vegan,High-Risk,23,3.63,1.2,Prenatal Mental Health,17,3.22,4.8,Prenatal Mental Health,15,3.54,16.7
+18,23,0,Both,None,Gluten-Free,Gestational Diabetes,7,4.46,19.0,Gestational Diabetes,31,3.86,19.0,General,23,3.58,13.8
+22,32,0,None,None,None,High-Risk,25,4.75,10.3,Prenatal Mental Health,10,3.2,7.5,Postpartum Mental Health,14,3.25,19.4
+33,17,2,None,None,Vegetarian,Prenatal Nutrition,13,4.88,7.5,Prenatal Mental Health,22,4.24,9.4,High-Risk,15,4.61,5.8
+36,17,2,None,None,None,High-Risk,21,4.61,18.6,Prenatal Nutrition,30,3.29,14.4,High-Risk,10,3.02,10.2
+21,14,0,None,Anxiety,None,Prenatal Nutrition,10,4.7,1.5,Postpartum Mental Health,21,4.04,12.2,Gestational Diabetes,9,3.63,10.5
+20,9,2,None,Anxiety,None,High-Risk,9,4.1,12.0,Prenatal Mental Health,36,3.01,7.0,High-Risk,39,3.35,5.5
+34,2,3,Diabetes,None,None,Gestational Diabetes,15,4.65,11.4,Gestational Diabetes,23,3.63,11.5,High-Risk,5,4.18,12.2
+34,25,1,Hypertension,None,Vegan,Prenatal Mental Health,2,3.61,5.2,High-Risk,38,4.35,14.9,Gestational Diabetes,25,3.51,9.4
+29,39,1,Hypertension,Anxiety,Vegetarian,High-Risk,25,3.8,9.1,Prenatal Mental Health,12,3.97,1.8,High-Risk,26,3.52,9.5
+31,9,1,None,None,None,Gestational Diabetes,13,3.63,13.4,Gestational Diabetes,25,4.96,1.2,General,8,3.98,7.9
+38,22,0,Diabetes,Anxiety,Vegan,Postpartum Mental Health,34,3.93,14.8,Prenatal Nutrition,20,4.75,9.7,Prenatal Mental Health,22,4.31,1.3
+23,4,2,Both,Anxiety,Gluten-Free,Prenatal Nutrition,34,3.57,1.0,High-Risk,7,3.72,3.5,Gestational Diabetes,25,3.24,10.9
+20,26,3,Diabetes,Anxiety,None,General,35,4.92,18.8,Gestational Diabetes,29,3.09,13.6,Postpartum Mental Health,12,3.35,7.4
+26,29,3,None,None,Gluten-Free,General,38,3.63,4.1,Prenatal Mental Health,29,4.69,5.1,Gestational Diabetes,9,3.49,1.0
+22,34,0,Hypertension,None,None,Prenatal Nutrition,3,3.2,5.4,Postpartum Mental Health,13,4.82,9.2,Prenatal Nutrition,10,4.95,6.9
+41,23,3,None,None,Vegan,Prenatal Mental Health,6,4.05,6.0,High-Risk,3,4.64,4.8,Postpartum Mental Health,10,3.79,6.3
+34,37,3,None,None,None,High-Risk,19,3.11,1.7,High-Risk,2,3.26,11.4,Prenatal Nutrition,9,4.2,8.5
+31,11,3,None,Anxiety,None,Prenatal Mental Health,3,3.22,3.3,Postpartum Mental Health,16,5.0,3.2,Gestational Diabetes,26,3.48,3.5
+38,6,3,Hypertension,None,None,General,18,3.44,19.7,High-Risk,30,3.52,1.4,Prenatal Nutrition,35,3.98,10.6
+20,18,2,Hypertension,None,Vegetarian,Gestational Diabetes,39,3.93,7.0,Prenatal Mental Health,38,4.45,2.0,Postpartum Mental Health,27,3.15,14.2
+18,21,3,None,Depression,None,Prenatal Nutrition,9,3.87,3.2,High-Risk,6,4.82,19.1,General,31,3.07,13.0
+37,36,1,None,Anxiety,None,Prenatal Nutrition,12,4.6,3.0,Prenatal Mental Health,7,3.47,3.7,Gestational Diabetes,19,3.94,16.3
+38,38,0,None,Depression,None,Prenatal Mental Health,5,4.48,14.7,Postpartum Mental Health,5,4.82,14.5,Gestational Diabetes,38,3.8,9.6
+40,34,2,None,Anxiety,Vegan,Gestational Diabetes,3,3.85,17.2,General,7,3.62,2.3,High-Risk,6,3.27,10.9
+18,17,3,None,None,None,Prenatal Mental Health,11,3.67,5.9,Postpartum Mental Health,34,4.95,3.1,Gestational Diabetes,15,4.38,16.4
+20,37,2,None,None,None,High-Risk,30,3.63,1.4,Prenatal Mental Health,32,3.56,10.7,Gestational Diabetes,29,4.99,9.1
+35,25,3,Diabetes,Depression,None,Postpartum Mental Health,4,4.55,5.2,Prenatal Nutrition,13,4.91,9.8,General,5,3.79,14.3
+42,38,1,None,None,None,Gestational Diabetes,5,3.1,2.1,Postpartum Mental Health,30,3.11,19.1,High-Risk,14,4.25,9.3
+27,12,0,None,None,Vegan,Postpartum Mental Health,1,3.03,3.0,Prenatal Nutrition,25,4.42,19.0,Prenatal Mental Health,2,4.93,8.9
+39,23,3,None,None,Vegan,High-Risk,27,4.59,9.2,Prenatal Nutrition,21,4.06,15.8,Prenatal Nutrition,23,4.66,15.4
+43,22,3,Diabetes,None,None,Postpartum Mental Health,28,3.95,5.4,Prenatal Mental Health,21,3.96,12.4,Postpartum Mental Health,19,3.93,4.3
+20,21,3,Hypertension,Anxiety,None,General,29,3.26,10.8,Prenatal Mental Health,28,3.45,9.6,Prenatal Mental Health,24,4.47,7.4
+25,27,3,Hypertension,None,Vegetarian,Postpartum Mental Health,18,3.47,5.8,General,20,4.41,7.8,High-Risk,20,3.26,5.3
+31,31,0,None,None,None,High-Risk,12,4.87,18.9,Gestational Diabetes,34,3.38,19.0,General,27,4.02,7.8
+41,6,0,Hypertension,None,Vegan,Postpartum Mental Health,13,4.72,18.2,High-Risk,5,4.11,12.5,Postpartum Mental Health,24,3.56,5.4
+35,27,1,None,None,Vegetarian,Prenatal Nutrition,2,4.42,11.8,Postpartum Mental Health,18,3.51,12.0,Prenatal Nutrition,17,3.32,12.0
+32,34,0,Hypertension,None,Vegetarian,Prenatal Mental Health,37,3.96,7.7,Prenatal Mental Health,39,4.91,5.4,Gestational Diabetes,25,3.85,16.2
+39,12,3,Diabetes,None,None,General,16,4.04,8.2,Postpartum Mental Health,11,3.06,1.9,Gestational Diabetes,31,3.26,15.9
+40,7,1,Hypertension,Depression,None,Prenatal Nutrition,24,4.95,8.8,Gestational Diabetes,17,3.4,19.0,Prenatal Mental Health,28,4.4,7.9
+19,10,1,Diabetes,None,Gluten-Free,Prenatal Nutrition,35,4.93,14.8,Gestational Diabetes,22,3.48,7.0,Prenatal Nutrition,28,3.91,19.8
+44,17,1,Hypertension,None,None,High-Risk,22,3.43,9.6,Prenatal Nutrition,37,3.83,9.4,High-Risk,22,4.06,12.3
+27,26,3,None,None,Vegetarian,Prenatal Mental Health,36,4.62,17.3,High-Risk,20,3.47,3.2,Prenatal Nutrition,5,3.29,8.6
+19,21,2,Diabetes,None,None,Prenatal Mental Health,11,3.39,18.9,General,6,3.98,16.9,General,8,3.28,16.9
+43,28,3,None,None,Vegetarian,Gestational Diabetes,29,3.43,7.4,Postpartum Mental Health,34,4.74,1.5,Prenatal Mental Health,38,4.17,14.9
+34,2,0,Hypertension,Anxiety,None,General,35,4.35,11.7,High-Risk,14,4.42,16.8,Prenatal Mental Health,28,4.97,15.2
+25,1,0,None,None,None,High-Risk,15,3.81,2.8,General,23,4.16,3.7,General,12,3.19,4.7
+18,36,3,None,Anxiety,None,General,31,4.86,4.8,Postpartum Mental Health,20,3.18,17.8,Prenatal Nutrition,25,3.57,9.9
+26,26,3,None,None,Vegetarian,Gestational Diabetes,16,3.18,8.9,High-Risk,13,4.39,14.9,General,38,4.74,17.4
+28,29,1,None,None,Vegetarian,Postpartum Mental Health,10,4.02,4.9,Prenatal Mental Health,32,3.33,4.1,Postpartum Mental Health,15,3.14,10.6
+39,21,3,None,None,None,Prenatal Nutrition,32,4.84,17.7,Postpartum Mental Health,26,4.57,11.8,General,34,4.75,14.0
+33,11,1,Hypertension,Depression,None,General,2,4.81,4.0,High-Risk,14,3.5,6.9,Prenatal Nutrition,13,4.05,12.2
+24,11,0,None,None,Vegetarian,Prenatal Nutrition,24,3.31,9.7,Gestational Diabetes,36,3.83,4.4,General,8,3.82,17.0
+27,36,1,None,None,None,High-Risk,23,3.73,12.5,General,8,3.7,17.3,High-Risk,13,3.62,6.4
+40,39,3,Hypertension,None,None,Postpartum Mental Health,2,4.24,14.1,High-Risk,22,4.72,8.7,Gestational Diabetes,36,3.59,11.9
+43,35,0,None,None,None,High-Risk,38,3.32,8.3,Prenatal Mental Health,22,3.25,8.6,General,6,3.61,3.3
+20,34,2,Hypertension,None,None,Postpartum Mental Health,31,4.94,17.5,Postpartum Mental Health,16,4.13,4.2,Gestational Diabetes,38,4.77,14.1
+35,24,1,Hypertension,None,None,Postpartum Mental Health,26,4.83,11.8,Postpartum Mental Health,27,3.28,8.3,General,32,4.45,14.9
+42,22,0,Diabetes,None,None,Prenatal Nutrition,29,3.33,9.4,Postpartum Mental Health,10,4.41,17.6,Prenatal Nutrition,21,4.34,1.8
+41,5,1,Hypertension,None,None,High-Risk,3,3.24,2.3,Prenatal Mental Health,25,4.81,7.9,Postpartum Mental Health,7,4.6,13.8
+30,33,0,None,None,None,High-Risk,14,3.17,9.8,General,31,3.87,19.1,Postpartum Mental Health,26,3.51,8.9
+43,36,0,Hypertension,Anxiety,None,General,25,4.82,16.6,Postpartum Mental Health,21,3.98,19.0,Gestational Diabetes,15,4.24,3.4
+24,20,1,None,Anxiety,None,High-Risk,1,3.39,12.7,General,27,4.85,3.8,Prenatal Nutrition,23,3.92,9.0
+42,19,2,None,Anxiety,None,General,3,3.83,16.8,High-Risk,17,4.04,4.4,Prenatal Nutrition,38,4.56,4.7
+21,35,0,Diabetes,None,Vegan,Prenatal Mental Health,26,3.9,10.4,Gestational Diabetes,33,3.98,17.4,Prenatal Nutrition,15,3.62,8.9
+30,17,0,None,None,None,Prenatal Mental Health,18,4.2,3.3,Gestational Diabetes,31,4.16,8.5,High-Risk,16,4.29,8.3
+37,34,0,Diabetes,None,None,Prenatal Mental Health,9,3.14,1.3,General,26,4.38,1.1,Prenatal Mental Health,32,4.76,15.0
+18,9,2,Diabetes,None,None,Gestational Diabetes,38,3.45,6.8,General,21,3.21,6.2,General,37,3.8,15.7
+25,26,2,Diabetes,None,None,High-Risk,23,4.86,14.3,Gestational Diabetes,36,4.64,12.4,Prenatal Nutrition,18,3.13,12.5
+31,2,3,Diabetes,None,None,Gestational Diabetes,21,4.82,16.0,Postpartum Mental Health,1,3.87,16.2,Prenatal Nutrition,20,4.03,1.4
+33,9,1,None,None,None,High-Risk,1,4.56,6.6,Prenatal Nutrition,4,3.14,3.5,Prenatal Nutrition,2,3.69,18.7
+31,9,2,None,None,Vegan,General,21,3.04,10.4,Prenatal Nutrition,4,4.57,3.1,Postpartum Mental Health,23,4.34,14.0
+29,17,1,Hypertension,Depression,None,Gestational Diabetes,27,3.65,9.0,Prenatal Mental Health,26,3.75,18.5,Prenatal Nutrition,30,4.9,1.6
+36,1,3,None,None,Gluten-Free,Gestational Diabetes,6,4.26,8.8,Gestational Diabetes,4,3.2,15.3,General,3,3.97,16.6
+40,25,1,Hypertension,None,None,Gestational Diabetes,36,3.55,5.4,Gestational Diabetes,9,4.27,12.2,Prenatal Nutrition,39,3.93,4.8
+32,25,2,Hypertension,None,None,Postpartum Mental Health,28,4.82,3.6,Prenatal Mental Health,30,4.76,15.6,General,1,4.31,12.0
+19,39,1,Hypertension,None,None,General,17,4.27,4.7,Prenatal Nutrition,4,4.78,9.1,High-Risk,22,3.21,9.9
+19,35,2,None,None,None,Prenatal Mental Health,3,3.14,2.1,High-Risk,5,4.92,15.4,Prenatal Mental Health,29,3.51,9.0
+40,3,1,None,Depression,None,General,12,4.82,4.8,Postpartum Mental Health,23,4.74,8.1,Postpartum Mental Health,14,4.84,17.9
+39,37,2,None,Depression,Vegetarian,Postpartum Mental Health,39,4.92,1.2,Postpartum Mental Health,16,3.0,5.6,General,28,4.34,9.3
+36,30,2,None,None,None,High-Risk,12,3.16,12.9,High-Risk,22,3.76,14.9,Gestational Diabetes,21,3.03,2.4
+42,38,1,Diabetes,Depression,Vegan,General,2,4.06,7.0,High-Risk,37,4.64,9.0,High-Risk,32,3.41,19.0
+43,34,3,None,Both,Vegan,Gestational Diabetes,22,3.61,19.5,Prenatal Nutrition,8,3.73,19.6,Prenatal Mental Health,6,4.37,18.5
+39,12,0,None,Anxiety,None,Prenatal Mental Health,23,3.79,4.7,Prenatal Mental Health,33,4.2,7.6,Prenatal Mental Health,1,4.53,14.0
+43,19,3,None,Anxiety,None,Prenatal Mental Health,30,3.36,7.6,High-Risk,38,4.21,18.5,Prenatal Mental Health,21,4.68,9.9
+43,37,1,Hypertension,None,None,High-Risk,5,4.16,7.8,Prenatal Mental Health,16,3.73,18.7,General,4,3.58,2.8
+39,17,3,Hypertension,None,None,General,9,4.92,1.2,General,5,4.81,5.6,High-Risk,3,4.86,16.0
+34,10,2,None,None,None,Postpartum Mental Health,21,4.01,16.9,Postpartum Mental Health,16,4.01,16.2,Prenatal Nutrition,30,4.11,2.4
+37,12,0,None,None,None,High-Risk,11,3.17,1.6,Prenatal Nutrition,7,3.93,9.2,Gestational Diabetes,31,4.39,2.3
+27,16,1,None,Both,None,General,5,4.24,18.9,Postpartum Mental Health,1,5.0,18.4,High-Risk,34,4.19,11.2
+23,24,1,None,None,None,Prenatal Nutrition,35,3.68,17.9,Prenatal Nutrition,9,3.99,9.6,High-Risk,19,3.25,4.0
+32,19,1,Hypertension,Anxiety,Gluten-Free,Prenatal Mental Health,27,4.71,11.2,General,18,3.36,15.1,High-Risk,20,4.93,1.1
+39,8,0,Hypertension,Anxiety,Vegetarian,Postpartum Mental Health,2,3.87,11.3,Postpartum Mental Health,3,4.03,9.9,General,23,3.25,9.0
+28,31,2,None,Depression,Vegan,Gestational Diabetes,24,3.39,13.4,General,24,4.63,5.3,Gestational Diabetes,25,3.51,3.6
+22,21,1,None,Both,None,Postpartum Mental Health,31,3.38,8.4,Prenatal Nutrition,28,4.55,4.8,General,15,4.63,4.0
+18,17,3,Both,None,None,Gestational Diabetes,33,4.54,13.3,High-Risk,10,4.58,9.1,Gestational Diabetes,38,4.24,2.5
+25,23,1,None,None,None,Postpartum Mental Health,39,3.53,1.9,Postpartum Mental Health,9,4.42,15.4,Gestational Diabetes,23,4.68,4.9
+38,37,1,Hypertension,None,None,Prenatal Mental Health,30,4.53,2.0,General,13,3.51,12.5,General,2,4.03,14.6
+29,16,1,None,None,None,Gestational Diabetes,37,3.41,9.7,Gestational Diabetes,35,4.72,14.1,Gestational Diabetes,15,3.75,16.4
+29,6,1,None,None,Vegetarian,General,28,3.64,11.4,Postpartum Mental Health,23,4.79,6.4,High-Risk,35,4.84,9.6
+22,8,2,None,None,Vegetarian,Gestational Diabetes,31,3.93,17.9,Postpartum Mental Health,17,3.39,10.1,General,10,3.07,10.6
+24,25,3,Hypertension,Anxiety,None,High-Risk,11,4.89,3.0,Postpartum Mental Health,7,3.26,1.8,Gestational Diabetes,14,4.71,1.6
+21,18,2,Both,None,None,General,23,4.86,16.6,Prenatal Mental Health,16,4.95,16.5,Prenatal Mental Health,27,3.46,2.3
+23,25,3,None,None,None,High-Risk,2,3.41,5.0,General,36,4.74,19.8,General,14,4.7,5.9
+30,12,1,None,None,None,Postpartum Mental Health,27,3.72,8.5,General,20,4.79,8.7,Postpartum Mental Health,35,3.28,11.3
+37,15,0,None,None,None,General,35,3.3,7.0,Postpartum Mental Health,24,4.77,1.2,General,33,4.16,15.1
+32,26,2,None,None,None,Postpartum Mental Health,2,4.02,8.6,High-Risk,5,4.08,4.2,General,1,4.78,12.5
+20,26,0,None,Anxiety,None,Prenatal Nutrition,39,3.92,3.9,Postpartum Mental Health,6,4.29,13.4,General,34,3.95,8.5
+40,32,2,None,None,Gluten-Free,Postpartum Mental Health,37,4.8,10.6,Prenatal Mental Health,28,4.09,12.6,Gestational Diabetes,19,4.49,3.2
+25,10,1,Diabetes,Anxiety,None,Postpartum Mental Health,21,4.86,16.2,Prenatal Nutrition,5,3.1,16.0,General,24,4.61,15.8
+37,16,2,None,None,Vegetarian,High-Risk,5,3.77,9.4,Prenatal Mental Health,39,4.49,5.8,Postpartum Mental Health,4,4.47,7.9
+33,7,1,None,Anxiety,None,Gestational Diabetes,21,3.98,10.3,High-Risk,38,4.01,15.5,Prenatal Nutrition,36,4.85,15.0
+30,17,2,Diabetes,None,None,Prenatal Nutrition,29,4.79,17.1,Postpartum Mental Health,2,4.3,14.1,General,13,3.89,10.7
+35,23,1,None,None,None,Postpartum Mental Health,20,4.61,14.4,General,39,4.01,7.1,Prenatal Mental Health,32,3.35,15.0
+27,26,1,Both,None,None,Postpartum Mental Health,38,3.01,10.3,Gestational Diabetes,21,3.98,11.4,Postpartum Mental Health,9,3.1,18.2
+36,21,3,None,Depression,None,Prenatal Nutrition,20,3.64,5.9,Postpartum Mental Health,37,3.34,3.8,Prenatal Nutrition,39,3.49,18.5
+34,22,1,Diabetes,None,Vegetarian,Prenatal Nutrition,25,3.84,17.8,High-Risk,18,3.56,9.6,Gestational Diabetes,16,3.29,11.2
+41,7,3,Hypertension,None,Vegetarian,General,2,3.46,12.0,General,12,3.32,17.7,General,3,4.12,10.7
+36,14,1,Diabetes,Both,None,High-Risk,32,3.4,5.2,Prenatal Mental Health,17,3.39,9.0,Prenatal Nutrition,20,3.37,6.0
+43,15,0,Both,Anxiety,None,Prenatal Nutrition,26,3.08,6.1,Prenatal Nutrition,37,4.95,17.0,Prenatal Mental Health,10,3.08,18.8
+40,7,1,None,None,Vegan,Prenatal Nutrition,6,4.29,16.3,Prenatal Nutrition,38,3.31,12.2,Postpartum Mental Health,22,3.07,9.7
+43,9,0,Both,Anxiety,None,Prenatal Mental Health,3,3.53,1.8,Postpartum Mental Health,15,3.54,4.6,Postpartum Mental Health,3,4.66,3.4
+22,8,0,None,None,None,Gestational Diabetes,33,3.1,19.8,Prenatal Mental Health,7,4.18,12.0,Gestational Diabetes,11,4.18,9.2
+43,23,1,None,None,None,Prenatal Nutrition,1,3.46,3.5,Gestational Diabetes,14,4.22,10.6,Gestational Diabetes,25,3.72,3.4
+38,29,0,None,None,Vegetarian,High-Risk,5,4.6,16.1,Gestational Diabetes,1,3.31,8.6,Gestational Diabetes,8,4.79,10.5
+40,18,3,Hypertension,Depression,Gluten-Free,Gestational Diabetes,13,4.7,8.5,High-Risk,38,4.59,3.3,Prenatal Nutrition,9,3.14,11.7
+26,31,2,None,Depression,None,Gestational Diabetes,19,3.97,10.4,Prenatal Nutrition,3,4.57,8.9,General,15,4.96,7.4
+29,30,1,Hypertension,None,Vegan,Postpartum Mental Health,12,3.83,17.7,Prenatal Mental Health,37,3.47,2.4,High-Risk,32,4.23,2.4
+38,39,0,Hypertension,None,Vegan,Postpartum Mental Health,25,4.96,8.8,Postpartum Mental Health,31,3.58,2.9,Postpartum Mental Health,3,3.37,18.9
+18,35,1,Diabetes,None,None,Postpartum Mental Health,35,3.4,11.2,General,13,4.88,8.9,High-Risk,4,4.36,15.7
+43,18,3,Diabetes,Both,None,Postpartum Mental Health,12,3.43,1.9,Postpartum Mental Health,18,4.65,6.8,Postpartum Mental Health,30,4.53,16.9
+43,39,1,None,Both,None,Prenatal Mental Health,30,3.58,1.0,Postpartum Mental Health,17,4.4,18.6,Gestational Diabetes,13,3.86,8.0
+18,17,1,None,None,Gluten-Free,Prenatal Nutrition,5,3.35,5.7,Prenatal Mental Health,17,3.16,8.1,General,21,4.72,15.5
+32,14,0,None,Anxiety,None,Postpartum Mental Health,34,3.76,13.9,Prenatal Nutrition,11,3.84,15.4,General,19,3.3,10.2
+19,31,3,None,Anxiety,Vegetarian,General,22,4.82,3.3,Prenatal Mental Health,20,4.12,11.1,Postpartum Mental Health,39,3.56,4.8
+39,24,2,None,None,None,Postpartum Mental Health,39,4.23,3.2,General,10,3.37,14.4,Prenatal Nutrition,22,3.19,3.4
+33,35,2,None,None,Vegetarian,Prenatal Nutrition,13,3.82,8.8,Prenatal Mental Health,29,3.9,5.9,Gestational Diabetes,20,3.42,7.6
+42,34,0,None,None,None,Postpartum Mental Health,3,4.87,13.3,High-Risk,34,4.2,18.9,General,37,3.48,3.6
+25,3,1,Both,None,None,Prenatal Mental Health,20,3.1,14.5,Postpartum Mental Health,17,3.65,11.1,General,31,4.84,20.0
+30,37,0,Hypertension,None,Vegan,High-Risk,31,3.42,4.4,Prenatal Nutrition,13,4.56,16.8,Prenatal Mental Health,10,3.16,1.9
+38,26,0,None,None,Vegan,High-Risk,5,4.13,2.5,Gestational Diabetes,39,4.68,7.9,General,18,3.85,9.4
+18,23,0,Hypertension,Depression,Vegan,Prenatal Nutrition,24,4.23,18.9,General,27,3.65,2.9,Prenatal Mental Health,39,4.06,9.6
+33,39,1,None,None,None,High-Risk,33,3.08,6.0,Gestational Diabetes,26,4.68,13.8,General,20,4.8,6.7
+24,15,3,None,None,Vegetarian,High-Risk,8,3.81,17.2,Postpartum Mental Health,28,3.21,1.1,General,18,5.0,11.9
+22,4,0,Hypertension,None,None,General,24,4.3,17.4,Prenatal Mental Health,13,4.68,10.0,Prenatal Nutrition,11,4.51,3.8
+39,29,1,None,None,None,Prenatal Nutrition,20,4.4,15.7,Gestational Diabetes,12,3.31,4.7,Prenatal Nutrition,22,4.94,15.9
+40,22,3,None,None,None,Prenatal Nutrition,16,4.28,4.2,High-Risk,28,3.17,12.9,Gestational Diabetes,18,4.57,7.3
+20,25,0,Both,None,None,High-Risk,12,3.64,16.6,Prenatal Mental Health,2,4.28,19.6,General,34,4.93,12.2
+29,13,2,Diabetes,None,None,High-Risk,13,3.19,15.6,Postpartum Mental Health,37,3.94,9.8,Gestational Diabetes,23,4.41,14.6
+43,18,3,Hypertension,None,Gluten-Free,High-Risk,39,3.85,12.3,Gestational Diabetes,34,4.82,16.5,Gestational Diabetes,1,3.16,17.9
+33,33,0,Hypertension,None,None,Gestational Diabetes,25,3.26,7.4,General,23,3.73,10.6,Gestational Diabetes,10,3.8,16.9
+36,16,3,Hypertension,None,Vegetarian,Prenatal Mental Health,32,4.9,6.0,Gestational Diabetes,29,3.57,10.4,Gestational Diabetes,1,4.29,12.6
+22,2,3,None,Anxiety,None,Postpartum Mental Health,24,3.95,3.3,Gestational Diabetes,35,4.0,18.7,Postpartum Mental Health,38,3.7,8.4
+39,35,3,None,None,None,Prenatal Mental Health,9,3.63,10.7,Prenatal Nutrition,11,3.91,17.9,Postpartum Mental Health,39,3.55,10.6
+42,34,3,None,None,None,Prenatal Nutrition,23,4.53,12.1,Gestational Diabetes,33,3.69,15.9,General,9,4.15,15.6
+31,30,3,None,Anxiety,Vegan,General,13,4.0,7.8,Postpartum Mental Health,11,4.39,6.6,Postpartum Mental Health,31,4.87,17.7
+22,13,3,Hypertension,None,Vegan,Postpartum Mental Health,32,3.62,10.0,General,9,4.52,11.4,General,7,3.07,3.0
+32,13,0,None,None,Vegan,General,15,4.62,7.9,Postpartum Mental Health,14,4.71,5.3,Prenatal Nutrition,17,4.54,8.3
+34,18,2,Both,Anxiety,Gluten-Free,Gestational Diabetes,36,4.73,13.2,High-Risk,9,4.95,9.4,High-Risk,35,4.45,15.7
+31,32,1,Diabetes,None,None,Prenatal Nutrition,5,4.35,18.1,Prenatal Mental Health,39,3.53,10.2,Prenatal Mental Health,37,4.93,9.2
+37,32,3,Hypertension,None,None,Gestational Diabetes,22,3.09,4.1,Gestational Diabetes,3,4.43,16.8,Postpartum Mental Health,18,4.86,7.3
+22,35,1,Hypertension,Anxiety,Vegetarian,Prenatal Nutrition,16,4.13,8.2,Prenatal Nutrition,29,3.79,18.0,Postpartum Mental Health,33,4.52,8.8
+29,39,0,Diabetes,Anxiety,None,General,10,4.53,3.7,General,19,4.35,8.9,Prenatal Nutrition,4,4.04,12.5
+33,29,3,None,Both,None,General,24,3.27,12.9,Prenatal Nutrition,36,3.95,1.3,Postpartum Mental Health,23,3.41,20.0
+43,29,2,Diabetes,None,None,General,18,3.46,14.8,Prenatal Nutrition,32,4.99,17.4,General,11,4.09,10.4
+43,16,1,None,None,None,Prenatal Nutrition,18,4.76,18.7,Prenatal Nutrition,7,4.46,4.3,General,9,4.53,5.0
+33,10,3,Diabetes,None,None,High-Risk,7,3.04,6.3,Gestational Diabetes,28,4.9,12.8,High-Risk,30,4.79,4.1
+38,30,0,None,None,None,General,4,4.51,19.1,General,18,4.67,1.5,High-Risk,8,4.58,1.8
+24,25,2,Diabetes,None,None,Gestational Diabetes,26,3.95,2.2,General,5,4.81,8.6,High-Risk,5,3.39,11.6
+21,39,1,Diabetes,None,None,Postpartum Mental Health,5,3.89,12.5,Prenatal Nutrition,23,4.63,19.7,General,12,4.2,11.3
+18,20,1,None,Depression,None,Prenatal Nutrition,16,3.01,2.1,Prenatal Mental Health,22,3.92,2.9,Gestational Diabetes,1,3.66,4.9
+22,5,3,None,None,None,Gestational Diabetes,35,4.64,18.0,Gestational Diabetes,26,3.5,9.1,Gestational Diabetes,15,3.02,14.2
+40,1,2,Both,None,Vegetarian,Prenatal Mental Health,26,3.72,11.1,Gestational Diabetes,12,3.74,6.8,High-Risk,25,3.4,15.1
+43,30,2,None,None,None,Prenatal Mental Health,18,4.08,13.7,Postpartum Mental Health,19,3.04,18.2,High-Risk,18,3.23,5.9
+27,3,2,Diabetes,None,None,Postpartum Mental Health,29,4.35,16.8,Gestational Diabetes,1,4.05,17.5,General,38,4.69,7.5
+39,14,2,Hypertension,None,Vegetarian,High-Risk,23,4.41,3.9,Prenatal Nutrition,3,4.01,5.5,Prenatal Nutrition,26,3.52,19.8
+22,30,0,None,None,None,General,14,4.91,1.7,High-Risk,27,4.05,2.5,Postpartum Mental Health,3,3.57,8.1
+21,4,2,None,None,None,Prenatal Nutrition,15,4.06,17.7,Prenatal Nutrition,18,4.95,12.9,Prenatal Mental Health,22,4.92,15.5
+19,18,1,None,None,Vegetarian,Gestational Diabetes,33,3.8,7.0,General,30,4.82,7.4,Gestational Diabetes,26,3.76,9.6
+37,37,1,Diabetes,Depression,None,General,25,4.91,3.5,Gestational Diabetes,2,3.32,13.8,Gestational Diabetes,19,3.02,16.1
+27,25,0,None,Depression,Vegetarian,Gestational Diabetes,21,4.28,9.9,Gestational Diabetes,5,3.74,1.6,General,39,3.57,15.6
+43,1,1,Hypertension,None,Vegetarian,Prenatal Nutrition,17,3.6,12.4,Postpartum Mental Health,29,3.85,3.5,General,36,3.24,13.7
+36,15,1,None,None,Vegetarian,Prenatal Mental Health,23,3.25,1.6,High-Risk,33,3.72,14.0,Prenatal Mental Health,21,3.21,17.2
+43,9,2,Hypertension,Depression,None,General,17,4.69,6.2,Gestational Diabetes,20,4.6,5.0,Prenatal Mental Health,26,3.15,18.8
+18,15,1,Diabetes,Depression,None,Postpartum Mental Health,14,3.72,1.6,Postpartum Mental Health,30,4.05,17.3,High-Risk,13,4.19,12.0
+41,24,0,Both,None,None,High-Risk,29,4.32,9.0,Postpartum Mental Health,5,4.14,2.1,Prenatal Mental Health,36,3.38,5.5
+22,4,2,None,Anxiety,None,Postpartum Mental Health,20,3.94,18.0,High-Risk,21,4.71,5.1,Postpartum Mental Health,24,3.72,8.6
+30,12,3,Diabetes,None,None,High-Risk,30,3.4,19.7,Prenatal Nutrition,15,4.61,20.0,Postpartum Mental Health,26,4.72,15.4
+21,37,2,Diabetes,Anxiety,None,Gestational Diabetes,19,4.2,13.1,Prenatal Nutrition,20,3.26,9.2,Gestational Diabetes,21,3.85,13.4
+33,37,0,Hypertension,Both,None,General,39,3.12,4.1,Prenatal Nutrition,8,4.43,14.4,Postpartum Mental Health,18,4.83,4.4
+41,6,2,Both,None,None,General,13,3.83,18.2,Prenatal Mental Health,31,3.87,4.5,Postpartum Mental Health,15,4.0,2.0
+33,39,2,None,Depression,None,High-Risk,18,4.09,10.8,Prenatal Nutrition,12,3.59,12.6,Postpartum Mental Health,15,3.8,14.0
+40,24,0,None,None,None,Prenatal Mental Health,23,3.87,3.9,High-Risk,21,3.1,14.8,High-Risk,6,4.5,5.8
+19,11,2,Diabetes,Both,Vegetarian,Prenatal Nutrition,33,4.5,18.5,Prenatal Mental Health,30,3.97,7.0,Gestational Diabetes,31,3.15,10.5
+34,13,0,None,None,None,Postpartum Mental Health,39,4.66,15.4,Prenatal Nutrition,27,3.71,16.7,General,28,3.18,15.2
+44,34,0,Diabetes,Anxiety,None,Gestational Diabetes,18,4.54,14.9,Prenatal Mental Health,26,3.5,12.5,Gestational Diabetes,8,4.3,11.7
+37,25,3,Diabetes,None,Vegan,Postpartum Mental Health,9,3.08,14.5,High-Risk,33,4.39,8.4,Gestational Diabetes,29,3.97,2.6
+41,7,1,None,None,None,Postpartum Mental Health,33,3.39,4.8,Prenatal Nutrition,26,4.54,11.6,Gestational Diabetes,21,4.58,4.5
+29,4,1,Diabetes,None,None,Gestational Diabetes,32,4.07,5.0,General,26,3.49,12.0,Prenatal Mental Health,17,4.83,5.2
+35,8,2,None,Both,None,Gestational Diabetes,17,4.87,14.1,Gestational Diabetes,36,3.1,4.1,General,24,3.78,5.9
+20,20,2,Hypertension,Anxiety,Vegetarian,General,19,4.67,5.2,High-Risk,1,4.7,8.7,Prenatal Mental Health,36,4.19,11.7
+18,29,3,Hypertension,Depression,None,Postpartum Mental Health,27,4.69,9.3,Postpartum Mental Health,15,3.02,7.5,High-Risk,31,4.0,10.6
+18,10,3,Diabetes,Depression,None,Prenatal Nutrition,6,3.61,15.9,Postpartum Mental Health,1,4.87,8.6,High-Risk,34,4.96,4.9
+36,34,3,None,None,None,Prenatal Nutrition,35,3.86,15.9,High-Risk,11,4.26,15.5,Prenatal Nutrition,2,4.66,2.3
+28,26,0,None,None,Vegan,High-Risk,37,3.94,9.6,Postpartum Mental Health,2,3.64,10.2,Prenatal Nutrition,3,4.82,4.3
+22,3,3,Hypertension,None,None,Gestational Diabetes,34,3.31,16.1,High-Risk,1,3.49,18.9,High-Risk,30,3.51,19.7
+29,6,3,Hypertension,None,None,General,20,3.06,16.9,General,31,3.02,6.6,High-Risk,8,4.55,9.9
+20,5,2,Hypertension,None,Vegan,Prenatal Nutrition,25,4.89,13.4,High-Risk,16,3.47,8.9,Prenatal Mental Health,7,3.53,17.5
+18,5,3,None,None,None,Prenatal Mental Health,4,3.48,5.3,Prenatal Nutrition,22,3.28,16.0,High-Risk,12,3.42,17.1
+18,23,0,None,None,Vegan,General,10,3.48,6.2,Prenatal Nutrition,18,4.22,11.4,General,19,4.89,10.7
+25,9,0,None,None,None,General,10,3.17,7.0,Prenatal Mental Health,17,3.33,11.4,Prenatal Mental Health,26,3.04,14.4
+27,35,2,Diabetes,None,Vegan,Prenatal Nutrition,24,4.86,3.2,Postpartum Mental Health,30,4.06,2.0,High-Risk,28,4.93,4.7
+28,20,3,None,None,None,Prenatal Mental Health,21,4.16,6.2,Gestational Diabetes,10,4.18,8.6,Prenatal Mental Health,15,3.3,14.1
+29,35,3,None,Both,Vegetarian,High-Risk,11,4.33,5.0,Postpartum Mental Health,35,3.6,6.1,Prenatal Mental Health,14,4.64,6.2
+30,18,0,Both,Anxiety,Vegan,Prenatal Nutrition,27,4.82,9.7,High-Risk,21,3.07,20.0,Postpartum Mental Health,14,3.55,16.8
+29,17,3,None,Both,None,Prenatal Mental Health,16,3.69,18.3,Gestational Diabetes,16,3.07,6.9,Prenatal Nutrition,3,3.7,2.6
+31,24,3,Both,None,None,General,26,4.24,3.0,Gestational Diabetes,6,3.05,17.8,Prenatal Mental Health,29,3.43,15.7
+19,3,3,Hypertension,None,None,Prenatal Mental Health,30,3.08,14.7,Postpartum Mental Health,3,4.48,13.8,Gestational Diabetes,6,4.17,2.9
+36,32,1,Diabetes,Anxiety,None,General,16,3.37,14.1,Gestational Diabetes,21,3.64,7.5,Prenatal Mental Health,23,3.7,17.7
+35,35,2,None,None,None,Prenatal Nutrition,7,4.66,2.8,Gestational Diabetes,13,4.59,11.3,Gestational Diabetes,28,4.31,6.8
+20,38,1,None,None,None,Gestational Diabetes,16,4.53,18.5,Prenatal Nutrition,18,3.86,17.0,Postpartum Mental Health,14,3.03,13.4
+40,13,2,Hypertension,None,None,Prenatal Nutrition,35,3.7,11.8,General,24,3.91,17.8,High-Risk,14,3.13,10.3
+34,25,0,Diabetes,None,None,Postpartum Mental Health,16,3.75,7.9,High-Risk,27,4.03,4.0,Prenatal Mental Health,20,3.2,8.0
+43,9,3,Hypertension,None,None,Postpartum Mental Health,12,4.07,15.4,Postpartum Mental Health,4,4.43,7.5,Postpartum Mental Health,13,3.84,13.3
+25,4,2,None,None,Vegetarian,Postpartum Mental Health,35,3.0,5.9,Prenatal Nutrition,22,3.55,7.4,General,27,4.63,19.0
+43,14,1,Diabetes,None,None,Prenatal Nutrition,21,3.48,14.2,Prenatal Mental Health,24,3.24,1.8,Postpartum Mental Health,35,4.78,1.8
+27,37,3,Diabetes,None,None,High-Risk,36,3.42,1.8,Gestational Diabetes,10,4.11,12.4,Prenatal Nutrition,2,3.49,18.5
+43,34,0,Hypertension,None,None,Prenatal Nutrition,17,3.5,16.9,Gestational Diabetes,2,3.65,17.2,Prenatal Nutrition,24,4.15,12.6
+19,11,2,Diabetes,Anxiety,None,Gestational Diabetes,32,4.61,9.5,Postpartum Mental Health,6,3.88,8.2,High-Risk,29,4.54,16.3
+36,3,2,Diabetes,None,None,Prenatal Mental Health,6,3.56,13.1,General,18,4.29,15.1,Gestational Diabetes,3,3.58,8.3
+26,28,2,Hypertension,None,None,Prenatal Nutrition,24,3.38,5.2,General,17,3.99,12.9,High-Risk,4,3.82,10.0
+24,29,3,None,Depression,None,Prenatal Nutrition,27,4.01,13.9,Postpartum Mental Health,38,4.24,8.1,Gestational Diabetes,2,4.05,17.5
+21,9,1,None,None,Vegan,General,20,4.73,15.7,Postpartum Mental Health,23,4.09,3.7,Gestational Diabetes,20,3.27,8.9
+43,3,1,None,None,None,General,25,3.48,10.0,Prenatal Nutrition,30,4.48,14.5,Gestational Diabetes,15,3.05,11.2
+38,25,2,None,None,Vegetarian,General,2,3.16,12.7,Postpartum Mental Health,21,4.41,17.2,Gestational Diabetes,32,3.31,1.4
+35,34,0,None,None,Vegetarian,Prenatal Nutrition,9,3.71,9.7,Prenatal Mental Health,10,4.07,14.0,Prenatal Nutrition,1,4.25,4.0
+30,12,0,None,None,Vegetarian,High-Risk,28,4.5,18.0,Prenatal Nutrition,13,4.36,1.3,Prenatal Nutrition,38,3.15,13.2
+28,9,1,None,Anxiety,Vegan,Prenatal Mental Health,38,4.1,10.5,Gestational Diabetes,12,4.75,5.1,Prenatal Mental Health,35,3.38,14.6
+41,15,0,None,None,None,Prenatal Mental Health,3,4.63,17.0,Gestational Diabetes,9,3.86,2.3,Prenatal Nutrition,7,3.68,12.1
+21,25,1,Diabetes,None,None,Gestational Diabetes,20,4.92,16.2,Gestational Diabetes,4,3.83,11.8,High-Risk,13,3.16,3.7
+42,5,2,Diabetes,None,Vegan,High-Risk,6,4.59,8.8,Gestational Diabetes,39,4.53,15.4,Prenatal Nutrition,1,3.38,9.5
+38,11,1,None,None,None,High-Risk,39,4.21,5.4,High-Risk,24,4.17,3.1,High-Risk,14,4.82,7.7
+42,34,1,Both,None,None,Prenatal Mental Health,33,3.99,8.7,Prenatal Mental Health,34,3.14,16.9,General,29,3.04,10.4
+21,24,2,Hypertension,None,Vegetarian,Postpartum Mental Health,1,3.08,16.7,Prenatal Nutrition,39,4.78,11.6,Prenatal Nutrition,3,4.31,17.5
+27,15,0,None,None,Vegetarian,General,37,4.97,5.3,Prenatal Nutrition,5,3.06,14.1,High-Risk,24,3.77,15.7
+22,38,1,None,None,Vegan,General,6,3.77,11.0,Gestational Diabetes,15,4.5,19.5,Gestational Diabetes,1,4.35,2.6
+26,8,1,Hypertension,None,Gluten-Free,Prenatal Mental Health,34,3.3,16.3,General,4,4.52,2.6,Postpartum Mental Health,10,4.18,17.9
+41,5,2,Diabetes,None,Vegetarian,High-Risk,15,4.33,7.7,Prenatal Nutrition,39,4.91,18.1,Gestational Diabetes,13,3.45,10.0
+20,26,0,Hypertension,Anxiety,None,Gestational Diabetes,26,3.57,13.2,Prenatal Mental Health,8,3.11,3.4,Prenatal Mental Health,36,4.69,15.1
+34,18,1,None,None,Vegan,Postpartum Mental Health,14,4.17,5.7,Postpartum Mental Health,24,4.19,8.5,High-Risk,9,3.98,3.7
+20,6,2,None,None,None,Prenatal Mental Health,7,4.17,3.1,Prenatal Mental Health,28,3.86,17.2,Gestational Diabetes,14,4.65,13.7
+33,37,1,None,None,None,General,31,3.89,16.1,Gestational Diabetes,27,3.66,18.2,Prenatal Nutrition,36,3.81,5.5
+21,13,3,None,Anxiety,Vegan,Prenatal Nutrition,24,4.67,2.9,Gestational Diabetes,1,3.18,10.6,Prenatal Nutrition,10,4.97,9.3
+35,28,2,None,None,None,High-Risk,31,3.53,6.2,High-Risk,34,4.13,12.3,General,23,4.54,1.3
+34,5,0,None,None,None,Prenatal Nutrition,29,3.9,17.2,Prenatal Nutrition,17,3.96,14.5,Postpartum Mental Health,35,4.93,3.9
+24,13,0,Diabetes,Anxiety,None,Gestational Diabetes,32,4.08,7.6,Prenatal Nutrition,37,3.21,16.8,High-Risk,7,4.03,2.7
+41,17,0,Diabetes,Depression,Vegan,Prenatal Mental Health,17,4.33,19.5,Prenatal Nutrition,38,4.22,3.3,Gestational Diabetes,35,3.95,5.6
+40,32,0,None,None,None,General,14,4.57,19.6,Gestational Diabetes,26,4.48,16.4,Postpartum Mental Health,2,4.51,2.9
+22,29,1,Diabetes,None,Vegetarian,Postpartum Mental Health,36,3.79,6.1,Prenatal Nutrition,24,4.53,10.1,General,15,4.76,14.1
+29,3,1,None,Anxiety,None,Prenatal Nutrition,24,4.29,1.8,General,39,4.81,9.6,Prenatal Mental Health,9,4.93,1.6
+34,34,0,None,Both,Vegetarian,Postpartum Mental Health,27,3.3,14.4,General,21,3.82,9.1,Postpartum Mental Health,17,3.65,12.7
+40,27,0,None,Depression,Vegetarian,Gestational Diabetes,25,4.87,9.6,Postpartum Mental Health,30,4.91,10.7,General,39,4.6,3.7
+30,13,0,Hypertension,None,None,General,32,3.77,2.9,Prenatal Nutrition,13,4.73,19.0,High-Risk,18,3.42,19.0
+40,33,1,Both,None,None,Prenatal Nutrition,18,4.46,14.4,High-Risk,37,3.59,11.4,Prenatal Mental Health,15,4.09,18.7
+42,6,0,Hypertension,None,None,Gestational Diabetes,18,3.04,1.6,Postpartum Mental Health,3,3.32,19.1,Prenatal Nutrition,18,3.36,5.3
+20,24,0,None,Anxiety,Gluten-Free,Postpartum Mental Health,37,3.41,17.5,Gestational Diabetes,32,3.87,4.4,General,24,3.69,12.7
+26,19,3,Hypertension,None,Vegetarian,Postpartum Mental Health,26,3.97,3.6,Prenatal Nutrition,35,3.8,14.8,Prenatal Nutrition,23,4.86,1.5
+34,16,3,None,None,Vegan,Prenatal Nutrition,9,4.76,3.4,General,19,4.15,16.4,Prenatal Mental Health,12,3.29,18.7
+34,28,0,Diabetes,Anxiety,None,General,35,4.05,4.3,High-Risk,14,4.17,13.9,General,23,4.26,10.9
+37,33,2,Hypertension,None,Vegetarian,Postpartum Mental Health,8,4.86,19.2,Postpartum Mental Health,22,4.5,12.5,General,21,4.19,1.8
+33,13,0,None,Depression,Vegetarian,Prenatal Mental Health,20,3.97,14.2,High-Risk,17,4.02,11.7,Prenatal Mental Health,26,3.24,7.5
+42,25,3,Hypertension,None,Vegetarian,Gestational Diabetes,22,3.98,16.2,Prenatal Nutrition,4,3.21,17.4,High-Risk,8,3.65,2.5
+39,36,2,Hypertension,None,Gluten-Free,Prenatal Nutrition,19,3.24,8.6,Prenatal Mental Health,19,4.72,16.6,General,30,4.13,8.5
+30,27,2,None,None,None,High-Risk,30,4.61,7.4,High-Risk,37,3.62,3.3,Prenatal Mental Health,34,3.37,13.7
+44,38,0,Hypertension,Anxiety,None,High-Risk,28,3.49,5.5,High-Risk,2,4.94,17.1,Postpartum Mental Health,2,4.6,9.9
+36,7,3,None,None,Vegetarian,General,35,4.8,10.1,Gestational Diabetes,15,3.24,8.9,Prenatal Nutrition,5,4.94,8.3
+34,5,3,Hypertension,None,Vegetarian,Prenatal Mental Health,11,4.82,11.5,General,2,4.92,5.8,General,31,3.43,3.3
+21,31,2,Diabetes,Both,None,Postpartum Mental Health,31,4.89,13.0,Prenatal Nutrition,11,3.18,17.5,Postpartum Mental Health,33,3.37,5.7
+29,23,0,Diabetes,None,None,High-Risk,39,4.04,5.9,High-Risk,23,3.46,9.2,General,4,3.91,2.9
+26,10,1,Hypertension,None,None,General,36,4.35,19.0,Prenatal Nutrition,10,3.09,16.4,High-Risk,6,4.5,16.3
+36,32,1,Hypertension,None,None,Gestational Diabetes,30,4.56,4.2,General,3,4.41,6.0,Prenatal Mental Health,23,3.56,3.6
+29,30,3,None,None,None,Prenatal Mental Health,23,3.26,19.3,Gestational Diabetes,5,4.7,1.1,General,19,3.04,12.3
+26,39,1,Diabetes,None,Vegetarian,Prenatal Mental Health,19,4.2,1.3,Prenatal Nutrition,3,3.87,10.4,Prenatal Mental Health,8,4.08,7.5
+24,31,3,None,None,Vegetarian,General,12,3.07,10.1,General,38,4.86,2.9,Gestational Diabetes,39,4.91,5.3
+31,18,3,None,None,None,General,15,4.0,7.3,General,13,4.18,15.3,General,13,3.78,13.1
+37,36,3,None,None,None,Postpartum Mental Health,31,3.31,9.5,Postpartum Mental Health,19,4.26,6.2,High-Risk,1,3.84,9.7
+36,2,1,None,None,None,General,37,3.37,11.8,Gestational Diabetes,35,4.69,9.4,High-Risk,6,4.94,8.6
+43,14,3,Hypertension,None,None,Postpartum Mental Health,37,3.73,9.3,Gestational Diabetes,24,3.59,2.7,Postpartum Mental Health,7,4.39,12.3
+32,13,2,None,None,Vegetarian,Postpartum Mental Health,15,3.86,8.9,Prenatal Nutrition,24,3.71,6.4,High-Risk,27,4.44,10.3
+33,29,0,Hypertension,None,Vegan,Prenatal Nutrition,29,4.25,14.9,Prenatal Mental Health,17,4.81,15.8,Prenatal Mental Health,15,4.13,6.8
+38,12,0,None,None,None,Prenatal Mental Health,26,3.15,14.0,Postpartum Mental Health,10,4.8,3.9,Gestational Diabetes,34,4.95,11.6
+22,39,3,None,None,Vegetarian,Gestational Diabetes,2,4.01,16.8,Gestational Diabetes,2,4.95,13.3,High-Risk,23,4.38,13.7
+20,2,0,Hypertension,None,Vegan,Prenatal Mental Health,20,3.37,5.7,General,23,4.8,18.4,General,24,4.79,1.5
+29,32,1,None,Anxiety,Vegan,Prenatal Mental Health,15,4.15,12.6,Gestational Diabetes,6,3.25,13.9,High-Risk,15,4.4,9.9
+42,13,1,None,None,None,Prenatal Nutrition,4,4.27,12.1,Prenatal Mental Health,2,4.65,16.4,Gestational Diabetes,35,4.47,2.1
+37,27,0,Hypertension,Depression,Gluten-Free,Postpartum Mental Health,22,4.11,8.0,High-Risk,21,3.82,3.1,Prenatal Mental Health,4,3.58,4.5
+44,17,1,None,Both,None,Postpartum Mental Health,38,4.48,10.2,High-Risk,35,4.98,5.8,General,37,3.61,11.6
+38,31,0,Diabetes,None,None,General,23,3.67,7.0,Gestational Diabetes,29,3.94,18.0,Postpartum Mental Health,17,4.57,17.5
+21,34,0,None,None,None,Prenatal Nutrition,26,4.53,3.7,Gestational Diabetes,7,4.11,14.6,Postpartum Mental Health,31,3.59,17.8
+38,24,0,None,None,None,General,11,3.87,5.1,Postpartum Mental Health,29,4.06,13.2,Postpartum Mental Health,38,4.13,2.3
+40,35,3,Hypertension,Anxiety,None,Prenatal Nutrition,28,3.97,3.0,Gestational Diabetes,37,3.64,13.6,General,10,3.5,9.0
+33,6,0,None,None,None,General,2,4.3,14.0,Prenatal Mental Health,23,3.15,8.9,Postpartum Mental Health,27,4.63,12.1
+42,19,3,None,None,None,High-Risk,8,3.04,13.6,Gestational Diabetes,33,4.79,1.8,High-Risk,6,3.22,3.8
+24,30,0,None,None,Vegan,Prenatal Mental Health,29,4.31,19.1,Prenatal Nutrition,8,4.61,15.9,General,6,4.66,15.5
+30,7,0,None,Anxiety,Vegan,Prenatal Mental Health,11,4.24,14.9,Prenatal Mental Health,12,3.28,13.9,General,15,4.21,15.1
+38,10,0,Diabetes,Anxiety,None,Gestational Diabetes,37,3.62,2.0,Postpartum Mental Health,10,4.55,10.0,General,4,3.37,18.2
+27,32,1,None,None,Vegan,Postpartum Mental Health,18,3.17,17.8,Prenatal Nutrition,15,4.25,18.1,Prenatal Nutrition,7,4.08,1.2
+43,34,3,Diabetes,None,Vegan,Gestational Diabetes,14,3.18,17.4,Prenatal Nutrition,24,3.82,7.4,Prenatal Mental Health,26,3.56,5.1
+24,28,3,Diabetes,None,Vegetarian,High-Risk,10,4.85,9.4,High-Risk,26,3.51,6.6,Prenatal Nutrition,31,3.65,16.7
+31,15,0,None,None,None,Gestational Diabetes,35,4.38,12.1,Prenatal Mental Health,39,4.72,17.6,Prenatal Nutrition,2,3.7,13.7
+43,30,0,Diabetes,Depression,Vegetarian,Prenatal Mental Health,9,3.25,19.5,Prenatal Nutrition,3,4.4,16.1,Prenatal Nutrition,28,3.13,18.0
+22,37,1,None,None,Vegan,Postpartum Mental Health,35,3.71,11.1,Postpartum Mental Health,2,4.1,10.8,Prenatal Mental Health,13,4.97,2.1
+20,29,1,Both,None,Vegetarian,High-Risk,11,4.18,18.2,High-Risk,6,4.22,3.5,Prenatal Nutrition,18,3.06,12.3
+40,22,1,None,None,None,Prenatal Mental Health,12,4.67,2.6,Prenatal Nutrition,21,3.18,5.1,Postpartum Mental Health,30,4.32,11.8
+28,4,3,Hypertension,Depression,None,General,3,3.09,4.6,Prenatal Mental Health,9,3.95,13.5,General,11,3.74,1.7
+28,20,3,None,Anxiety,Vegetarian,Prenatal Nutrition,39,3.47,9.4,High-Risk,10,3.39,8.3,General,13,4.29,10.8
+35,32,3,None,None,None,High-Risk,14,4.78,12.1,Prenatal Mental Health,36,3.42,16.9,High-Risk,24,3.71,12.6
+32,36,0,Hypertension,Anxiety,None,Postpartum Mental Health,28,3.02,16.5,Prenatal Mental Health,3,4.32,19.0,Gestational Diabetes,29,4.35,4.6
+29,4,3,Hypertension,None,None,Gestational Diabetes,11,3.4,19.8,Prenatal Mental Health,24,4.82,16.3,Postpartum Mental Health,5,4.46,6.2
+26,27,2,None,None,Vegan,Gestational Diabetes,39,4.92,8.4,High-Risk,22,3.81,8.2,Prenatal Mental Health,35,4.38,13.2
+27,17,2,None,None,Vegan,High-Risk,25,4.23,1.9,Prenatal Nutrition,14,3.42,16.0,Gestational Diabetes,19,3.23,9.9
+43,12,1,Hypertension,None,None,Postpartum Mental Health,21,3.52,16.2,Gestational Diabetes,27,4.3,7.7,General,13,4.31,17.3
+29,22,3,Hypertension,None,Gluten-Free,High-Risk,10,3.13,12.5,General,33,4.74,4.2,Prenatal Nutrition,5,3.56,7.5
+34,17,2,Both,Depression,None,Postpartum Mental Health,15,3.06,4.8,Prenatal Nutrition,22,4.5,1.6,High-Risk,14,3.06,6.1
+23,10,1,Diabetes,None,Vegetarian,Gestational Diabetes,19,3.49,10.4,High-Risk,29,4.74,8.3,High-Risk,38,3.83,19.7
+24,1,3,Both,None,Vegetarian,Prenatal Mental Health,22,4.76,15.1,General,19,4.07,18.2,General,22,3.87,18.3
+31,22,0,Hypertension,None,Vegan,General,21,3.83,15.6,General,19,4.5,5.5,Postpartum Mental Health,9,3.93,1.6
+30,26,2,None,None,Vegan,Prenatal Mental Health,32,4.44,10.5,General,6,3.28,4.9,Gestational Diabetes,26,4.41,15.6
+25,18,0,None,Depression,None,General,23,4.84,6.8,Gestational Diabetes,19,3.7,19.4,High-Risk,5,3.62,3.1
+27,14,3,Diabetes,None,Vegan,Gestational Diabetes,13,3.82,19.5,Postpartum Mental Health,13,3.78,1.5,General,29,3.63,1.5
+26,29,2,Hypertension,None,None,Prenatal Mental Health,5,3.38,13.6,High-Risk,26,4.02,15.9,Postpartum Mental Health,22,3.12,6.2
+35,12,3,None,Anxiety,Vegetarian,Prenatal Mental Health,4,4.03,8.8,Gestational Diabetes,22,4.86,7.1,General,3,4.37,6.1
+44,36,0,None,None,Vegetarian,High-Risk,28,4.82,6.3,Gestational Diabetes,21,4.75,1.7,General,28,4.14,16.6
+43,35,2,Both,None,Vegetarian,Prenatal Nutrition,14,4.61,14.9,Postpartum Mental Health,36,3.27,18.4,Postpartum Mental Health,38,3.7,14.5
+19,12,0,Hypertension,None,None,Gestational Diabetes,8,3.13,5.6,General,2,3.35,3.7,Postpartum Mental Health,14,4.41,19.7
+22,7,3,None,None,Vegan,Postpartum Mental Health,9,4.39,4.3,Postpartum Mental Health,30,3.72,11.5,Postpartum Mental Health,14,4.07,14.5
+22,29,3,None,Both,None,Gestational Diabetes,35,4.14,11.1,Postpartum Mental Health,27,3.58,6.2,General,11,3.94,8.9
+23,11,0,None,Anxiety,None,Postpartum Mental Health,37,4.81,6.5,Gestational Diabetes,7,4.23,2.2,High-Risk,9,4.02,14.3
+36,33,2,None,None,Vegetarian,Postpartum Mental Health,21,3.24,12.9,High-Risk,20,4.81,1.9,Prenatal Mental Health,38,4.27,20.0
+25,6,0,None,Anxiety,None,General,18,4.07,3.2,Prenatal Mental Health,31,4.92,3.2,Prenatal Mental Health,6,4.32,14.5
+33,15,3,None,None,Vegan,Postpartum Mental Health,33,4.76,13.4,Postpartum Mental Health,23,4.31,2.4,General,1,3.58,15.5
+30,32,0,Diabetes,None,None,Postpartum Mental Health,8,3.82,6.4,Postpartum Mental Health,13,4.68,15.5,General,25,3.28,18.8
+18,11,3,None,None,None,High-Risk,17,3.96,1.0,General,17,4.05,10.2,High-Risk,16,3.31,3.2
+39,23,0,Diabetes,None,Vegan,Prenatal Mental Health,31,3.14,3.4,General,4,3.42,7.5,Postpartum Mental Health,15,4.28,14.4
+37,26,2,Diabetes,None,None,Gestational Diabetes,34,3.56,18.7,Gestational Diabetes,14,4.05,8.9,General,34,4.75,17.2
+34,34,2,None,None,None,Gestational Diabetes,6,3.65,17.5,General,20,4.11,18.6,Prenatal Nutrition,17,3.82,19.1
+24,34,0,Hypertension,Depression,Vegetarian,Postpartum Mental Health,22,4.89,5.4,Prenatal Nutrition,13,4.48,18.3,Postpartum Mental Health,3,3.34,5.0
+42,29,0,None,None,None,Prenatal Nutrition,14,3.57,15.8,Postpartum Mental Health,3,3.44,14.6,General,3,4.51,10.6
+30,4,2,Diabetes,None,Vegetarian,Gestational Diabetes,3,3.92,12.6,General,26,3.74,17.8,Prenatal Nutrition,37,4.66,13.9
+21,17,3,None,None,None,Postpartum Mental Health,12,4.34,19.4,High-Risk,26,3.73,7.1,Gestational Diabetes,17,4.76,5.7
+21,35,2,Hypertension,None,Vegan,General,36,3.32,8.1,Prenatal Nutrition,18,4.92,8.2,High-Risk,38,4.21,12.4
+23,13,3,Hypertension,None,Vegan,General,12,3.97,13.9,Gestational Diabetes,32,3.89,12.7,Prenatal Nutrition,1,4.72,5.9
+36,39,0,None,None,Vegetarian,General,2,4.48,2.2,Prenatal Mental Health,14,4.51,12.8,General,7,3.03,7.3
+29,15,0,None,Anxiety,None,Postpartum Mental Health,2,4.73,8.5,Postpartum Mental Health,3,4.5,10.2,Prenatal Mental Health,26,3.21,9.4
+39,29,3,Hypertension,None,Vegan,High-Risk,15,4.25,19.3,Postpartum Mental Health,1,3.53,8.6,General,39,3.19,11.1
+24,29,0,Hypertension,None,Vegetarian,Prenatal Nutrition,23,4.34,11.2,High-Risk,26,4.14,19.7,Prenatal Mental Health,19,4.43,9.5
+44,11,3,None,None,Vegetarian,Postpartum Mental Health,29,3.25,6.5,Prenatal Mental Health,24,4.79,16.6,High-Risk,30,3.14,10.4
+27,32,1,Hypertension,None,None,High-Risk,17,4.89,3.3,Prenatal Mental Health,35,3.95,9.3,High-Risk,14,3.99,6.7
+43,2,2,None,None,Vegan,High-Risk,32,3.27,14.4,Gestational Diabetes,14,4.89,14.8,Postpartum Mental Health,13,3.95,4.0
+36,14,1,Hypertension,Anxiety,Vegetarian,Gestational Diabetes,7,4.55,13.3,Gestational Diabetes,3,3.43,6.1,Postpartum Mental Health,20,3.62,1.9
+24,20,3,None,None,None,Postpartum Mental Health,30,3.53,8.1,Prenatal Nutrition,13,3.15,2.9,Prenatal Mental Health,26,4.74,4.7
+20,22,2,Diabetes,None,None,Postpartum Mental Health,28,4.87,19.1,Postpartum Mental Health,14,4.78,7.7,Prenatal Mental Health,27,3.34,12.1
+30,11,3,None,None,Vegan,High-Risk,14,4.44,1.4,General,21,4.7,8.7,High-Risk,25,3.7,15.9
+30,27,2,None,None,None,High-Risk,30,4.51,6.8,Gestational Diabetes,26,4.99,1.3,Prenatal Nutrition,9,4.55,4.2
+35,3,2,None,None,Gluten-Free,High-Risk,17,3.44,18.5,High-Risk,3,4.36,16.5,Prenatal Mental Health,12,3.06,3.1
+43,17,2,None,Anxiety,Vegetarian,Gestational Diabetes,32,3.89,7.1,High-Risk,4,4.87,7.8,Prenatal Mental Health,10,4.35,15.2
+37,28,2,Hypertension,None,Vegetarian,Postpartum Mental Health,6,4.24,5.8,High-Risk,36,4.65,12.0,Prenatal Nutrition,6,4.63,6.8
+25,29,3,None,Anxiety,None,High-Risk,24,4.54,11.2,Gestational Diabetes,1,4.69,2.4,Postpartum Mental Health,34,4.86,19.1
+26,21,2,Diabetes,None,None,General,6,3.21,16.7,Gestational Diabetes,33,4.14,4.3,Postpartum Mental Health,19,4.75,14.6
+24,16,2,None,Anxiety,Vegan,Postpartum Mental Health,27,4.92,3.0,High-Risk,7,3.76,17.9,Prenatal Mental Health,6,3.64,7.2
+18,37,1,None,None,None,Gestational Diabetes,18,4.78,18.9,Gestational Diabetes,11,4.87,12.6,Postpartum Mental Health,2,4.17,6.5
+20,20,0,None,None,Vegetarian,General,24,3.54,16.1,General,27,3.86,19.1,Postpartum Mental Health,15,3.15,11.0
+30,6,0,None,None,None,Prenatal Mental Health,37,4.65,4.4,General,14,4.08,20.0,Gestational Diabetes,17,3.52,2.5
+42,19,1,None,Depression,None,Postpartum Mental Health,24,4.04,14.5,Prenatal Nutrition,22,3.89,8.1,Postpartum Mental Health,16,3.19,3.2
+34,5,1,None,None,None,Prenatal Mental Health,38,3.92,8.3,Postpartum Mental Health,16,4.13,6.7,High-Risk,28,3.63,4.3
+42,3,3,None,None,None,High-Risk,34,3.63,8.6,General,12,3.94,17.3,General,21,4.75,15.7
+41,1,3,None,None,Gluten-Free,Gestational Diabetes,15,4.16,15.9,Prenatal Nutrition,10,3.1,20.0,Prenatal Mental Health,8,3.69,10.8
+18,38,3,Hypertension,Anxiety,None,High-Risk,11,4.46,19.3,Prenatal Mental Health,24,4.76,13.0,Prenatal Mental Health,10,4.12,1.2
+23,15,1,Hypertension,None,None,Gestational Diabetes,22,3.82,3.4,Postpartum Mental Health,18,3.89,16.1,High-Risk,10,3.87,13.8
+38,34,1,None,Anxiety,None,Prenatal Nutrition,24,4.26,9.0,General,22,4.18,15.9,General,10,3.92,9.1
+23,35,2,None,None,None,High-Risk,1,4.4,10.1,Prenatal Mental Health,9,3.28,7.8,General,9,4.94,10.7
+43,25,3,Both,None,None,Prenatal Mental Health,18,4.42,8.1,Prenatal Nutrition,17,3.01,11.9,High-Risk,28,3.59,5.1
+29,24,3,Hypertension,None,Vegan,Gestational Diabetes,12,3.1,7.9,General,38,3.49,16.8,Prenatal Nutrition,24,4.25,11.5
+30,12,3,Hypertension,Both,None,High-Risk,28,4.72,2.0,General,13,4.41,14.1,Prenatal Nutrition,19,3.84,19.6
+30,18,0,None,None,None,Postpartum Mental Health,7,3.92,14.0,Gestational Diabetes,37,3.2,1.4,General,33,3.12,2.4
+32,15,2,Diabetes,Depression,None,Gestational Diabetes,23,3.52,9.3,Prenatal Mental Health,6,4.82,7.4,Prenatal Nutrition,4,3.98,6.4
+38,16,3,Diabetes,None,Gluten-Free,Gestational Diabetes,21,3.48,4.7,General,21,3.43,3.7,Prenatal Nutrition,3,4.63,5.6
+33,27,3,Hypertension,None,None,High-Risk,34,3.97,16.5,High-Risk,36,3.41,5.4,Prenatal Nutrition,12,3.2,5.7
+39,8,3,Both,None,None,Prenatal Nutrition,11,4.77,16.2,Gestational Diabetes,7,3.36,18.2,General,18,3.14,8.2
+38,25,0,None,None,Vegetarian,High-Risk,22,3.76,10.2,Gestational Diabetes,36,3.03,1.7,Prenatal Nutrition,23,3.31,16.5
+28,17,0,None,Anxiety,None,Prenatal Mental Health,35,4.5,6.7,General,25,4.54,5.2,Prenatal Mental Health,20,4.53,18.3
+22,29,1,Diabetes,Depression,None,Prenatal Mental Health,29,3.19,13.1,Gestational Diabetes,11,4.75,6.9,Gestational Diabetes,6,4.45,4.8
+21,8,2,Diabetes,Depression,None,Gestational Diabetes,28,3.95,6.5,Postpartum Mental Health,14,4.23,12.7,General,34,4.13,11.3
+20,15,1,None,Anxiety,Vegetarian,Gestational Diabetes,18,4.98,5.5,Prenatal Mental Health,29,3.38,11.1,High-Risk,2,3.94,13.1
+36,27,2,None,None,None,High-Risk,14,4.54,14.9,Postpartum Mental Health,10,3.57,5.1,Prenatal Nutrition,30,4.78,10.9
+37,7,0,None,None,Vegan,Prenatal Mental Health,18,3.42,1.8,Prenatal Nutrition,5,3.95,4.1,Postpartum Mental Health,9,4.53,9.2
+42,3,3,None,Both,Vegetarian,Prenatal Mental Health,28,4.0,2.8,Postpartum Mental Health,8,4.91,5.5,General,27,4.62,4.6
+35,29,1,Diabetes,None,None,Prenatal Nutrition,24,3.47,1.1,High-Risk,5,3.49,10.5,High-Risk,34,4.63,10.3
+32,24,3,Hypertension,Anxiety,None,Postpartum Mental Health,8,3.82,3.9,Gestational Diabetes,24,4.46,6.2,Gestational Diabetes,24,4.29,8.6
+26,3,1,None,Anxiety,None,Prenatal Nutrition,8,4.56,2.3,Gestational Diabetes,26,3.88,19.0,Prenatal Mental Health,17,3.92,16.1
+34,20,0,None,None,Vegetarian,General,4,4.54,19.9,High-Risk,6,3.6,9.8,High-Risk,29,4.73,15.5
+31,15,0,None,Both,None,Prenatal Nutrition,27,3.46,6.5,Gestational Diabetes,16,3.91,2.1,Prenatal Nutrition,36,4.85,3.5
+32,25,0,None,None,None,High-Risk,36,4.84,3.8,Postpartum Mental Health,36,3.14,14.9,Postpartum Mental Health,12,3.05,2.7
+18,30,1,Hypertension,None,None,Postpartum Mental Health,5,4.19,5.6,Prenatal Nutrition,12,4.6,7.2,Prenatal Nutrition,31,3.1,18.3
+38,14,2,Both,None,Gluten-Free,High-Risk,33,3.76,18.8,General,11,3.49,13.4,High-Risk,9,4.92,11.2
+39,7,1,Diabetes,None,None,General,34,4.0,10.9,High-Risk,3,4.45,6.3,General,19,3.55,17.3
+39,17,2,None,None,Vegan,Postpartum Mental Health,30,4.21,7.9,Postpartum Mental Health,37,3.14,11.8,Postpartum Mental Health,17,4.75,2.1
+20,20,1,Diabetes,None,None,Gestational Diabetes,8,4.12,17.6,Postpartum Mental Health,6,4.91,15.7,Postpartum Mental Health,2,3.78,11.0
+33,36,1,Diabetes,Anxiety,None,Prenatal Mental Health,39,3.97,8.5,Postpartum Mental Health,19,3.39,18.6,High-Risk,5,3.24,11.2
+40,9,0,Diabetes,Depression,None,Prenatal Nutrition,26,4.01,7.4,General,18,4.77,6.0,Gestational Diabetes,39,3.16,17.4
+42,38,3,None,None,None,High-Risk,37,3.35,4.9,Prenatal Mental Health,16,4.62,7.4,Gestational Diabetes,16,3.31,2.9
+28,22,3,None,None,None,General,34,4.63,8.2,Gestational Diabetes,23,4.94,9.8,Prenatal Nutrition,17,3.5,5.6
+29,2,2,None,Depression,None,Prenatal Mental Health,7,4.08,7.0,Gestational Diabetes,37,3.96,18.6,High-Risk,27,3.98,8.7
+27,24,3,None,None,Vegan,Prenatal Nutrition,28,3.26,13.9,Prenatal Nutrition,9,4.45,18.1,Postpartum Mental Health,7,4.4,17.5
+33,8,1,None,None,Vegan,Prenatal Mental Health,39,4.53,6.5,Prenatal Mental Health,3,3.74,2.7,High-Risk,8,4.97,18.8
+25,11,1,None,None,Vegetarian,Prenatal Nutrition,39,4.86,12.0,Gestational Diabetes,8,3.37,3.5,Postpartum Mental Health,8,3.88,19.9
+23,13,0,None,None,None,Gestational Diabetes,28,4.89,2.3,Prenatal Nutrition,38,3.89,10.4,Prenatal Nutrition,23,4.04,19.2
+29,17,0,Hypertension,None,None,Postpartum Mental Health,14,3.74,4.6,Prenatal Nutrition,4,3.33,3.0,General,32,4.04,1.1
+41,8,3,None,Both,None,Prenatal Mental Health,38,3.27,8.7,Postpartum Mental Health,12,4.96,7.6,General,18,4.08,1.9
+38,21,2,None,None,Vegetarian,Prenatal Mental Health,4,4.04,18.8,High-Risk,31,3.19,3.8,High-Risk,38,4.04,3.8
+25,18,3,Both,None,Vegan,Prenatal Mental Health,18,3.23,8.2,Postpartum Mental Health,25,4.18,13.1,Postpartum Mental Health,12,3.02,7.6
+43,30,3,Diabetes,None,None,Postpartum Mental Health,25,4.87,13.6,General,16,4.25,19.0,General,15,3.0,16.8
+21,18,3,Diabetes,None,None,General,7,3.37,5.8,Gestational Diabetes,14,4.08,19.9,Postpartum Mental Health,28,3.2,18.0
+43,31,3,Both,None,None,Prenatal Nutrition,38,3.51,3.4,Prenatal Nutrition,13,4.32,8.1,Prenatal Nutrition,38,3.2,4.5
+25,38,1,Hypertension,Anxiety,None,Gestational Diabetes,28,3.81,2.1,High-Risk,7,3.23,12.4,High-Risk,31,4.41,12.8
+43,32,2,Both,Anxiety,None,Prenatal Mental Health,5,3.77,6.8,Gestational Diabetes,12,4.11,17.3,Postpartum Mental Health,9,3.41,18.4
+35,11,1,None,None,Vegetarian,Postpartum Mental Health,3,4.59,4.0,Prenatal Nutrition,37,3.57,3.2,High-Risk,8,4.79,9.8
+22,25,2,None,Depression,Vegetarian,General,31,3.91,4.3,Prenatal Nutrition,4,4.88,14.1,Postpartum Mental Health,19,4.86,3.0
+26,33,0,None,Anxiety,None,Prenatal Nutrition,20,3.34,15.5,Postpartum Mental Health,2,4.52,8.8,Gestational Diabetes,8,4.95,9.7
+21,38,3,None,Anxiety,None,Postpartum Mental Health,19,3.53,1.3,High-Risk,35,4.95,4.9,Gestational Diabetes,34,4.88,8.1
+44,8,1,None,None,Gluten-Free,Gestational Diabetes,11,4.02,11.6,High-Risk,3,3.08,8.7,Postpartum Mental Health,4,3.54,12.0
+39,11,2,Hypertension,None,None,Gestational Diabetes,3,3.29,8.2,Gestational Diabetes,4,3.57,2.4,Prenatal Nutrition,31,4.02,9.3
+34,22,0,Diabetes,None,None,Prenatal Nutrition,23,4.22,10.6,Prenatal Nutrition,38,3.39,14.2,High-Risk,38,3.35,1.3
+26,24,0,Hypertension,None,None,Prenatal Mental Health,7,4.13,11.7,High-Risk,12,3.02,5.8,Prenatal Mental Health,3,4.61,19.9
+18,17,3,None,None,None,Gestational Diabetes,23,4.43,7.0,High-Risk,19,3.48,6.9,Postpartum Mental Health,35,4.78,11.3
+38,12,2,Diabetes,None,None,General,7,4.88,6.6,Gestational Diabetes,10,4.36,3.3,Postpartum Mental Health,19,4.7,10.0
+37,32,1,Hypertension,Depression,Vegan,Postpartum Mental Health,34,4.82,14.9,Postpartum Mental Health,1,3.46,17.4,Gestational Diabetes,29,3.87,19.1
+30,15,3,None,Depression,None,General,19,4.89,17.6,Prenatal Mental Health,17,4.02,10.4,General,10,4.52,4.0
+33,16,1,Hypertension,Depression,None,Prenatal Mental Health,9,3.49,4.7,General,16,4.78,11.9,Gestational Diabetes,12,3.2,4.6
+30,22,0,None,None,Vegetarian,General,18,3.26,2.9,Prenatal Mental Health,9,4.39,11.8,High-Risk,30,3.08,16.4
+31,28,1,None,None,None,General,25,3.6,18.1,High-Risk,9,3.79,8.8,Gestational Diabetes,30,4.51,6.0
+20,20,1,Diabetes,None,Vegan,High-Risk,14,4.79,7.6,Prenatal Nutrition,9,3.74,4.7,Prenatal Mental Health,18,3.85,16.2
+23,33,3,None,None,Vegan,General,25,4.94,11.5,General,12,3.91,15.2,Prenatal Nutrition,24,4.99,6.2
+35,10,1,None,None,None,Prenatal Nutrition,19,4.72,7.8,General,15,3.35,3.4,Prenatal Mental Health,32,3.19,1.6
+36,32,3,Diabetes,None,Vegetarian,Postpartum Mental Health,39,3.22,3.4,Prenatal Nutrition,2,4.27,3.0,Prenatal Nutrition,9,4.71,10.8
+22,33,0,Hypertension,None,None,High-Risk,15,4.89,12.2,General,11,3.73,14.5,Prenatal Mental Health,24,3.96,4.7
+32,2,3,None,Anxiety,Gluten-Free,Postpartum Mental Health,16,3.85,11.0,Prenatal Nutrition,11,4.7,5.0,Gestational Diabetes,26,4.65,15.4
+42,33,3,None,None,None,Postpartum Mental Health,27,3.02,4.9,General,8,4.51,6.8,Prenatal Mental Health,3,4.63,13.2
+19,33,2,None,Anxiety,Gluten-Free,Prenatal Mental Health,10,3.88,9.6,Gestational Diabetes,32,4.22,10.0,Gestational Diabetes,23,4.83,18.5
+27,13,1,Hypertension,None,Vegetarian,Prenatal Mental Health,4,3.09,16.1,Gestational Diabetes,6,3.73,9.5,Gestational Diabetes,11,3.6,15.9
+41,30,0,None,None,None,High-Risk,19,4.09,12.2,Prenatal Mental Health,20,3.42,14.5,High-Risk,10,4.9,4.4
+35,33,3,None,None,None,Gestational Diabetes,28,3.68,2.8,General,39,4.55,12.8,Gestational Diabetes,36,3.3,16.2
+44,13,0,Both,None,Gluten-Free,Prenatal Mental Health,21,3.95,11.4,Postpartum Mental Health,35,3.97,13.2,General,13,3.16,13.2
+30,26,2,Hypertension,None,Vegan,Prenatal Mental Health,14,4.23,14.4,Prenatal Nutrition,8,3.45,14.6,Prenatal Mental Health,29,3.86,13.7
+22,22,1,None,None,None,Prenatal Mental Health,33,4.74,16.1,General,34,3.39,6.6,Postpartum Mental Health,38,4.66,16.8
+40,39,3,Hypertension,None,Vegetarian,Postpartum Mental Health,10,4.32,13.0,Gestational Diabetes,19,3.33,7.1,Postpartum Mental Health,13,3.95,11.9
+41,2,1,Hypertension,None,None,High-Risk,19,3.87,3.9,Gestational Diabetes,7,4.55,9.3,Postpartum Mental Health,26,4.66,9.9
+18,38,2,None,None,None,Postpartum Mental Health,30,4.64,14.5,Prenatal Nutrition,31,3.46,6.8,General,20,4.46,13.1
+39,39,2,None,Depression,None,Prenatal Nutrition,22,4.81,13.9,Postpartum Mental Health,18,4.05,19.7,Gestational Diabetes,5,3.42,6.7
+18,26,0,Diabetes,None,None,Postpartum Mental Health,3,3.24,1.5,General,14,3.9,16.5,Prenatal Mental Health,20,4.9,4.5
+35,15,3,None,Anxiety,Vegan,Prenatal Nutrition,37,4.06,8.8,General,39,4.16,4.1,Prenatal Nutrition,14,3.12,12.7
+32,34,0,Hypertension,None,None,General,18,3.57,7.3,Postpartum Mental Health,36,4.75,1.1,Prenatal Nutrition,14,4.8,5.4
+34,11,2,None,Depression,Vegan,General,11,3.09,13.7,Postpartum Mental Health,17,4.74,1.8,High-Risk,8,3.61,2.5
+28,3,1,None,Anxiety,None,Prenatal Nutrition,2,4.34,5.1,Postpartum Mental Health,37,3.9,5.6,General,13,4.0,1.0
+38,6,0,None,None,None,Prenatal Nutrition,12,4.73,12.2,Gestational Diabetes,9,3.03,3.2,Prenatal Mental Health,24,3.84,12.6
+43,9,0,None,None,None,Postpartum Mental Health,6,3.33,18.4,Prenatal Nutrition,20,3.85,11.1,Gestational Diabetes,15,3.34,7.9
+42,6,1,None,Depression,None,Prenatal Nutrition,29,4.62,16.2,Postpartum Mental Health,28,4.21,17.3,Postpartum Mental Health,1,3.72,15.3
+39,9,0,None,None,None,High-Risk,30,4.71,18.5,Prenatal Nutrition,20,4.12,15.0,General,22,3.39,8.1
+44,39,1,Diabetes,None,None,General,2,4.83,19.6,Prenatal Mental Health,36,4.3,5.1,General,34,3.41,10.2
+44,31,3,Both,None,None,General,9,3.53,1.2,General,27,3.31,8.6,Prenatal Mental Health,3,3.37,8.7
+34,32,1,Diabetes,Anxiety,None,Gestational Diabetes,2,4.81,12.8,General,8,4.29,10.6,Gestational Diabetes,26,3.98,13.4
+30,12,3,Diabetes,Anxiety,None,Prenatal Nutrition,29,3.64,8.8,High-Risk,32,3.37,16.4,High-Risk,14,4.6,7.8
+18,8,1,None,None,None,Prenatal Mental Health,33,4.1,17.3,Prenatal Mental Health,1,4.5,16.9,Gestational Diabetes,8,4.14,19.3
+19,8,2,Both,None,Vegan,Prenatal Mental Health,10,3.1,5.8,Postpartum Mental Health,17,3.68,18.3,High-Risk,16,4.79,18.8
+26,28,2,None,None,Vegan,Prenatal Nutrition,34,3.09,19.6,Postpartum Mental Health,9,4.42,10.7,High-Risk,21,4.27,17.1
+20,20,3,Both,None,None,High-Risk,8,4.44,12.7,Gestational Diabetes,20,3.1,14.2,Postpartum Mental Health,10,4.38,18.5
+18,7,3,Both,Both,None,Prenatal Mental Health,37,3.89,16.1,Prenatal Mental Health,32,3.82,3.1,Postpartum Mental Health,25,4.34,9.5
+38,11,2,Hypertension,None,None,Gestational Diabetes,33,3.51,2.6,Postpartum Mental Health,2,4.41,11.7,Prenatal Mental Health,38,3.9,11.2
+33,20,3,Both,None,Gluten-Free,Prenatal Nutrition,6,3.38,4.5,High-Risk,32,3.45,5.7,Gestational Diabetes,22,4.38,15.1
+40,16,1,Hypertension,None,None,High-Risk,19,4.34,15.4,Prenatal Nutrition,9,4.59,9.2,High-Risk,4,3.14,14.2
+23,4,1,None,Anxiety,None,High-Risk,32,3.0,1.4,General,30,4.26,13.0,Prenatal Mental Health,4,4.72,17.9
+34,6,2,None,None,None,Postpartum Mental Health,27,4.61,16.5,Prenatal Mental Health,20,4.18,5.9,High-Risk,30,4.56,14.6
+22,22,0,Hypertension,None,None,High-Risk,1,3.16,1.3,General,38,3.71,2.0,General,2,3.49,20.0
+22,26,1,None,None,None,Prenatal Mental Health,33,3.38,13.5,Prenatal Nutrition,1,3.96,1.2,Prenatal Nutrition,29,4.54,7.6
+23,3,3,Hypertension,None,Vegetarian,Prenatal Mental Health,32,3.77,7.9,Prenatal Mental Health,5,4.19,1.4,Prenatal Nutrition,36,3.03,16.8
+20,14,0,Both,None,None,Prenatal Nutrition,5,3.97,12.6,Prenatal Nutrition,35,3.94,1.2,High-Risk,21,3.43,14.3
+38,11,0,None,None,Vegetarian,Prenatal Nutrition,17,3.71,14.2,Postpartum Mental Health,36,4.4,3.1,Prenatal Mental Health,21,3.13,14.1
+40,18,1,Diabetes,None,None,High-Risk,8,3.64,7.5,Postpartum Mental Health,1,3.87,5.6,Postpartum Mental Health,21,4.56,7.2
+22,12,1,Diabetes,Depression,None,Gestational Diabetes,34,4.93,3.1,Postpartum Mental Health,14,3.4,5.2,Gestational Diabetes,4,4.51,15.9
+38,23,0,Diabetes,Anxiety,Vegan,General,9,4.28,2.3,Prenatal Nutrition,9,3.43,19.7,High-Risk,1,4.63,18.1
+22,12,0,Both,Both,None,Postpartum Mental Health,23,3.05,12.2,Prenatal Nutrition,30,3.01,6.8,High-Risk,26,3.01,5.2
+27,13,2,Hypertension,None,Vegan,General,35,3.86,10.9,Prenatal Nutrition,24,3.6,3.4,Gestational Diabetes,2,4.0,12.9
+27,25,3,Both,Both,None,High-Risk,7,4.75,15.1,General,4,4.5,11.4,Postpartum Mental Health,9,4.41,8.5
+36,19,2,Diabetes,None,None,High-Risk,15,3.6,10.7,Prenatal Nutrition,14,4.59,17.3,High-Risk,18,3.31,19.8
+34,36,1,None,None,Gluten-Free,General,20,3.19,9.0,Postpartum Mental Health,25,3.4,13.9,General,11,4.3,10.1
+38,8,2,None,None,None,Postpartum Mental Health,25,4.52,8.6,High-Risk,4,4.92,6.6,Postpartum Mental Health,25,3.17,5.3
+31,29,2,Hypertension,None,Vegan,General,3,4.21,1.5,Prenatal Nutrition,25,4.0,11.7,General,26,3.36,8.3
+26,32,2,None,None,None,Prenatal Nutrition,24,4.14,7.4,High-Risk,10,4.83,14.6,Prenatal Nutrition,36,3.95,13.4
+31,18,2,Hypertension,None,Vegan,Prenatal Mental Health,34,3.11,19.5,Postpartum Mental Health,35,4.41,14.8,Gestational Diabetes,35,4.31,2.4
+18,6,3,Hypertension,None,None,Gestational Diabetes,22,3.28,17.6,Prenatal Nutrition,7,4.44,13.7,Postpartum Mental Health,38,3.29,12.5
+36,18,3,None,None,None,Prenatal Nutrition,11,4.25,7.3,General,13,3.17,17.5,Postpartum Mental Health,3,3.37,18.7
+30,19,0,Hypertension,None,Vegetarian,Prenatal Mental Health,8,3.42,12.2,General,4,3.44,17.5,Prenatal Mental Health,35,3.41,17.2
+30,22,1,Diabetes,None,Vegan,Gestational Diabetes,39,4.01,17.1,High-Risk,36,3.02,12.0,Prenatal Mental Health,22,3.48,2.3
+21,37,2,None,None,Vegan,Gestational Diabetes,35,4.09,9.4,Gestational Diabetes,14,4.43,9.2,Gestational Diabetes,8,3.45,19.9
+18,32,0,None,Anxiety,Vegan,Gestational Diabetes,38,3.57,1.3,General,18,3.69,13.2,Postpartum Mental Health,15,3.79,14.3
+34,3,0,None,Anxiety,Vegan,High-Risk,8,4.9,2.4,General,8,4.57,16.5,Prenatal Nutrition,7,4.31,4.1
+25,28,0,None,None,None,Gestational Diabetes,37,4.68,10.7,General,32,3.68,1.1,High-Risk,19,3.88,1.2
+19,10,3,Diabetes,None,None,Postpartum Mental Health,27,4.44,19.4,Postpartum Mental Health,27,4.64,19.8,Gestational Diabetes,17,4.55,4.3
+25,35,2,None,None,None,General,28,3.16,14.2,General,37,3.26,4.5,Gestational Diabetes,1,4.44,16.9
+24,29,2,Hypertension,Anxiety,None,Postpartum Mental Health,34,3.21,2.3,Prenatal Mental Health,23,3.35,9.9,Prenatal Mental Health,29,3.25,1.4
+43,15,1,None,None,None,General,32,3.99,4.6,Prenatal Nutrition,7,3.68,17.6,Prenatal Nutrition,13,3.1,5.4
+43,33,2,None,None,None,Prenatal Nutrition,15,3.32,15.7,General,12,3.82,5.3,Gestational Diabetes,29,4.76,15.4
+19,7,2,Diabetes,None,None,Prenatal Nutrition,17,4.96,17.0,Gestational Diabetes,25,3.7,10.1,Prenatal Nutrition,6,3.16,12.1
+39,12,0,Hypertension,None,Vegetarian,General,33,3.32,12.7,Gestational Diabetes,3,4.53,3.5,Gestational Diabetes,5,3.3,15.9
+39,30,1,None,None,None,Postpartum Mental Health,16,3.97,13.2,General,26,3.19,8.5,Prenatal Mental Health,34,3.04,15.2
+20,21,2,None,Anxiety,None,General,29,3.73,1.5,General,4,3.7,4.4,High-Risk,11,4.26,2.0
+44,31,3,None,None,None,Gestational Diabetes,9,4.28,16.7,Prenatal Mental Health,36,4.67,7.9,Prenatal Mental Health,9,4.16,18.0
+35,24,2,None,None,Vegetarian,High-Risk,33,3.26,16.0,General,15,3.13,8.1,Gestational Diabetes,38,4.97,5.3
+29,20,0,Hypertension,Anxiety,Vegetarian,Prenatal Nutrition,29,3.86,5.9,General,32,4.88,19.9,Prenatal Nutrition,9,4.77,11.5
+18,37,3,None,Anxiety,Vegetarian,High-Risk,13,3.55,14.5,Prenatal Nutrition,29,4.97,19.9,General,8,3.82,13.2
+39,4,0,None,None,None,Gestational Diabetes,21,4.78,5.1,Gestational Diabetes,10,3.18,3.2,Prenatal Mental Health,3,3.74,4.2
+29,28,2,None,None,None,Gestational Diabetes,21,3.08,1.8,Prenatal Mental Health,21,3.58,14.8,Prenatal Nutrition,13,3.59,19.5
+22,20,3,Diabetes,None,None,Prenatal Nutrition,5,4.83,4.8,Gestational Diabetes,16,3.74,2.0,Prenatal Mental Health,19,3.3,10.3
+44,24,1,Both,Depression,None,Prenatal Nutrition,10,4.67,4.4,Prenatal Mental Health,19,4.55,1.6,Gestational Diabetes,34,3.28,2.1
+42,32,1,None,None,None,Gestational Diabetes,6,3.6,7.4,Gestational Diabetes,29,4.19,3.0,Prenatal Nutrition,32,3.26,18.8
+34,36,3,Diabetes,Depression,None,Prenatal Mental Health,13,4.58,9.0,General,18,4.29,19.3,High-Risk,16,3.23,12.1
+33,34,3,None,None,None,High-Risk,1,3.06,10.7,Gestational Diabetes,16,4.52,18.9,Prenatal Nutrition,36,3.48,14.3
+32,36,0,None,None,Gluten-Free,High-Risk,20,4.93,10.1,Gestational Diabetes,1,3.24,4.7,Postpartum Mental Health,18,3.61,11.0
+40,2,3,Diabetes,None,Gluten-Free,Prenatal Mental Health,8,4.05,6.1,Prenatal Mental Health,2,4.67,4.1,General,14,4.92,16.9
+32,15,0,Diabetes,None,None,Postpartum Mental Health,10,3.61,1.6,High-Risk,15,4.41,5.6,Gestational Diabetes,30,4.16,1.6
+22,34,2,Both,None,None,High-Risk,9,3.73,12.5,Prenatal Mental Health,39,4.15,10.8,Prenatal Nutrition,2,4.98,6.1
+38,36,0,Hypertension,None,None,General,3,3.13,8.5,Prenatal Mental Health,28,4.78,11.8,Gestational Diabetes,13,3.74,9.9
+31,6,3,None,None,None,Gestational Diabetes,11,4.98,6.7,Prenatal Mental Health,1,4.4,5.2,Prenatal Mental Health,27,3.92,2.5
+19,39,3,Diabetes,Both,Vegan,Gestational Diabetes,12,3.08,17.5,Postpartum Mental Health,5,3.4,15.4,Prenatal Mental Health,17,3.65,14.4
+28,12,2,None,None,None,Prenatal Mental Health,10,4.31,15.2,Postpartum Mental Health,22,3.86,6.9,Prenatal Nutrition,31,3.37,8.5
+36,3,3,Hypertension,Anxiety,Vegetarian,High-Risk,25,3.89,17.3,Postpartum Mental Health,36,3.99,18.5,Postpartum Mental Health,15,3.29,6.2
+24,18,3,None,None,None,Postpartum Mental Health,25,4.9,10.4,Prenatal Mental Health,13,3.11,13.5,Prenatal Nutrition,20,4.89,1.1
+23,21,1,Hypertension,None,Gluten-Free,High-Risk,11,3.49,3.5,High-Risk,1,4.91,9.3,High-Risk,5,4.97,14.7
+19,15,1,None,None,None,Gestational Diabetes,36,4.06,14.2,Prenatal Mental Health,16,3.26,16.0,Postpartum Mental Health,7,3.09,16.8
+23,33,2,None,None,Vegetarian,Prenatal Nutrition,39,3.96,4.9,General,22,4.39,16.5,Gestational Diabetes,18,3.3,8.5
+35,35,0,Diabetes,Depression,None,General,26,4.41,9.4,High-Risk,32,4.01,6.5,Prenatal Nutrition,11,3.85,11.7
+19,26,1,None,None,Vegetarian,Prenatal Mental Health,14,3.14,2.2,Postpartum Mental Health,16,3.05,7.5,Gestational Diabetes,32,3.37,5.3
+35,8,0,Hypertension,None,None,Prenatal Nutrition,39,3.39,16.7,Gestational Diabetes,15,4.85,18.8,General,27,3.73,12.8
+32,36,3,None,None,None,Postpartum Mental Health,1,3.43,3.4,Gestational Diabetes,12,4.7,4.1,Postpartum Mental Health,26,3.26,1.2
+44,30,1,None,None,Vegan,Prenatal Nutrition,4,4.48,18.2,Prenatal Nutrition,1,4.05,1.8,Prenatal Nutrition,37,3.91,10.3
+36,23,2,None,None,Vegan,Prenatal Nutrition,30,3.38,17.4,High-Risk,17,3.46,9.6,General,28,3.54,13.2
+19,14,2,None,Anxiety,Vegan,Postpartum Mental Health,12,4.15,9.8,Postpartum Mental Health,28,3.24,16.2,Prenatal Nutrition,2,3.7,18.4
+37,14,2,Diabetes,Anxiety,Vegetarian,Prenatal Nutrition,35,3.43,15.1,High-Risk,7,3.73,15.7,High-Risk,20,3.19,8.2
+42,2,1,None,None,Vegan,Prenatal Mental Health,13,4.72,12.8,High-Risk,9,3.51,18.5,Prenatal Mental Health,4,3.86,15.5
+23,37,0,Both,None,None,Gestational Diabetes,31,4.88,16.3,Gestational Diabetes,22,4.01,11.1,Gestational Diabetes,13,4.97,12.4
+18,5,3,Hypertension,None,None,High-Risk,38,4.04,9.2,Prenatal Mental Health,26,4.93,2.9,Prenatal Nutrition,24,3.66,18.6
+41,38,0,None,None,None,Prenatal Nutrition,23,3.7,15.9,General,12,4.15,12.2,Postpartum Mental Health,38,4.75,8.6
+32,14,0,Hypertension,None,Vegetarian,Prenatal Mental Health,4,3.47,9.8,Prenatal Nutrition,7,4.78,15.8,Prenatal Nutrition,29,4.69,7.1
+40,39,3,Hypertension,None,None,High-Risk,16,3.1,18.9,Postpartum Mental Health,15,4.3,2.8,Prenatal Nutrition,36,4.9,17.9
+27,25,3,Diabetes,None,None,High-Risk,7,3.54,10.2,High-Risk,38,3.95,4.3,Prenatal Nutrition,2,4.58,1.9
+36,20,1,None,None,None,Prenatal Nutrition,22,4.31,9.8,Prenatal Nutrition,21,4.71,1.2,Prenatal Nutrition,18,4.32,3.6
+34,2,1,None,None,Vegan,Prenatal Mental Health,29,4.07,15.9,High-Risk,14,3.94,12.3,Postpartum Mental Health,8,4.71,2.6
+22,39,1,Diabetes,None,None,Gestational Diabetes,11,4.89,16.6,Gestational Diabetes,2,4.74,17.8,Postpartum Mental Health,15,3.15,17.0
+21,6,1,Diabetes,None,None,Prenatal Nutrition,33,3.79,11.5,General,8,3.58,13.7,Prenatal Nutrition,17,3.93,1.2
+27,17,1,Diabetes,None,None,Postpartum Mental Health,29,4.39,4.4,Gestational Diabetes,6,3.26,19.7,Prenatal Mental Health,23,4.98,17.4
+41,25,3,None,Anxiety,None,High-Risk,39,3.98,9.9,Prenatal Nutrition,37,4.71,2.2,Prenatal Nutrition,2,4.54,9.6
+34,28,0,Diabetes,None,None,Prenatal Nutrition,12,4.03,19.4,Postpartum Mental Health,37,4.17,18.2,Gestational Diabetes,6,4.92,1.1
+27,2,1,None,None,Vegetarian,High-Risk,7,3.54,15.3,High-Risk,33,4.78,16.5,Gestational Diabetes,29,4.56,8.6
+34,35,1,None,None,Vegetarian,Prenatal Mental Health,39,3.91,16.4,General,6,4.88,7.0,Postpartum Mental Health,27,4.75,4.5
+37,37,0,None,Depression,Vegetarian,General,26,3.94,1.6,Gestational Diabetes,26,3.11,19.5,Gestational Diabetes,37,4.41,12.9
+41,5,1,Hypertension,None,None,Prenatal Nutrition,9,4.41,9.9,Prenatal Nutrition,39,4.0,6.5,Gestational Diabetes,34,4.52,13.9
+22,1,0,None,None,Vegan,Gestational Diabetes,34,4.88,13.3,Gestational Diabetes,37,3.75,17.9,High-Risk,18,4.05,10.3
+19,12,0,None,None,None,Prenatal Nutrition,13,3.66,16.8,High-Risk,14,4.25,17.7,Prenatal Nutrition,10,4.85,1.8
+23,36,3,Diabetes,Anxiety,None,High-Risk,36,3.08,1.9,High-Risk,37,4.59,15.4,Prenatal Nutrition,38,4.65,13.5
+38,23,2,None,Both,Vegan,Prenatal Mental Health,25,3.99,17.2,Postpartum Mental Health,8,3.56,11.7,Prenatal Nutrition,17,4.69,17.0
+19,31,3,None,None,None,Postpartum Mental Health,24,4.09,11.4,General,39,4.11,3.3,Prenatal Nutrition,13,4.35,14.7
+30,11,2,None,Depression,None,Gestational Diabetes,17,3.34,4.7,Prenatal Mental Health,13,4.42,11.1,General,27,3.61,16.8
+28,10,2,Diabetes,Depression,Vegan,Prenatal Mental Health,2,4.52,7.0,Gestational Diabetes,13,3.27,7.8,Prenatal Nutrition,2,3.07,4.8
+28,3,2,Hypertension,Depression,None,Prenatal Nutrition,13,4.97,6.4,High-Risk,28,4.63,16.1,Postpartum Mental Health,34,4.87,17.9
+33,14,1,None,None,Vegetarian,Postpartum Mental Health,31,4.89,11.1,Prenatal Nutrition,18,4.21,15.4,Postpartum Mental Health,31,4.17,7.1
+28,16,3,Diabetes,None,None,Prenatal Mental Health,29,3.39,2.0,Gestational Diabetes,19,4.9,18.3,General,23,3.6,1.3
+36,10,2,Diabetes,None,Vegetarian,General,28,4.75,4.0,Postpartum Mental Health,38,3.68,1.3,Prenatal Nutrition,7,3.3,17.0
+32,29,0,None,Anxiety,None,Gestational Diabetes,27,4.41,16.4,Postpartum Mental Health,32,3.22,16.4,Prenatal Mental Health,38,4.66,18.9
+42,10,1,Hypertension,None,None,High-Risk,15,3.91,3.5,High-Risk,22,4.01,18.8,Prenatal Nutrition,33,4.67,13.5
+40,12,3,Diabetes,None,Vegetarian,Prenatal Mental Health,31,4.08,5.4,High-Risk,2,3.17,16.0,Postpartum Mental Health,12,4.63,5.4
+40,30,2,Hypertension,None,None,Prenatal Mental Health,15,4.7,9.6,High-Risk,13,4.94,3.5,High-Risk,12,4.29,5.8
+33,1,0,None,Anxiety,None,General,33,3.96,10.8,Prenatal Mental Health,23,3.08,2.5,Gestational Diabetes,19,3.73,9.9
+28,5,3,Diabetes,Anxiety,None,Prenatal Nutrition,20,3.75,15.5,High-Risk,25,4.51,1.4,High-Risk,9,3.61,18.1
+39,20,3,Hypertension,None,None,Gestational Diabetes,12,3.99,9.5,Gestational Diabetes,28,4.05,12.9,Prenatal Mental Health,10,3.02,3.8
+33,8,1,None,Anxiety,None,Gestational Diabetes,37,4.16,16.0,Gestational Diabetes,11,3.74,13.0,Prenatal Nutrition,17,4.67,16.7
+25,12,3,None,None,None,High-Risk,9,3.38,12.7,General,33,3.13,19.8,General,39,3.17,6.5
+21,1,1,None,Anxiety,Vegan,Prenatal Mental Health,23,4.8,3.1,Prenatal Nutrition,24,4.24,8.6,Prenatal Nutrition,10,4.26,16.4
+25,20,2,None,None,None,Postpartum Mental Health,8,4.35,4.0,High-Risk,2,4.17,7.3,Prenatal Mental Health,12,4.01,18.5
+21,28,1,Diabetes,None,None,Prenatal Mental Health,32,4.27,9.3,Gestational Diabetes,30,3.56,12.9,Prenatal Mental Health,15,4.05,9.1
+41,37,0,None,Depression,None,High-Risk,14,3.2,8.5,Gestational Diabetes,17,4.82,16.7,Gestational Diabetes,31,4.85,7.9
+42,37,1,None,None,None,Prenatal Mental Health,27,4.21,15.1,Gestational Diabetes,34,3.61,18.8,Prenatal Mental Health,15,3.06,16.2
+20,12,0,Hypertension,Anxiety,Vegan,General,25,3.24,12.0,Prenatal Mental Health,38,3.9,16.3,High-Risk,28,4.55,11.1
+20,37,1,None,None,None,Prenatal Mental Health,13,3.16,8.4,Prenatal Nutrition,22,4.09,9.1,Gestational Diabetes,4,3.1,14.0
+44,28,3,Both,None,Gluten-Free,Prenatal Mental Health,21,4.05,4.2,Postpartum Mental Health,5,3.2,13.1,Prenatal Nutrition,36,3.08,12.8
+35,15,2,None,None,None,Postpartum Mental Health,31,3.81,5.3,Gestational Diabetes,16,4.86,17.3,Prenatal Nutrition,1,3.86,3.9
+43,6,0,None,None,Vegetarian,General,37,4.18,11.9,High-Risk,13,3.75,10.3,General,34,3.13,17.1
+36,20,1,None,None,None,General,5,3.18,9.0,Gestational Diabetes,26,3.16,5.1,Prenatal Mental Health,17,4.58,4.7
+36,14,1,None,None,Vegan,Prenatal Mental Health,13,3.86,10.8,Prenatal Nutrition,31,3.77,4.2,Prenatal Mental Health,39,4.06,18.7
+38,2,1,None,None,None,Gestational Diabetes,28,3.35,4.2,Postpartum Mental Health,39,4.2,1.0,Postpartum Mental Health,38,3.06,5.8
+22,9,3,Hypertension,None,None,Postpartum Mental Health,25,4.97,13.6,Prenatal Mental Health,23,4.03,14.6,Gestational Diabetes,33,3.08,14.9
+35,37,3,Both,Both,None,Prenatal Mental Health,35,4.12,17.2,General,12,4.39,3.1,Postpartum Mental Health,21,4.23,6.4
+27,20,0,None,Both,None,Prenatal Mental Health,39,4.37,5.9,High-Risk,14,3.11,5.6,Gestational Diabetes,26,4.61,7.0
+39,26,0,Hypertension,None,Vegan,High-Risk,7,3.65,10.3,General,18,3.57,6.7,High-Risk,36,3.88,6.9
+38,29,3,Hypertension,Anxiety,None,High-Risk,38,3.19,19.5,Prenatal Mental Health,27,4.64,11.6,Gestational Diabetes,5,4.11,15.2
+23,1,0,Diabetes,None,None,Gestational Diabetes,32,4.95,7.3,Prenatal Nutrition,28,3.16,8.6,Prenatal Nutrition,33,4.6,11.6
+18,35,2,None,None,Vegetarian,Postpartum Mental Health,3,3.57,12.3,Prenatal Nutrition,18,4.71,13.8,General,1,4.22,17.8
+22,6,2,None,Anxiety,None,Prenatal Nutrition,39,3.85,2.7,Prenatal Mental Health,16,3.18,2.1,Gestational Diabetes,6,3.45,6.8
+26,37,3,None,Depression,Gluten-Free,High-Risk,37,4.3,12.5,Gestational Diabetes,16,4.67,3.4,Gestational Diabetes,37,4.23,14.1
+29,5,0,Hypertension,None,Vegetarian,Prenatal Nutrition,22,3.05,2.7,Prenatal Mental Health,13,3.72,10.5,Gestational Diabetes,2,4.26,15.3
+43,33,1,Diabetes,Anxiety,None,General,8,4.62,19.2,High-Risk,29,4.22,7.4,General,5,4.47,3.9
+31,14,2,None,None,Vegan,High-Risk,17,4.07,14.6,Postpartum Mental Health,9,3.31,6.6,Prenatal Mental Health,26,4.24,8.6
+19,12,3,None,Both,None,High-Risk,27,3.56,16.0,General,26,3.13,2.3,General,13,4.94,10.2
+34,20,0,Diabetes,None,None,Postpartum Mental Health,33,3.12,14.4,General,28,3.43,18.0,Prenatal Mental Health,12,3.39,7.8
+31,24,3,Diabetes,None,None,Gestational Diabetes,17,3.32,12.2,Prenatal Nutrition,13,3.26,14.1,Prenatal Nutrition,5,4.9,7.1
+43,34,1,Both,None,None,Prenatal Nutrition,12,4.79,9.5,Gestational Diabetes,36,3.62,3.3,General,2,4.08,14.0
+30,25,2,Diabetes,None,Vegetarian,High-Risk,27,4.37,17.3,Prenatal Nutrition,9,4.03,2.2,Prenatal Mental Health,4,4.34,5.1
+44,29,3,None,None,Vegan,High-Risk,8,3.5,19.2,High-Risk,14,4.18,19.5,Prenatal Nutrition,27,3.2,14.5
+26,39,3,Hypertension,Depression,None,Postpartum Mental Health,23,3.13,10.5,Prenatal Mental Health,12,4.58,13.9,Prenatal Nutrition,10,3.76,18.8
+43,31,3,Hypertension,None,None,Postpartum Mental Health,29,4.38,18.7,General,32,4.31,8.9,Prenatal Mental Health,13,4.54,11.7
+42,23,1,None,None,Gluten-Free,Gestational Diabetes,20,4.14,12.1,High-Risk,38,4.22,14.3,Prenatal Mental Health,2,4.41,12.6
+32,38,3,Hypertension,None,None,Prenatal Nutrition,16,3.81,11.2,Prenatal Nutrition,3,3.82,15.4,High-Risk,26,3.08,2.3

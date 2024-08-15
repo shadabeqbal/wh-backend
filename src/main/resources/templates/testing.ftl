@@ -12,7 +12,7 @@
             <table align='center' border='0' cellpadding='0' cellspacing='0' width='300' style='border: 1px solid #cccccc; border-collapse: collapse;'>
                 <tr>
                     <td bgcolor='' style='color: #153643; font-size: 28px; font-weight: bold; font-family: sans-serif;'>
-                        <a href='https://Prompthelp.in'><img style='width:370px;' src='https://prompthelp.in/assets/img/prompthelp-email-header.png' alt='' style='display: block;' /></a>
+                        <a href='https://womenshealth.in'><img style='width:370px;' src='https://womenshealth.in/assets/img/womenshealth-email-header.png' alt='' style='display: block;' /></a>
                     </td>
                 </tr>
                 <tr>
@@ -20,12 +20,12 @@
                         <table border='0' cellpadding='0' cellspacing='0' width='100%'>
                             <tr>
                                 <td style='color: #153643; font-family: sans-serif; font-size: 24px;'>
-                                    <b>Hi ${userRegisterInput.name},</b>
+                                    <b>Hi ${userRegisterInput.email},</b>
                                 </td>
                             </tr>
                             <tr>
                                 <td style='padding: 20px 0 30px 0; color: #153643; font-family: sans-serif; font-size: 14px; line-height: 20px;'>
-                                    Thank you for registering at prompthelp, great to have you!</td>
+                                    Thank you for registering at womens health, great to have you!</td>
                             </tr>
 
                             <tr>
@@ -37,34 +37,34 @@
 
                             <tr>
                                 <td style='color: #153643; font-family: Sans-serif, sans-serif;'>
-                                    <p style='text-align:center'><a style='background-color:#EB7035;border:1px solid #EB7035;border-radius:3px;color:#ffffff;display:inline-block;font-family:sans-serif;font-size:16px;line-height:44px;text-align:center;text-decoration:none;width:150px;-webkit-text-size-adjust:none;mso-hide:all;' target='_blank' href='https://prompthelp.in/email_verify.php?name=${userRegisterInput.name}&email=${userRegisterInput.email}&token=${userRegisterInput.password}'>Verify</a></p><br>
+                                    <p style='text-align:center'><a style='background-color:#EB7035;border:1px solid #EB7035;border-radius:3px;color:#ffffff;display:inline-block;font-family:sans-serif;font-size:16px;line-height:44px;text-align:center;text-decoration:none;width:150px;-webkit-text-size-adjust:none;mso-hide:all;' target='_blank' href='https://womenshealth.in/email_verify.php?email=${userRegisterInput.email}&token=${userRegisterInput.password}'>Verify</a></p><br>
                                 </td>
                             </tr>
 
                             <tr>
                                 <td style='color: #153643; font-family: sans-serif; font-size: 14px; line-height: 20px;'>
-                                    <p>For any queries contact us at <a href='https://prompthelp.in/contact.php'><strong>contact@prompthelp.in</strong></a></p><br>
+                                    <p>For any queries contact us at <a href='https://womenshealth.in/contact.php'><strong>contact@womenshealth.in</strong></a></p><br>
                                 </td>
                             </tr>
 
                             <tr>
                                 <td style='color: #153643; font-family: sans-serif; font-size: 14px; line-height: 20px;'>
-                                    <p>Regards<br />Team Prompthelp<br /></p>
+                                    <p>Regards<br />Team womenshealth<br /></p>
                                 </td>
                             </tr>
 
                             <tr>
                                 <td style='color: #153643; font-family: sans-serif; font-size: 14px; line-height: 20px;'>
-                                    <p>Visit us at <a href='https://www.prompthelp.in'>www.prompthelp.in</a><br /></p>
+                                    <p>Visit us at <a href='https://www.womenshealth.in'>www.womenshealth.in</a><br /></p>
                                 </td>
                             </tr>
                             <br>
 
                             <tr>
                                 <td style='color: #153643; font-family: sans-serif; font-size: 14px; line-height: 20px;'>
-                                    <a href='https://www.facebook.com/prompthelpin-111767187349298/'><img src='https://prompthelp.in/assets/img/facebook_logo.png' /></a>
-                                    <a href='https://www.twitter.com/prompthelp'><img src='https://prompthelp.in/assets/img/twitter_logo.png' /></a>
-                                    <a href='https://www.instagram.com/prompthelp.in'><img src='https://prompthelp.in/assets/img/instagram_logo.png' /></a>
+                                    <a href='https://www.facebook.com/womenshealthin-111767187349298/'><img src='https://womenshealth.in/assets/img/facebook_logo.png' /></a>
+                                    <a href='https://www.twitter.com/womenshealth'><img src='https://womenshealth.in/assets/img/twitter_logo.png' /></a>
+                                    <a href='https://www.instagram.com/womenshealth.in'><img src='https://womenshealth.in/assets/img/instagram_logo.png' /></a>
                                 </td>
 
                             </tr>
@@ -78,7 +78,7 @@
                         <table border='0' cellpadding='0' cellspacing='0' width='300'>
                             <tr>
                                 <td bgcolor='' style='color: #153643; font-size: 28px; font-weight: bold; font-family: sans-serif;'>
-                                    <a href='https://prompthelp.in'><img style='width:370px;' src='https://prompthelp.in/assets/img/prompthelp-email-footer.png' alt='Prompthelp' style='display: block;' /></a>
+                                    <a href='https://womenshealth.in'><img style='width:370px;' src='https://womenshealth.in/assets/img/womenshealth-email-footer.png' alt='womenshealth' style='display: block;' /></a>
                                 </td>
                             </tr>
                         </table>

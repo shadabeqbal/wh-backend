@@ -8,6 +8,7 @@ import com.example.wh_backend.models.request.UserRegisterInput;
 import com.example.wh_backend.models.response.GlobalResponse;
 import com.example.wh_backend.models.response.RegisterResponse;
 import com.example.wh_backend.repository.UserRepository;
+import com.example.wh_backend.utils.AccountStatus;
 import com.example.wh_backend.utils.AccountType;
 import com.example.wh_backend.utils.CommonUtils;
 import com.example.wh_backend.utils.ErrorCodes;
@@ -47,20 +48,17 @@ public class UserService {
                 return new GlobalResponse(false, ErrorCodes.ALLOWED_EMAIL_DOMAIN_NOT_EXIST,HttpStatus.SC_OK,"Allowed Email Domains are: "+String.join(", ",commonConfiguration.getAllowedEmailDomains()));
 
             String hashPassword = commonUtils.encryptPassword(userRegisterInput.getPassword());
-            String key = commonUtils.generateKey(userRegisterInput.getName(), AccountType.CLIENT);
+            String key = commonUtils.generateKey(userRegisterInput.getEmail().split("@")[0], AccountType.USER);
             String currentDateTime = new SimpleDateFormat("yyyy-MM-dd HH:mm").format(new Date());
             Boolean emailExists = commonUtils.checkUserEmailExists(userRegisterInput.getEmail());
-            Boolean mobileExists = commonUtils.checkUserMobileExists(userRegisterInput.getMobile());
-            if(mobileExists){
-                globalResponse = new GlobalResponse(false,ErrorCodes.MOBILE_EXISTS,HttpStatus.SC_OK,null);
-                return globalResponse;
-            }
+
             if(!emailExists) {
-                User userTable = new User(key, userRegisterInput.getName(), userRegisterInput.getEmail(), userRegisterInput.getMobile(), hashPassword, AccountType.CLIENT, currentDateTime, currentDateTime);
+                User userTable = new User(key, userRegisterInput.getEmail().split("@")[0], userRegisterInput.getEmail(), false, null, false,AccountType.USER, false, AccountStatus.INACTIVE, false, currentDateTime, hashPassword, currentDateTime);
                 userRepository.save(userTable);
                 RegisterResponse registerResponse = new RegisterResponse();
                 registerResponse.setName(userTable.getName());
                 registerResponse.setEmail(userTable.getEmail());
+                userRegisterInput.setPassword(hashPassword);
                 emailService.sendEmailOnUserRegistration(userRegisterInput);
                 globalResponse = new GlobalResponse(true, null, HttpStatus.SC_OK, registerResponse);
             }else{

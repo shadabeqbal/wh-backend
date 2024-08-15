@@ -3,10 +3,7 @@ package com.example.wh_backend.domain;
 
 import com.example.wh_backend.utils.AccountStatus;
 import com.example.wh_backend.utils.AccountType;
-import jakarta.persistence.Column;
-import jakarta.persistence.Entity;
-import jakarta.persistence.Id;
-import jakarta.persistence.Table;
+import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
@@ -38,12 +35,14 @@ public class User {
     private Boolean mobileVerified;
 
     @Column(name = "account_type")
+    @Enumerated(EnumType.STRING)
     private AccountType accountType;
 
     @Column(name = "account_active")
     private Boolean accountActive;
 
     @Column(name = "account_status")
+    @Enumerated(EnumType.STRING)
     private AccountStatus accountStatus;
 
     @Column(name = "account_deleted")

@@ -22,7 +22,7 @@ public class EmailTemplate {
         freeMarkerConfig.setClassForTemplateLoading(this.getClass(), "/templates");
         Template t;
         Model model = new BindingAwareModelMap();
-        model.addAttribute("clientRegisterInput", userRegisterInput);
+        model.addAttribute("userRegisterInput", userRegisterInput);
 
         t = freeMarkerConfig.getTemplate("testing.ftl");
 

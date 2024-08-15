@@ -1,5 +1,6 @@
 package com.example.wh_backend.models.request;
 
+import com.example.wh_backend.utils.AccountType;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
@@ -9,9 +10,7 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 public class UserRegisterInput {
 
-    private String name;
     private String email;
-    private String mobile;
     private String password;
-
+    private AccountType accountType;
 }

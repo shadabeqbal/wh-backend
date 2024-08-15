@@ -22,8 +22,8 @@ public class EmailService {
 
     public void sendEmailOnUserRegistration(UserRegisterInput userRegisterInput) throws Exception {
         String to = userRegisterInput.getEmail();
-        String from = "shadabeqbal2008@gmail.com"; //emailConfiguration.getAdminEmail();
-        String subject = "Email Testing "+ userRegisterInput.getName();
+        String from = emailConfiguration.getAdminEmail();
+        String subject = "Email Testing "+ userRegisterInput.getEmail();
 
         MimeMessage message = mailSender.createMimeMessage();
         MimeMessageHelper helper = new MimeMessageHelper(message);

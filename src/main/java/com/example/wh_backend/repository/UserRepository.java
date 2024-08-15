@@ -13,4 +13,7 @@ public interface UserRepository extends JpaRepository<User,String> {
 
     @Query("from User c where c.mobile = :mobile")
     User userMobileExists(String mobile);
+
+    @Query("from User c where c.email = :email")
+    User getUserByEmail(String email);
 }

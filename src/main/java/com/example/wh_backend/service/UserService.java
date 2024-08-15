@@ -4,6 +4,7 @@ package com.example.wh_backend.service;
 import com.example.wh_backend.config.CommonConfiguration;
 import com.example.wh_backend.domain.User;
 import com.example.wh_backend.email.EmailService;
+import com.example.wh_backend.models.request.UserLoginInput;
 import com.example.wh_backend.models.request.UserRegisterInput;
 import com.example.wh_backend.models.response.GlobalResponse;
 import com.example.wh_backend.models.response.RegisterResponse;
@@ -53,7 +54,7 @@ public class UserService {
             Boolean emailExists = commonUtils.checkUserEmailExists(userRegisterInput.getEmail());
 
             if(!emailExists) {
-                User userTable = new User(key, userRegisterInput.getEmail().split("@")[0], userRegisterInput.getEmail(), false, null, false,AccountType.USER, false, AccountStatus.INACTIVE, false, currentDateTime, hashPassword, currentDateTime);
+                User userTable = new User(key, userRegisterInput.getName(), userRegisterInput.getEmail(), false, null, false,userRegisterInput.getAccountType(), false, AccountStatus.INACTIVE, false, currentDateTime, hashPassword, currentDateTime);
                 userRepository.save(userTable);
                 RegisterResponse registerResponse = new RegisterResponse();
                 registerResponse.setName(userTable.getName());
@@ -66,7 +67,42 @@ public class UserService {
             }
         }catch(Exception e){
             exceptionLogger.error("There is some error registering user"+e.getLocalizedMessage());
-            globalResponse = new GlobalResponse(false, ErrorCodes.ACCOUNT_REGISTRATION_ERROR, HttpStatus.SC_OK,e.getMessage());
+            globalResponse = new GlobalResponse(false, ErrorCodes.ACCOUNT_REGISTRATION_ERROR, HttpStatus.SC_INTERNAL_SERVER_ERROR,e.getMessage());
+        }
+
+        return globalResponse;
+    }
+
+    public GlobalResponse loginUser(UserLoginInput userLoginInput){
+        GlobalResponse globalResponse;
+        try{
+            Boolean emailValid = commonUtils.EmailFilter(userLoginInput.getEmail());
+            if(!emailValid)
+                return new GlobalResponse(false, ErrorCodes.ALLOWED_EMAIL_DOMAIN_NOT_EXIST,HttpStatus.SC_OK,"Allowed Email Domains are: "+String.join(", ",commonConfiguration.getAllowedEmailDomains()));
+
+            String hashPassword = commonUtils.encryptPassword(userLoginInput.getPassword());
+            String key = commonUtils.generateKey(userLoginInput.getEmail().split("@")[0], userLoginInput.getAccountType());
+            String currentDateTime = new SimpleDateFormat("yyyy-MM-dd HH:mm").format(new Date());
+            Boolean emailExists = commonUtils.checkUserEmailExists(userLoginInput.getEmail());
+
+            if(emailExists) {
+                User user = commonUtils.checkUserPassword(userLoginInput.getEmail(), hashPassword);
+
+                if(user != null) {
+                    String token = commonUtils.createJwt(userLoginInput.getEmail(), key);
+
+                    user.setLastUpdatedAt(currentDateTime);
+                    userRepository.save(user);
+                    globalResponse = new GlobalResponse(true, null, HttpStatus.SC_OK, token);
+                }else {
+                    globalResponse = new GlobalResponse(false, ErrorCodes.INVALID_PASSWORD, HttpStatus.SC_OK, null);
+                }
+            }else{
+                globalResponse = new GlobalResponse(false,ErrorCodes.EMAIL_NOT_EXISTS,HttpStatus.SC_OK,null);
+            }
+        }catch(Exception e){
+            exceptionLogger.error("There is some error registering user"+e.getLocalizedMessage());
+            globalResponse = new GlobalResponse(false, ErrorCodes.ACCOUNT_LOGIN_ERROR, HttpStatus.SC_INTERNAL_SERVER_ERROR,e.getMessage());
         }
 
         return globalResponse;

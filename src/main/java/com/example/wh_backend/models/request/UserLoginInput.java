@@ -8,8 +8,7 @@ import lombok.NoArgsConstructor;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-public class UserRegisterInput {
-    private String name;
+public class UserLoginInput {
     private String email;
     private String password;
     private AccountType accountType;

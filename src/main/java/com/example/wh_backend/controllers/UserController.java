@@ -1,6 +1,7 @@
 package com.example.wh_backend.controllers;
 
 
+import com.example.wh_backend.models.request.UserLoginInput;
 import com.example.wh_backend.models.request.UserRegisterInput;
 import com.example.wh_backend.models.response.GlobalResponse;
 import com.example.wh_backend.service.UserService;
@@ -23,6 +24,12 @@ public class UserController {
     @RequestMapping(method = RequestMethod.POST,value = "/register")
     public ResponseEntity<?> registerUser(@RequestBody UserRegisterInput userRegisterInput) {
         GlobalResponse globalResponse = userService.registerUser(userRegisterInput);
+        return ResponseEntity.status(globalResponse.getStatusCode()).body(globalResponse);
+    }
+
+    @RequestMapping(method = RequestMethod.POST,value = "/login")
+    public ResponseEntity<?> registerUser(@RequestBody UserLoginInput userLoginInput) {
+        GlobalResponse globalResponse = userService.loginUser(userLoginInput);
         return ResponseEntity.status(globalResponse.getStatusCode()).body(globalResponse);
     }
 }

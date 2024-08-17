@@ -1,9 +1,9 @@
 package com.example.wh_backend.utils;
 
 import com.example.wh_backend.config.CommonConfiguration;
-import com.example.wh_backend.domain.User;
-import com.example.wh_backend.repository.PhysicianRepository;
-import com.example.wh_backend.repository.UserRepository;
+import com.example.wh_backend.domain.AllUsers;
+import com.example.wh_backend.repository.AllUserRepository;
+import com.example.wh_backend.repository.PsychologistProfileRepository;
 import com.google.common.hash.Hashing;
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.SignatureAlgorithm;
@@ -23,10 +23,10 @@ import java.util.Random;
 public class CommonUtils {
 
     @Autowired
-    private UserRepository userRepository;
+    private AllUserRepository allUserRepository;
 
     @Autowired
-    private PhysicianRepository physicianRepository;
+    private PsychologistProfileRepository psychologistProfileRepository;
 
     @Autowired
     private CommonConfiguration commonConfiguration;
@@ -46,19 +46,18 @@ public class CommonUtils {
         return accountType.toString()+"__"+tempName[0]+"__"+randomNum;
     }
 
-    public Boolean checkUserEmailExists(String email){
+    public AllUsers checkUserEmailExists(String email){
         try{
-            User userDetails = userRepository.userEmailExists(email);
-            return userDetails != null;
+            return allUserRepository.userEmailExists(email);
         }catch (Exception e){
             exceptionLogger.error("Unable to fetch details of user, exception occurred!");
-            return false;
+            return null;
         }
     }
 
-    public User checkUserPassword(String email, String inputHashPassword){
+    public AllUsers checkUserPassword(String email){
         try{
-            return userRepository.getUserByEmail(email);
+            return allUserRepository.userEmailExists(email);
         }catch (Exception e){
             exceptionLogger.error("Unable to fetch details of user, exception occurred!");
             return null;
@@ -81,16 +80,6 @@ public class CommonUtils {
                 .setExpiration(new Date(System.currentTimeMillis() + 864_000_00)) // 1 day
                 .signWith(signingKey,SignatureAlgorithm.HS256)
                 .compact();
-    }
-
-    public Boolean checkUserMobileExists(String mobile){
-        try{
-            User userDetails = userRepository.userMobileExists(mobile);
-            return userDetails != null;
-        }catch (Exception e){
-            exceptionLogger.error("Unable to fetch details of user, exception occurred!");
-            return false;
-        }
     }
 
     public Boolean EmailFilter(String email){

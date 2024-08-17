@@ -9,7 +9,6 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 @NoArgsConstructor
 public class UserRegisterInput {
-    private String name;
     private String email;
     private String password;
     private AccountType accountType;

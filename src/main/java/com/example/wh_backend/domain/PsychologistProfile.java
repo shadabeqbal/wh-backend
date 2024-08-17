@@ -8,26 +8,29 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 import java.util.Set;
+import java.util.UUID;
 
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
 @Entity
-@Table(name = "physician")
-public class Psychologist {
+@Table(name = "psychologist_profile")
+public class PsychologistProfile {
 
     @Id
-    @Column(name = "id")
-    private String id;
+    @GeneratedValue(generator = "UUID")
+    @Column(name = "id", updatable = false, nullable = false)
+    private UUID id;
 
-    @Column(name = "name")
-    private String name;
+    @OneToOne
+    @JoinColumn(name = "ref_id", referencedColumnName = "id")
+    private AllUsers refId;
 
-    @Column(name = "email")
-    private String email;
+    @Column(name = "first_name")
+    private String firstName;
 
-    @Column(name = "email_verified")
-    private Boolean emailVerified;
+    @Column(name = "last_name")
+    private String lastName;
 
     @Column(name = "mobile")
     private String mobile;
@@ -41,6 +44,12 @@ public class Psychologist {
     @Column(name = "education")
     private String education;
 
+    @Column(name = "address")
+    private String address;
+
+    @Column(name = "pincode")
+    private Integer pincode;
+
     @Column(name = "experience")
     private String experience;
 
@@ -51,23 +60,11 @@ public class Psychologist {
     @Column(name = "job_title")
     private String jobTitle;
 
-    @Column(name = "password")
-    private String password;
-
     @Column(name = "profile_photo")
     private String profilePhoto;
 
     @Column(name = "resume")
     private String resume;
-
-    @Column(name = "account_type")
-    private String accountType;
-
-    @Column(name = "account_active")
-    private Boolean accountActive;
-
-    @Column(name = "date_created")
-    private String dateCreated;
 
     @Column(name = "language_known")
     @Convert(converter = StringListConverter.class)
@@ -84,7 +81,7 @@ public class Psychologist {
     @Convert(converter = StringListConverter.class)
     private Set<String> counsellingMethods;
 
-    @Column(name = "last_updated_at")
-    private String lastUpdatedAt;
+    @Column(name = "profile_last_updated_at")
+    private String profileLastUpdatedAt;
 
 }

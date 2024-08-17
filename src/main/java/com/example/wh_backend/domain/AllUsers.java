@@ -12,27 +12,18 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @AllArgsConstructor
 @Entity
-@Table(name = "user")
-public class User {
+@Table(name = "all_users")
+public class AllUsers {
 
     @Id
     @Column(name = "id")
     private String id;
-
-    @Column(name = "name")
-    private String name;
 
     @Column(name = "email")
     private String email;
 
     @Column(name = "email_verified")
     private Boolean emailVerified;
-
-    @Column(name = "mobile")
-    private String mobile;
-
-    @Column(name = "mobile_verified")
-    private Boolean mobileVerified;
 
     @Column(name = "account_type")
     @Enumerated(EnumType.STRING)
@@ -57,12 +48,10 @@ public class User {
     @Column(name = "last_updated_at")
     private String lastUpdatedAt;
 
-    public User(String cid, String name, String email, String mobile, String password, AccountType accountType, String dateCreated, String lastUpdatedAt){
+    public AllUsers(String cid, String email, String password, AccountType accountType, String dateCreated, String lastUpdatedAt){
         this.id = cid;
-        this.name = name;
         this.email = email;
         this.password = password;
-        this.mobile = mobile;
         this.accountType = accountType;
         this.accountStatus = AccountStatus.INACTIVE;
         this.dateCreated = dateCreated;

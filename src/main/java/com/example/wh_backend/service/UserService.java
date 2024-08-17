@@ -2,15 +2,14 @@ package com.example.wh_backend.service;
 
 
 import com.example.wh_backend.config.CommonConfiguration;
-import com.example.wh_backend.domain.User;
+import com.example.wh_backend.domain.AllUsers;
 import com.example.wh_backend.email.EmailService;
 import com.example.wh_backend.models.request.UserLoginInput;
 import com.example.wh_backend.models.request.UserRegisterInput;
 import com.example.wh_backend.models.response.GlobalResponse;
 import com.example.wh_backend.models.response.RegisterResponse;
-import com.example.wh_backend.repository.UserRepository;
+import com.example.wh_backend.repository.AllUserRepository;
 import com.example.wh_backend.utils.AccountStatus;
-import com.example.wh_backend.utils.AccountType;
 import com.example.wh_backend.utils.CommonUtils;
 import com.example.wh_backend.utils.ErrorCodes;
 import org.apache.http.HttpStatus;
@@ -26,7 +25,7 @@ import java.util.Date;
 public class UserService {
 
     @Autowired
-    private UserRepository userRepository;
+    private AllUserRepository allUserRepository;
 
     @Autowired
     private EmailService emailService;
@@ -46,19 +45,18 @@ public class UserService {
         try{
             Boolean emailValid = commonUtils.EmailFilter(userRegisterInput.getEmail());
             if(!emailValid)
-                return new GlobalResponse(false, ErrorCodes.ALLOWED_EMAIL_DOMAIN_NOT_EXIST,HttpStatus.SC_OK,"Allowed Email Domains are: "+String.join(", ",commonConfiguration.getAllowedEmailDomains()));
+                return new GlobalResponse(false, ErrorCodes.INVALID_EMAIL,HttpStatus.SC_OK,"Allowed Email Domains are: "+String.join(", ",commonConfiguration.getAllowedEmailDomains()));
 
             String hashPassword = commonUtils.encryptPassword(userRegisterInput.getPassword());
-            String key = commonUtils.generateKey(userRegisterInput.getEmail().split("@")[0], AccountType.USER);
+            String key = commonUtils.generateKey(userRegisterInput.getEmail().split("@")[0], userRegisterInput.getAccountType());
             String currentDateTime = new SimpleDateFormat("yyyy-MM-dd HH:mm").format(new Date());
-            Boolean emailExists = commonUtils.checkUserEmailExists(userRegisterInput.getEmail());
+            AllUsers user = commonUtils.checkUserEmailExists(userRegisterInput.getEmail());
 
-            if(!emailExists) {
-                User userTable = new User(key, userRegisterInput.getName(), userRegisterInput.getEmail(), false, null, false,userRegisterInput.getAccountType(), false, AccountStatus.INACTIVE, false, currentDateTime, hashPassword, currentDateTime);
-                userRepository.save(userTable);
+            if(user == null) {
+                AllUsers allUsersTable = new AllUsers(key,userRegisterInput.getEmail(), false, userRegisterInput.getAccountType(), false, AccountStatus.INACTIVE, false, currentDateTime, hashPassword, currentDateTime);
+                allUserRepository.save(allUsersTable);
                 RegisterResponse registerResponse = new RegisterResponse();
-                registerResponse.setName(userTable.getName());
-                registerResponse.setEmail(userTable.getEmail());
+                registerResponse.setEmail(allUsersTable.getEmail());
                 userRegisterInput.setPassword(hashPassword);
                 emailService.sendEmailOnUserRegistration(userRegisterInput);
                 globalResponse = new GlobalResponse(true, null, HttpStatus.SC_OK, registerResponse);
@@ -78,21 +76,25 @@ public class UserService {
         try{
             Boolean emailValid = commonUtils.EmailFilter(userLoginInput.getEmail());
             if(!emailValid)
-                return new GlobalResponse(false, ErrorCodes.ALLOWED_EMAIL_DOMAIN_NOT_EXIST,HttpStatus.SC_OK,"Allowed Email Domains are: "+String.join(", ",commonConfiguration.getAllowedEmailDomains()));
+                return new GlobalResponse(false, ErrorCodes.INVALID_EMAIL,HttpStatus.SC_OK,"Allowed Email Domains are: "+String.join(", ",commonConfiguration.getAllowedEmailDomains()));
 
+            AllUsers user = commonUtils.checkUserEmailExists(userLoginInput.getEmail());
+            if(user == null){
+                return new GlobalResponse(false, ErrorCodes.EMAIL_NOT_EXISTS, HttpStatus.SC_OK, null);
+            }
             String hashPassword = commonUtils.encryptPassword(userLoginInput.getPassword());
             String key = commonUtils.generateKey(userLoginInput.getEmail().split("@")[0], userLoginInput.getAccountType());
             String currentDateTime = new SimpleDateFormat("yyyy-MM-dd HH:mm").format(new Date());
-            Boolean emailExists = commonUtils.checkUserEmailExists(userLoginInput.getEmail());
 
-            if(emailExists) {
-                User user = commonUtils.checkUserPassword(userLoginInput.getEmail(), hashPassword);
 
-                if(user != null) {
+            if(user != null) {
+                AllUsers allUsers = commonUtils.checkUserPassword(userLoginInput.getEmail());
+
+                if(allUsers != null) {
                     String token = commonUtils.createJwt(userLoginInput.getEmail(), key);
 
-                    user.setLastUpdatedAt(currentDateTime);
-                    userRepository.save(user);
+                    allUsers.setLastUpdatedAt(currentDateTime);
+                    allUserRepository.save(allUsers);
                     globalResponse = new GlobalResponse(true, null, HttpStatus.SC_OK, token);
                 }else {
                     globalResponse = new GlobalResponse(false, ErrorCodes.INVALID_PASSWORD, HttpStatus.SC_OK, null);
